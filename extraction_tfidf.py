@@ -73,4 +73,4 @@ for index, row in df.iterrows():
   result.append(r)
 
 final = pd.DataFrame(result)
-final.to_csv('extraction_tfidf.out.csv')
+final.to_csv('extraction_tfidf.out.csv', index=False)
