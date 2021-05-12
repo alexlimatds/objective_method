@@ -62,7 +62,7 @@ vectorizer = CountVectorizer(
 vectorizer.fit_transform(text)
 feature_names = vectorizer.get_feature_names()
 
-# Adding the prevailing words in each paper
+# Adding the prevailing terms in each paper
 df['text'] = text
 result = []
 for index, row in df.iterrows():
@@ -71,9 +71,11 @@ for index, row in df.iterrows():
   r['keywords'] = get_keywords(vectorizer, feature_names, row['text'])
   result.append(r)
 
-# Adding the prevailing word for all the papers
+# Adding the prevailing terms for all the papers
+r = {}
 r['doi'] = 'all papers'
 r['keywords'] = get_keywords(vectorizer, feature_names, text.str.cat(sep=' '))
+result.append(r)
 
 final = pd.DataFrame(result)
 final.to_csv('extraction_word-frequency.out.csv', index=False)
