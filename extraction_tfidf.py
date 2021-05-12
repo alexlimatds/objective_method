@@ -81,7 +81,6 @@ key_count = {}
 for r in result:
   for k in r['keywords']:
     key_count[k] = key_count.get(k, 0) + 1
-print(key_count)
 r = {}
 r['doi'] = 'all papers'
 r['keywords'] = sorted(key_count.items(), key=lambda item: item[1], reverse=True)[:TOP_K_KEYWORDS]
