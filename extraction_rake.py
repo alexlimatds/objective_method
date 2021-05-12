@@ -16,7 +16,7 @@ text = preprocessing.preprocess(df['abstract'])
 # Utilizing RAKE to get the keywords for each paper
 rake = Rake(          # By default, it utilizes NLTK stop words
   punctuations = '',  # As the punctuation are removed in the preprocessing
-  max_length = 3)     # from 1-gram to 3-grams keywrods
+  max_length = 3)     # from 1-gram to 3-grams keywords
 
 df['text'] = text
 result = []
@@ -27,7 +27,7 @@ for index, row in df.iterrows():
   r['keywords'] = rake.get_ranked_phrases()[:TOP_K_KEYWORDS]
   result.append(r)
 
-# Applyng rake to all the papers together
+# Applyng rake to the union of text from all the papers
 r = {}
 r['doi'] = 'all papers'
 rake.extract_keywords_from_text(text.str.cat(sep=' '))
