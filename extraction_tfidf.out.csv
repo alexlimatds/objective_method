@@ -9,3 +9,4 @@ doi,keywords
 10.1109/ICSSIT48917.2020.9214278,"['india', 'judicial', 'bailable', 'nlp', 'cnn', 'case', 'law', 'data', 'text', 'work data taken']"
 10.1109/ICDMW51313.2020.00116,"['supreme court', 'supreme', 'supreme court database', 'supervised', 'semi supervised', 'semi', 'issue areas', 'issue', 'database', 'court database']"
 10.1109/NICS51282.2020.9335906,"['vietnamese legal', 'vietnamese', 'question', 'bert', 'model', 'achieve', 'vietnamese legal domain', 'solutions', 'question answering systems', 'pre']"
+all papers,"[('lstm', 3), ('legal', 2), ('vietnamese', 2), ('methods', 2), ('data', 2), ('classification', 1), ('ontology', 1), ('graph lstm', 1), ('chinese', 1), ('domain', 1)]"

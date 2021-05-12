@@ -15,7 +15,6 @@ def sort_coo(coo_matrix):
 
 def extract_topn_from_vector(feature_names, sorted_items, topn=10):
   """get the feature names and tf-idf score of top n items"""
-
   #use only topn items from vector
   sorted_items = sorted_items[:topn]
 
@@ -24,28 +23,32 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
 
   # word index and corresponding tf-idf score
   for idx, score in sorted_items:
-
-      #keep track of feature name and its corresponding score
-      score_vals.append(round(score, 3))
-      feature_vals.append(feature_names[idx])
+    #keep track of feature name and its corresponding score
+    score_vals.append(round(score, 3))
+    feature_vals.append(feature_names[idx])
 
   #create a tuples of feature, score
   results= {}
   for idx in range(len(feature_vals)):
-      results[feature_vals[idx]]=score_vals[idx]
-
+    results[feature_vals[idx]] = score_vals[idx]
+  
   return results
 
 def get_keywords(vectorizer, feature_names, doc):
-  """Return top k keywords from a doc using TF-IDF method"""
+  """
+  Return top k keywords from a doc using TF-IDF method
+    vectorizer    - the model able to convert the input string (doc) to a feature vector.
+    feature_names - 
+    doc           - the input string to be converted into a feature vector.
+  """
   #generate tf-idf for the given document
   tf_idf_vector = vectorizer.transform([doc])
   
   #sort the tf-idf vectors by descending order of scores
-  sorted_items=sort_coo(tf_idf_vector.tocoo())
+  sorted_items = sort_coo(tf_idf_vector.tocoo())
   
   #extract only TOP_K_KEYWORDS
-  keywords=extract_topn_from_vector(feature_names,sorted_items,TOP_K_KEYWORDS)
+  keywords = extract_topn_from_vector(feature_names, sorted_items, TOP_K_KEYWORDS)
   
   return list(keywords.keys())
 
@@ -56,6 +59,7 @@ df = pd.read_csv('abstracts.csv')
 
 text = preprocessing.preprocess(df['abstract'])
 
+# Utilizing TF-IDF to get the keywords for each paper
 vectorizer = TfidfVectorizer(
   stop_words=stopwords.words('english'), 
   smooth_idf=True, 
@@ -71,6 +75,17 @@ for index, row in df.iterrows():
   r['doi'] = row['doi']
   r['keywords'] = get_keywords(vectorizer, feature_names, row['text'])
   result.append(r)
+  
+# Utilizing word frequency to get the prevailing keywords among all the papers
+key_count = {}
+for r in result:
+  for k in r['keywords']:
+    key_count[k] = key_count.get(k, 0) + 1
+print(key_count)
+r = {}
+r['doi'] = 'all papers'
+r['keywords'] = sorted(key_count.items(), key=lambda item: item[1], reverse=True)[:TOP_K_KEYWORDS]
+result.append(r)
 
 final = pd.DataFrame(result)
 final.to_csv('extraction_tfidf.out.csv', index=False)
