@@ -5,11 +5,9 @@ import seaborn as sns
 rcParams.update({'figure.autolayout': True})
 sns.set_style('white')
 
-out_str = ''
+df = pd.read_csv('seed_set.csv')
 
 ### Author keywords' analysis
-
-df = pd.read_csv('seed_set.csv')
 
 # keywords' histogram
 k_hist = {}
@@ -23,9 +21,12 @@ df2 = pd.DataFrame({'keyword': k_hist.keys(), 'frequency': k_hist.values()}).sor
 ax = df2.plot(
   kind='barh', 
   x='keyword', 
-  y='frequency',
+  y='frequency', 
+  legend=False, 
 	figsize=(7, 12));
 ax.set_ylabel('Author Keywords')
 ax.set_xlabel('Frequency')
+plt.gcf().text(0, 0, f'There are {len(k_hist.keys())} keywords')
 plt.savefig('seed_set_analysis-author_keywords.pdf', bbox_inches='tight')
 
+# TODO: histogram of number of words in the abstracts
