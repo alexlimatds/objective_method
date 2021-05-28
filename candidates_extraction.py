@@ -25,7 +25,17 @@ class PosTagExtractor:
 
   def extract(self, text):
     """
-    Performs the extraction of candidate terms from a given text.
+    Performs the extraction of candidate terms from a given text. All of the candidate terms 
+    are converted to lower case and the nouns are reduced to their inflexed form (lemma).
+    
+    Parameters
+    ----------
+    text : string
+      The text from which the canidate terms will be extracted.
+      
+    Returns
+    -------
+    A python list whose each element is a candidate term.
     """
     doc = self.nlp(text)
     matches = self.matcher(doc)

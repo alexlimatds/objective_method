@@ -1,16 +1,19 @@
 """
 This module comprises the code related to the transformation of string tokens into 
-word vectors.
+embedding vectors.
 """
 import torch
 from transformers import AutoModel, AutoTokenizer
 from scipy.spatial.distance import cosine
+import numpy as np
 
 class BertVectorizer:
   """
   An instance of this class utilizes a BERT model to generate the word vectors. 
-  It uses the johngiorgi/declutr-sci-base model provided by the HuggingFace library.
+  It uses the johngiorgi/declutr-sci-base model provided by the HuggingFace library, which 
+  is a BERT trained on scientific papers.
   """
+  
   def __init__(self):
     model_name = 'johngiorgi/declutr-sci-base'
     self.tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -18,8 +21,17 @@ class BertVectorizer:
 
   def get_embeddings(self, terms):
     """
-    Returns an python list containing the embedding vectors (torch tensors) for the target terms.
-    terms:  A python list with the target terms.
+    Returns the embedding vectors for a list of target terms.
+    
+    Parameters
+    ----------
+    terms:  a python list containing strings
+      The targeted terms.
+      
+    Results
+    -------
+    A numpy array of shape [number of terms, embedding dimension]
+      The embedding vectors, one for each term.
     """
     result = []
     for term in terms:
@@ -32,9 +44,9 @@ class BertVectorizer:
       embeddings = torch.sum(
         sequence_output * inputs["attention_mask"].unsqueeze(-1), dim=1
       ) / torch.clamp(torch.sum(inputs["attention_mask"], dim=1, keepdims=True), min=1e-9)
-      result.append(embeddings)
+      result.append(embeddings.detach().numpy())
 
-    return result
+    return np.asarray(result)
 
 # Test
 def test_BertVectorizer():

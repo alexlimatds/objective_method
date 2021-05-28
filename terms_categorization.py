@@ -16,9 +16,10 @@ class AffinityPropagationCategorizer:
     """
     Creates an instance of this class. The clustering is performed by this constructor, so 
     the term vectors must be provided as argument.
+    
     Parameters
     ----------
-    term_vectors : numpy array [number of terms, embedding dimension]
+    term_vectors : numpy array of shape [number of terms, embedding dimension]
       The embedding vectors of the terms to be categorized.
     """
     self.term_vectors = term_vectors
@@ -38,13 +39,15 @@ class AffinityPropagationCategorizer:
   def term_indices_for_category(self, category_vector):
     """
     Finds the terms related to a given category.
+    
     Parameters
     ----------
-    category_vector : numpy array [embedding_dimension]
+    category_vector : numpy array of shape [embedding_dimension]
       The embedding vector of the category.
+    
     Returns
     -------
-    numpy array [number of related terms, embedding_dimension]
+    A numpy array of shape [number of related terms, embedding_dimension]
       The indices of the terms related to a given category.
     """
     similarities = cosine_similarity(category_vector.reshape(1, -1), self.term_vectors)
