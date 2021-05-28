@@ -1,4 +1,4 @@
-# Code to perform keyword extraction based on TF-IDF features. It outputs a CSV file
+# Code to perform keyword extraction based on the RAKE algorithm. It outputs a CSV file
 # containing a keyword set for each input paper
 import re
 from nltk.corpus import stopwords
