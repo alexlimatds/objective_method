@@ -47,7 +47,7 @@ class AffinityPropagationCategorizer:
     
     Returns
     -------
-    A numpy array of shape [number of related terms, embedding_dimension]
+    A numpy array of shape [n] where n is the number of found related terms.
       The indices of the terms related to a given category.
     """
     similarities = cosine_similarity(category_vector.reshape(1, -1), self.term_vectors)
@@ -56,7 +56,7 @@ class AffinityPropagationCategorizer:
     if cluster_label.shape[0] > 1:                                # In an ideal case, the category is related to one cluster only. If this didn't happen, print a warning
       print('WARN [AffinityPropagationCategorizer]: I\'ve found more than one cluster for a category.')
     
-    return np.nonzero(self.model.labels_ == cluster_label[0])     # Return the indices of the terms in the cluster of the category
+    return np.nonzero(self.model.labels_ == cluster_label[0])[0]  # Returns the indices of the terms in the cluster of the category
 
 # Test
 def test_AffinityPropagationCategorizer():
