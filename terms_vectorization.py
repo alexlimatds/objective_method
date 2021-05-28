@@ -41,9 +41,9 @@ class BertVectorizer:
         sequence_output = self.model(**inputs)[0]
 
       # Mean pool the token-level embeddings to get sentence-level embeddings
-      embeddings = torch.sum(
+      embeddings = torch.flatten(torch.sum(
         sequence_output * inputs["attention_mask"].unsqueeze(-1), dim=1
-      ) / torch.clamp(torch.sum(inputs["attention_mask"], dim=1, keepdims=True), min=1e-9)
+      ) / torch.clamp(torch.sum(inputs["attention_mask"], dim=1, keepdims=True), min=1e-9))
       result.append(embeddings.detach().numpy())
 
     return np.asarray(result)
