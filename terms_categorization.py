@@ -9,7 +9,7 @@ import numpy as np
 class AffinityPropagationCategorizer:
   """
   This class uses the Affinity Propagation clustering algorithm to find the terms related 
-  to a given category.
+  to a given category term.
   """
   
   def __init__(self, term_vectors):
@@ -38,17 +38,17 @@ class AffinityPropagationCategorizer:
   
   def term_indices_for_category(self, category_vector):
     """
-    Finds the terms related to a given category.
+    Finds the terms related to a given category term.
     
     Parameters
     ----------
     category_vector : numpy array of shape [embedding_dimension]
-      The embedding vector of the category.
+      The embedding vector of the category term.
     
     Returns
     -------
     A numpy array of shape [n] where n is the number of found related terms.
-      The indices of the terms related to a given category.
+      The indices of the terms related to a given category term.
     """
     similarities = cosine_similarity(category_vector.reshape(1, -1), self.term_vectors)
     best_indices = np.argmax(similarities)                        # Finds the indices of the terms that are most similar to the category
