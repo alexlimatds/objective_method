@@ -7,8 +7,27 @@ import time
 import traceback
 
 class TermsPipeline:
+  """
+  An instance of this class is able to perform the pipeline for extracting potential terms to 
+  be used in a boolean query. The terms are extracted from reference corpus and with basis on 
+  reference category terms. The aim is to get the terms that are more related to the provided 
+  category terms.
+  """
   
-  def run(self, corpus, category_terms):
+  def run(self, corpus, category_terms, experiment_id):
+    """
+    Run the pipeline. It generates a log file with the extracted terms and some results from intermediate 
+    steps. The log file is name as terms_pipeline-log-<experiment_id>-<timestamp>.txt.
+    
+    Parameters
+    ----------
+    corpus : list of string
+      The corpus from which the terms will be extracted. Each element in the list represents a different text/document.
+    category_terms : list of string
+      The category terms used as reference. Each element in the list is one caegory term.
+    experiment_id : string
+      Id of the experiment. It will be included in the name of the log file.
+    """
     log = []
     
     try:
@@ -45,11 +64,13 @@ class TermsPipeline:
         category_terms_dic[category_terms[i]] = found_terms
         log.append(f'\t\tFound terms ({len(found_terms)} in total): {found_terms}')
       log.append('End of term categorization.')
+    
     except Exception as ex:
       log.append(f'Ocorreu uma exceção: {ex}')
       traceback.print_exc()
+    
     finally:
-      f = open(f"terms_pipeline-log-{time.time()}.txt", "w")
+      f = open(f"terms_pipeline-log-{experiment_id}-{time.time()}.txt", "w")
       for l in log:
         f.write(l + '\n')
       f.close()
@@ -78,4 +99,4 @@ def test_TermsPipeline():
     this dataset can transfer to states without human-written summaries.''']
   
   pipeline = TermsPipeline()
-  pipeline.run(corpus, ['neural network', 'legal domain'])
+  pipeline.run(corpus, ['neural network', 'legal domain'], 'test')
