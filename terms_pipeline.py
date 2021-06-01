@@ -14,7 +14,7 @@ class TermsPipeline:
   category terms.
   """
   
-  def run(self, corpus, category_terms, experiment_id):
+  def run(self, corpus, category_terms, experiment_id, log_clustering=False):
     """
     Run the pipeline. It generates a log file with the extracted terms and some results from intermediate 
     steps. The log file is name as terms_pipeline-log-<experiment_id>-<timestamp>.txt.
@@ -27,8 +27,11 @@ class TermsPipeline:
       The category terms used as reference. Each element in the list is one caegory term.
     experiment_id : string
       Id of the experiment. It will be included in the name of the log file.
+    log_clustering : boolean
+      Indicates if the log of the cluster algorithm will be generated or not. Defaults to False.
     """
     log = []
+    log_file_prefix = f"terms_pipeline-{experiment_id}-{time.time()}"
     
     try:
       log.append('Starting term extraction.')
@@ -64,16 +67,33 @@ class TermsPipeline:
         category_terms_dic[category_terms[i]] = found_terms
         log.append(f'\t\tFound terms ({len(found_terms)} in total): {found_terms}')
       log.append('End of term categorization.')
+      
+      if log_clustering:
+        self.__log_clustering__(categorizer, terms, log_file_prefix)
     
     except Exception as ex:
-      log.append(f'Ocorreu uma exceção: {ex}')
+      log.append(f'An exception occurred: {ex}')
       traceback.print_exc()
     
     finally:
-      f = open(f"terms_pipeline-log-{experiment_id}-{time.time()}.txt", "w")
+      f = open(log_file_prefix + "-log.txt", "w")
       for l in log:
         f.write(l + '\n')
       f.close()
+    
+  def __log_clustering__(self, categorizer, terms, log_file_prefix):
+    dic = {}
+    for i, label in enumerate(categorizer.model.labels_):
+      c_list = dic.get(label, [])
+      if len(c_list) == 0:
+        dic[label] = c_list
+      c_list.append(terms[i])
+    log = ''
+    for k in dic.keys():
+      log += f'Cluster {k}: {dic[k]} \n'
+    f = open(log_file_prefix + "-cluster-log.txt", "w")
+    f.write(log)
+    f.close()
     
 # Test
 def test_TermsPipeline():
@@ -99,4 +119,4 @@ def test_TermsPipeline():
     this dataset can transfer to states without human-written summaries.''']
   
   pipeline = TermsPipeline()
-  pipeline.run(corpus, ['neural network', 'legal domain'], 'test')
+  pipeline.run(corpus, ['neural network', 'legal domain'], 'test', log_clustering=True)
