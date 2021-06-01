@@ -6,12 +6,12 @@ import candidates_extraction, terms_categorization, terms_vectorization
 import time
 import traceback
 
-class TermsPipeline:
+class TermsClusteringPipeline:
   """
   An instance of this class is able to perform the pipeline for extracting potential terms to 
   be used in a boolean query. The terms are extracted from reference corpus and with basis on 
   reference category terms. The aim is to get the terms that are more related to the provided 
-  category terms.
+  category terms. The categorization is based on a clustering algorithm.
   """
   
   def run(self, corpus, category_terms, experiment_id, log_clustering=False):
@@ -96,7 +96,7 @@ class TermsPipeline:
     f.close()
     
 # Test
-def test_TermsPipeline():
+def test_TermsClusteringPipeline():
   corpus = [
     '''Few-Shot Charge Prediction with Discriminative Legal Attributes. Automatic charge prediction aims to 
     predict the final charges according to the fact descriptions in criminal cases and plays a crucial role in legal 
@@ -118,5 +118,5 @@ def test_TermsPipeline():
     that models built on Congressional bills can be used to summarize California billa, thus, showing that methods developed on 
     this dataset can transfer to states without human-written summaries.''']
   
-  pipeline = TermsPipeline()
+  pipeline = TermsClusteringPipeline()
   pipeline.run(corpus, ['neural network', 'legal domain'], 'test', log_clustering=True)
