@@ -27,6 +27,4 @@ ax = df2.plot(
 ax.set_ylabel('Author Keywords')
 ax.set_xlabel('Frequency')
 plt.gcf().text(0, 0, f'There are {len(k_hist.keys())} keywords')
-plt.savefig('seed_set_analysis-author_keywords.pdf', bbox_inches='tight')
-
-# TODO: histogram of number of words in the abstracts
+plt.savefig('analysis_author_keywords.pdf', bbox_inches='tight')
