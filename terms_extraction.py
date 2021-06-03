@@ -119,7 +119,7 @@ def __term_doc_occurrence__(terms, terms_by_doc):
   A numpy matrix with shape (len(terms_by_doc), len(terms)). The 1 value indicates a occurrence of the 
   term in the document. The zero value indicates the opposite case.
   """
-  doc_term_occurrence = np.zeros((len(terms_by_doc), len(terms)), dtype=np.uint32)
+  doc_term_occurrence = np.zeros((len(terms_by_doc), len(terms)), dtype=np.int32)
   for i, doc in enumerate(terms_by_doc):
     for j, term in enumerate(terms):
       if term in terms_by_doc[i]:
