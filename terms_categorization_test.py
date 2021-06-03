@@ -19,5 +19,22 @@ class TestAffinityPropagationCategorizer(unittest.TestCase):
     print(f'Number of clusters: {model.number_of_clusters()}')
     print(f'Vector indexes for category {cat_vec}: {model.term_indices_for_category(cat_vec)}')
     
+class TestSplitByCategory(unittest.TestCase):
+  
+  def test__split_by_category__(self):
+    categories = ['a','b']
+    category_vectors = [[0.8, 0.1], [0.18, 0.9]]
+    term_vectors = [[0.7, 0.2], [0.9, 0.1], [0.2, 0.7], [0.6, 0.3]] # a a b a
+    
+    dic = terms_categorization.split_by_category(categories, category_vectors, term_vectors)
+    
+    list_a = dic['a']
+    self.assertEqual(list_a[0][0], 0)
+    self.assertEqual(list_a[1][0], 1)
+    self.assertEqual(list_a[2][0], 3)
+    
+    list_b = dic['b']
+    self.assertEqual(list_b[0][0], 2)
+    
 if __name__ == '__main__':
   unittest.main()

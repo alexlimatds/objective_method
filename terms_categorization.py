@@ -58,3 +58,31 @@ class AffinityPropagationCategorizer:
     
     return np.nonzero(self.model.labels_ == cluster_label[0])[0]  # Returns the indices of the terms in the cluster of the category
 
+def split_by_category(categories, category_vectors, term_vectors):
+  """
+  Splits the terms according to the similarity among them and the categories.
+  
+  Parameters
+  ----------
+  categories : list of string
+    The category terms.
+  category_vectors : numpy array of shape (number of categories, embedding dimension)
+    The respective embedding vectors of the category terms.
+  term_vectors : numpy array of shape (number of terms, embedding dimension)
+    The embedding vectors of the terms.
+    
+  Returns
+  -------
+    A dictionary containing one entry for each category, where the category term is the key. The 
+    entry value is a list of tuples, each one containing (term index, cosine similarity value).
+  """
+  similarities = cosine_similarity(term_vectors, category_vectors)
+  cat_terms = {}
+  for i, cat in enumerate(categories):
+    terms_idx = np.nonzero(np.argmax(similarities, axis=1) == i)[0]
+    tuples = []
+    for idx in terms_idx:
+      tuples.append((idx, similarities[idx, i]))
+    cat_terms[cat] = (tuples)
+  
+  return cat_terms
