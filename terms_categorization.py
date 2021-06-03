@@ -83,6 +83,6 @@ def split_by_category(categories, category_vectors, term_vectors):
     tuples = []
     for idx in terms_idx:
       tuples.append((idx, similarities[idx, i]))
-    cat_terms[cat] = (tuples)
+    cat_terms[cat] = tuples
   
   return cat_terms
