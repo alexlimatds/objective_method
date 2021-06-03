@@ -1,0 +1,270 @@
+(15 occurrences) method 
+(15 occurrences) using 
+(15 occurrences) text 
+(14 occurrences) task 
+(14 occurrences) legal 
+(14 occurrences) learning 
+(14 occurrences) model 
+(13 occurrences) document 
+(13 occurrences) dataset 
+(12 occurrences) network 
+(12 occurrences) result 
+(12 occurrences) language 
+(11 occurrences) feature 
+(11 occurrences) system 
+(10 occurrences) word 
+(9 occurrences) work 
+(9 occurrences) corpus 
+(9 occurrences) approach 
+(9 occurrences) neural network 
+(9 occurrences) domain 
+(9 occurrences) embedding 
+(9 occurrences) machine 
+(8 occurrences) deep learning 
+(8 occurrences) information 
+(8 occurrences) case 
+(7 occurrences) legal text 
+(7 occurrences) paper 
+(7 occurrences) datum 
+(7 occurrences) state 
+(6 occurrences) algorithm 
+(6 occurrences) processing 
+(6 occurrences) performance 
+(6 occurrences) law 
+(6 occurrences) process 
+(6 occurrences) neural 
+(6 occurrences) representation 
+(6 occurrences) machine learning 
+(5 occurrences) set 
+(5 occurrences) court 
+(5 occurrences) framework 
+(5 occurrences) human 
+(5 occurrences) retrieval 
+(5 occurrences) legal domain 
+(5 occurrences) % 
+(5 occurrences) study 
+(5 occurrences) previous work 
+(5 occurrences) extraction 
+(5 occurrences) experiment 
+(5 occurrences) art 
+(5 occurrences) vector 
+(4 occurrences) predicting 
+(4 occurrences) natural language 
+(4 occurrences) space 
+(4 occurrences) latent 
+(4 occurrences) classifier 
+(4 occurrences) legislation 
+(4 occurrences) resource 
+(4 occurrences) analysis 
+(4 occurrences) content 
+(4 occurrences) sentence 
+(4 occurrences) level 
+(4 occurrences) classification 
+(4 occurrences) retrieval task 
+(4 occurrences) article 
+(4 occurrences) improvement 
+(4 occurrences) similarity 
+(4 occurrences) experimental result 
+(4 occurrences) technique 
+(4 occurrences) convolutional neural network 
+(4 occurrences) accuracy 
+(4 occurrences) knowledge 
+(3 occurrences) phrase 
+(3 occurrences) decision 
+(3 occurrences) prediction 
+(3 occurrences) type 
+(3 occurrences) f1 
+(3 occurrences) label 
+(3 occurrences) tool 
+(3 occurrences) case retrieval 
+(3 occurrences) challenge 
+(3 occurrences) - 
+(3 occurrences) combining 
+(3 occurrences) identification 
+(3 occurrences) evaluation 
+(3 occurrences) existing 
+(3 occurrences) summary 
+(3 occurrences) english 
+(3 occurrences) outcome 
+(3 occurrences) european 
+(3 occurrences) competition 
+(3 occurrences) fact 
+(3 occurrences) svm 
+(3 occurrences) deep 
+(3 occurrences) information extraction 
+(3 occurrences) problem 
+(3 occurrences) legal case 
+(3 occurrences) variety 
+(3 occurrences) answering 
+(3 occurrences) paragraph 
+(3 occurrences) summarization 
+(3 occurrences) baseline 
+(3 occurrences) question 
+(3 occurrences) recognition 
+(3 occurrences) entailment 
+(3 occurrences) attention 
+(3 occurrences) embeddings 
+(3 occurrences) k 
+(3 occurrences) topic 
+(3 occurrences) importance 
+(3 occurrences) clustering 
+(3 occurrences) nature 
+(3 occurrences) benchmark 
+(3 occurrences) new dataset 
+(3 occurrences) use 
+(3 occurrences) legal case retrieval 
+(3 occurrences) part 
+(3 occurrences) reference 
+(3 occurrences) quality 
+(3 occurrences) documents 
+(3 occurrences) expert 
+(3 occurrences) issue 
+(3 occurrences) case retrieval task 
+(3 occurrences) including 
+(3 occurrences) concept 
+(3 occurrences) query 
+(3 occurrences) vector space 
+(3 occurrences) version 
+(3 occurrences) deep neural network 
+(3 occurrences) legal case retrieval task 
+(3 occurrences) conditional 
+(3 occurrences) legal document 
+(3 occurrences) mining 
+(2 occurrences) european court 
+(2 occurrences) identifying 
+(2 occurrences) information retrieval 
+(2 occurrences) automatic 
+(2 occurrences) using state 
+(2 occurrences) database 
+(2 occurrences) semantic similarity 
+(2 occurrences) coliee 
+(2 occurrences) legal language 
+(2 occurrences) scale 
+(2 occurrences) category 
+(2 occurrences) term 
+(2 occurrences) policy 
+(2 occurrences) ranking 
+(2 occurrences) extension 
+(2 occurrences) random 
+(2 occurrences) utilizing 
+(2 occurrences) proposal 
+(2 occurrences) combination 
+(2 occurrences) language processing 
+(2 occurrences) rights 
+(2 occurrences) answering system 
+(2 occurrences) meaning 
+(2 occurrences) question answering 
+(2 occurrences) encoded summarization 
+(2 occurrences) scoring framework 
+(2 occurrences) continuous vector 
+(2 occurrences) natural language processing 
+(2 occurrences) gold 
+(2 occurrences) legal information extraction 
+(2 occurrences) supreme 
+(2 occurrences) retrieval system performance 
+(2 occurrences) cnn 
+(2 occurrences) user 
+(2 occurrences) conditional random 
+(2 occurrences) recurrent 
+(2 occurrences) time 
+(2 occurrences) judiciary 
+(2 occurrences) entity 
+(2 occurrences) recurrent neural 
+(2 occurrences) civil law 
+(2 occurrences) performing 
+(2 occurrences) lot 
+(2 occurrences) rule 
+(2 occurrences) speech 
+(2 occurrences) document retrieval 
+(2 occurrences) search 
+(2 occurrences) way 
+(2 occurrences) product 
+(2 occurrences) text classification 
+(2 occurrences) description 
+(2 occurrences) encoding document 
+(2 occurrences) neural networks 
+(2 occurrences) pair 
+(2 occurrences) retrieval system 
+(2 occurrences) utility 
+(2 occurrences) measure 
+(2 occurrences) bag 
+(2 occurrences) scenario 
+(2 occurrences) linear 
+(2 occurrences) other hand 
+(2 occurrences) chain 
+(2 occurrences) thesaurus 
+(2 occurrences) property 
+(2 occurrences) document summarization 
+(2 occurrences) proposed model 
+(2 occurrences) convolutional 
+(2 occurrences) relation 
+(2 occurrences) summarizing document 
+(2 occurrences) opinion 
+(2 occurrences) design 
+(2 occurrences) continuous vector space 
+(2 occurrences) character 
+(2 occurrences) legal corpus 
+(2 occurrences) comparing 
+(2 occurrences) supreme court 
+(2 occurrences) generation 
+(2 occurrences) different aspect 
+(2 occurrences) document representation 
+(2 occurrences) recurrent neural networks 
+(2 occurrences) entropy 
+(2 occurrences) world 
+(2 occurrences) building 
+(2 occurrences) code 
+(2 occurrences) comparison 
+(2 occurrences) public document 
+(2 occurrences) legal information 
+(2 occurrences) test 
+(2 occurrences) judgment 
+(2 occurrences) form 
+(2 occurrences) tackling 
+(2 occurrences) according 
+(2 occurrences) annotation 
+(2 occurrences) lexical feature 
+(2 occurrences) effectiveness 
+(2 occurrences) experimenting 
+(2 occurrences) introducing 
+(2 occurrences) shot 
+(2 occurrences) experimental dataset 
+(2 occurrences) solution 
+(2 occurrences) bert 
+(2 occurrences) recurrent neural network 
+(2 occurrences) supporting 
+(2 occurrences) training 
+(2 occurrences) legal question answering 
+(2 occurrences) units 
+(2 occurrences) summarizing 
+(2 occurrences) provided summary 
+(2 occurrences) post 
+(2 occurrences) graph 
+(2 occurrences) ad 
+(2 occurrences) system performance 
+(2 occurrences) networks 
+(2 occurrences) scoring 
+(2 occurrences) computer 
+(2 occurrences) benefit 
+(2 occurrences) using bag 
+(2 occurrences) encoding 
+(2 occurrences) ranking svm 
+(2 occurrences) eu 
+(2 occurrences) kind 
+(2 occurrences) collection 
+(2 occurrences) order 
+(2 occurrences) legal information retrieval 
+(2 occurrences) fields 
+(2 occurrences) legal question 
+(2 occurrences) token 
+(2 occurrences) hand 
+(2 occurrences) organization 
+(2 occurrences) aspect 
+(2 occurrences) us 
+(2 occurrences) data 
+(2 occurrences) learning algorithm 
+(2 occurrences) case summarization 
+(2 occurrences) convolutional neural 
+(2 occurrences) deep convolutional neural network 
+(2 occurrences) source 
+(2 occurrences) modeling 
