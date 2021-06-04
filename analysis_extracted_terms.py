@@ -90,12 +90,15 @@ for i, c in enumerate(categories):
 
   plt.savefig(f'analysis_extracted_terms_df_vs_sim-{c}.pdf', bbox_inches='tight')
 
+# TODO histogram of extracted terms by doc
+  
 # Map of occurrence matrix
-'''
-_, axis = plt.subplots(1, figsize=(20, 20))
-axis.imshow(occur_matrix, aspect='auto', interpolation=None)
-plt.savefig(f'analysis_extracted_terms_occurrence_matrix.pdf', bbox_inches='tight')
-'''
+for i, c in enumerate(categories):
+  c_array = split[c]
+  c_occur_matrix = occur_matrix[:,c_array['term_index']] # occurrence matrix including just the category terms
+  _, axis = plt.subplots(1, figsize=(20, 20))
+  axis.imshow(c_occur_matrix, aspect='auto', interpolation=None)
+  plt.savefig(f'analysis_extracted_terms_occurrence_matrix-{c}.pdf', bbox_inches='tight')
   
 # Writing log file
 log_file = open('analysis_extracted_terms-log.txt', 'w')
