@@ -29,12 +29,12 @@ class TestSplitByCategory(unittest.TestCase):
     dic = terms_categorization.split_by_category(categories, category_vectors, term_vectors)
     
     list_a = dic['a']
-    self.assertEqual(list_a[0][0], 0)
-    self.assertEqual(list_a[1][0], 1)
-    self.assertEqual(list_a[2][0], 3)
+    self.assertEqual(list_a[0]['term_index'], 0)
+    self.assertEqual(list_a[1]['term_index'], 1)
+    self.assertEqual(list_a[2]['term_index'], 3)
     
     list_b = dic['b']
-    self.assertEqual(list_b[0][0], 2)
+    self.assertEqual(list_b[0]['term_index'], 2)
     
 if __name__ == '__main__':
   unittest.main()

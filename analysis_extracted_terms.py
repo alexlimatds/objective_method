@@ -61,9 +61,9 @@ def sim(e):
 log += '** Terms\' similarities and DF grouped by closest category **\n'
 for c in categories:
   log += f'{c}: {len(split[c])} terms\n'
-  c_list = split[c]
-  c_list.sort(reverse=True, key=sim)
-  for t in c_list:
+  c_array = split[c]
+  sorted_array = np.sort(c_array, order=['similarity'])[::-1]
+  for t in sorted_array:
     log += f'\t{terms[t[0]]}: {t[1]} - {term_df[t[0]]} occurrences/DF\n'
 
 # Document Frequency vs Cossine similarity
@@ -71,12 +71,12 @@ for i, c in enumerate(categories):
   _, axis = plt.subplots(1, figsize=(20, 20))
   X, Y = [], []
   for t in split[c]:
-    x = term_df[t[0]] # df
+    x = term_df[t['term_index']] # df
     X.append(x)
-    y = t[1]          # similarity
+    y = t['similarity']          # similarity
     Y.append(y)
     if x >= 4 or y >= 0.8:
-      axis.annotate(terms[t[0]], (x,y))
+      axis.annotate(terms[t['term_index']], (x,y))
   axis.scatter(X, Y, s=3.0)
   axis.set_xticks(range(max_df + 2))
   label_format = '{:,.1f}'

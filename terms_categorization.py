@@ -74,7 +74,8 @@ def split_by_category(categories, category_vectors, term_vectors):
   Returns
   -------
     A dictionary containing one entry for each category, where the category term is the key. The 
-    entry value is a list of tuples, each one containing (term index, cosine similarity value).
+    entry value is a numpy structured array, from which each record holds the term_index 
+    and similarity (cosine similarity) fields.
   """
   similarities = cosine_similarity(term_vectors, category_vectors)
   cat_terms = {}
@@ -83,6 +84,6 @@ def split_by_category(categories, category_vectors, term_vectors):
     tuples = []
     for idx in terms_idx:
       tuples.append((idx, similarities[idx, i]))
-    cat_terms[cat] = tuples
+    cat_terms[cat] = np.array(tuples, dtype=[('term_index', int), ('similarity', float)])
   
   return cat_terms

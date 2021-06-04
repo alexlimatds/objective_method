@@ -1,278 +1,1638 @@
 ** Extracted terms with document frequency above one **
-(15 occurrences/DF) using 
-(15 occurrences/DF) method 
 (15 occurrences/DF) text 
+(15 occurrences/DF) method 
+(15 occurrences/DF) using 
 (14 occurrences/DF) task 
 (14 occurrences/DF) learning 
-(14 occurrences/DF) model 
 (14 occurrences/DF) legal 
+(14 occurrences/DF) model 
 (13 occurrences/DF) document 
 (13 occurrences/DF) dataset 
+(12 occurrences/DF) language 
 (12 occurrences/DF) network 
 (12 occurrences/DF) result 
-(12 occurrences/DF) language 
-(11 occurrences/DF) feature 
 (11 occurrences/DF) system 
+(11 occurrences/DF) feature 
 (10 occurrences/DF) word 
-(9 occurrences/DF) domain 
-(9 occurrences/DF) corpus 
-(9 occurrences/DF) work 
-(9 occurrences/DF) embedding 
-(9 occurrences/DF) machine 
 (9 occurrences/DF) neural network 
+(9 occurrences/DF) embedding 
+(9 occurrences/DF) corpus 
+(9 occurrences/DF) domain 
+(9 occurrences/DF) machine 
 (9 occurrences/DF) approach 
-(8 occurrences/DF) deep learning 
+(9 occurrences/DF) work 
 (8 occurrences/DF) information 
 (8 occurrences/DF) case 
+(8 occurrences/DF) deep learning 
 (7 occurrences/DF) state 
 (7 occurrences/DF) legal text 
-(7 occurrences/DF) datum 
 (7 occurrences/DF) paper 
-(6 occurrences/DF) processing 
-(6 occurrences/DF) neural 
-(6 occurrences/DF) process 
+(7 occurrences/DF) datum 
+(6 occurrences/DF) representation 
 (6 occurrences/DF) algorithm 
+(6 occurrences/DF) neural 
+(6 occurrences/DF) processing 
 (6 occurrences/DF) performance 
+(6 occurrences/DF) process 
 (6 occurrences/DF) machine learning 
 (6 occurrences/DF) law 
-(6 occurrences/DF) representation 
-(5 occurrences/DF) experiment 
-(5 occurrences/DF) previous work 
-(5 occurrences/DF) legal domain 
-(5 occurrences/DF) set 
-(5 occurrences/DF) vector 
 (5 occurrences/DF) court 
-(5 occurrences/DF) retrieval 
 (5 occurrences/DF) art 
 (5 occurrences/DF) study 
-(5 occurrences/DF) % 
 (5 occurrences/DF) human 
+(5 occurrences/DF) previous work 
+(5 occurrences/DF) experiment 
 (5 occurrences/DF) framework 
+(5 occurrences/DF) vector 
+(5 occurrences/DF) retrieval 
+(5 occurrences/DF) set 
+(5 occurrences/DF) legal domain 
 (5 occurrences/DF) extraction 
-(4 occurrences/DF) convolutional neural network 
-(4 occurrences/DF) predicting 
-(4 occurrences/DF) technique 
-(4 occurrences/DF) natural language 
-(4 occurrences/DF) space 
-(4 occurrences/DF) retrieval task 
-(4 occurrences/DF) sentence 
-(4 occurrences/DF) legislation 
-(4 occurrences/DF) classifier 
-(4 occurrences/DF) similarity 
-(4 occurrences/DF) level 
-(4 occurrences/DF) improvement 
-(4 occurrences/DF) analysis 
-(4 occurrences/DF) latent 
-(4 occurrences/DF) content 
-(4 occurrences/DF) article 
-(4 occurrences/DF) resource 
-(4 occurrences/DF) knowledge 
+(5 occurrences/DF) % 
 (4 occurrences/DF) experimental result 
+(4 occurrences/DF) resource 
+(4 occurrences/DF) retrieval task 
+(4 occurrences/DF) convolutional neural network 
+(4 occurrences/DF) content 
+(4 occurrences/DF) improvement 
+(4 occurrences/DF) level 
+(4 occurrences/DF) legislation 
+(4 occurrences/DF) similarity 
+(4 occurrences/DF) analysis 
 (4 occurrences/DF) accuracy 
+(4 occurrences/DF) sentence 
+(4 occurrences/DF) natural language 
+(4 occurrences/DF) article 
 (4 occurrences/DF) classification 
-(3 occurrences/DF) importance 
-(3 occurrences/DF) k 
-(3 occurrences/DF) - 
-(3 occurrences/DF) vector space 
-(3 occurrences/DF) tool 
-(3 occurrences/DF) benchmark 
+(4 occurrences/DF) latent 
+(4 occurrences/DF) technique 
+(4 occurrences/DF) classifier 
+(4 occurrences/DF) predicting 
+(4 occurrences/DF) space 
+(4 occurrences/DF) knowledge 
+(3 occurrences/DF) svm 
 (3 occurrences/DF) expert 
-(3 occurrences/DF) information extraction 
-(3 occurrences/DF) baseline 
-(3 occurrences/DF) deep 
-(3 occurrences/DF) outcome 
-(3 occurrences/DF) prediction 
-(3 occurrences/DF) use 
-(3 occurrences/DF) question 
-(3 occurrences/DF) fact 
-(3 occurrences/DF) part 
-(3 occurrences/DF) version 
-(3 occurrences/DF) issue 
+(3 occurrences/DF) vector space 
+(3 occurrences/DF) case retrieval task 
+(3 occurrences/DF) identification 
+(3 occurrences/DF) label 
+(3 occurrences/DF) challenge 
 (3 occurrences/DF) legal case 
-(3 occurrences/DF) documents 
+(3 occurrences/DF) embeddings 
+(3 occurrences/DF) conditional 
+(3 occurrences/DF) question 
+(3 occurrences/DF) version 
+(3 occurrences/DF) topic 
+(3 occurrences/DF) - 
+(3 occurrences/DF) english 
+(3 occurrences/DF) competition 
+(3 occurrences/DF) deep 
+(3 occurrences/DF) information extraction 
+(3 occurrences/DF) clustering 
+(3 occurrences/DF) prediction 
+(3 occurrences/DF) summary 
+(3 occurrences/DF) concept 
 (3 occurrences/DF) query 
 (3 occurrences/DF) quality 
-(3 occurrences/DF) label 
-(3 occurrences/DF) embeddings 
-(3 occurrences/DF) combining 
-(3 occurrences/DF) including 
-(3 occurrences/DF) problem 
-(3 occurrences/DF) summary 
-(3 occurrences/DF) paragraph 
-(3 occurrences/DF) conditional 
-(3 occurrences/DF) reference 
-(3 occurrences/DF) f1 
-(3 occurrences/DF) concept 
-(3 occurrences/DF) topic 
-(3 occurrences/DF) case retrieval task 
-(3 occurrences/DF) phrase 
-(3 occurrences/DF) existing 
-(3 occurrences/DF) svm 
-(3 occurrences/DF) mining 
-(3 occurrences/DF) deep neural network 
-(3 occurrences/DF) english 
-(3 occurrences/DF) european 
-(3 occurrences/DF) clustering 
-(3 occurrences/DF) decision 
-(3 occurrences/DF) competition 
-(3 occurrences/DF) variety 
-(3 occurrences/DF) new dataset 
-(3 occurrences/DF) legal case retrieval 
 (3 occurrences/DF) recognition 
+(3 occurrences/DF) existing 
 (3 occurrences/DF) evaluation 
-(3 occurrences/DF) entailment 
-(3 occurrences/DF) legal document 
-(3 occurrences/DF) attention 
-(3 occurrences/DF) type 
-(3 occurrences/DF) summarization 
-(3 occurrences/DF) answering 
-(3 occurrences/DF) identification 
 (3 occurrences/DF) case retrieval 
-(3 occurrences/DF) challenge 
-(3 occurrences/DF) legal case retrieval task 
+(3 occurrences/DF) combining 
+(3 occurrences/DF) problem 
+(3 occurrences/DF) legal document 
+(3 occurrences/DF) answering 
+(3 occurrences/DF) reference 
+(3 occurrences/DF) legal case retrieval 
+(3 occurrences/DF) issue 
+(3 occurrences/DF) summarization 
+(3 occurrences/DF) attention 
+(3 occurrences/DF) european 
+(3 occurrences/DF) importance 
+(3 occurrences/DF) variety 
+(3 occurrences/DF) tool 
+(3 occurrences/DF) baseline 
+(3 occurrences/DF) documents 
+(3 occurrences/DF) decision 
+(3 occurrences/DF) phrase 
+(3 occurrences/DF) part 
+(3 occurrences/DF) including 
+(3 occurrences/DF) deep neural network 
+(3 occurrences/DF) new dataset 
+(3 occurrences/DF) outcome 
+(3 occurrences/DF) benchmark 
 (3 occurrences/DF) nature 
-(2 occurrences/DF) utilizing 
-(2 occurrences/DF) case summarization 
-(2 occurrences/DF) conditional random 
-(2 occurrences/DF) design 
-(2 occurrences/DF) opinion 
-(2 occurrences/DF) legal question 
-(2 occurrences/DF) summarizing 
-(2 occurrences/DF) world 
-(2 occurrences/DF) neural networks 
-(2 occurrences/DF) measure 
-(2 occurrences/DF) shot 
-(2 occurrences/DF) encoding document 
-(2 occurrences/DF) supporting 
-(2 occurrences/DF) thesaurus 
-(2 occurrences/DF) policy 
-(2 occurrences/DF) time 
-(2 occurrences/DF) using state 
-(2 occurrences/DF) linear 
-(2 occurrences/DF) scoring framework 
-(2 occurrences/DF) term 
-(2 occurrences/DF) annotation 
-(2 occurrences/DF) supreme 
-(2 occurrences/DF) ad 
-(2 occurrences/DF) aspect 
-(2 occurrences/DF) entity 
-(2 occurrences/DF) lexical feature 
-(2 occurrences/DF) random 
-(2 occurrences/DF) speech 
-(2 occurrences/DF) encoding 
-(2 occurrences/DF) text classification 
-(2 occurrences/DF) form 
-(2 occurrences/DF) comparing 
-(2 occurrences/DF) answering system 
+(3 occurrences/DF) entailment 
+(3 occurrences/DF) fact 
+(3 occurrences/DF) mining 
+(3 occurrences/DF) f1 
+(3 occurrences/DF) k 
+(3 occurrences/DF) use 
+(3 occurrences/DF) type 
+(3 occurrences/DF) legal case retrieval task 
+(3 occurrences/DF) paragraph 
 (2 occurrences/DF) units 
-(2 occurrences/DF) question answering 
-(2 occurrences/DF) lot 
-(2 occurrences/DF) recurrent neural 
-(2 occurrences/DF) kind 
-(2 occurrences/DF) retrieval system 
-(2 occurrences/DF) chain 
-(2 occurrences/DF) deep convolutional neural network 
-(2 occurrences/DF) scale 
-(2 occurrences/DF) scenario 
-(2 occurrences/DF) natural language processing 
-(2 occurrences/DF) utility 
-(2 occurrences/DF) description 
-(2 occurrences/DF) modeling 
-(2 occurrences/DF) continuous vector space 
-(2 occurrences/DF) coliee 
-(2 occurrences/DF) experimenting 
-(2 occurrences/DF) judgment 
-(2 occurrences/DF) effectiveness 
-(2 occurrences/DF) product 
-(2 occurrences/DF) introducing 
-(2 occurrences/DF) test 
-(2 occurrences/DF) continuous vector 
-(2 occurrences/DF) post 
-(2 occurrences/DF) user 
-(2 occurrences/DF) system performance 
-(2 occurrences/DF) building 
-(2 occurrences/DF) document representation 
-(2 occurrences/DF) rule 
-(2 occurrences/DF) search 
-(2 occurrences/DF) recurrent 
-(2 occurrences/DF) source 
 (2 occurrences/DF) recurrent neural networks 
-(2 occurrences/DF) experimental dataset 
-(2 occurrences/DF) convolutional neural 
-(2 occurrences/DF) benefit 
-(2 occurrences/DF) gold 
-(2 occurrences/DF) pair 
-(2 occurrences/DF) graph 
-(2 occurrences/DF) code 
-(2 occurrences/DF) eu 
-(2 occurrences/DF) semantic similarity 
-(2 occurrences/DF) summarizing document 
-(2 occurrences/DF) identifying 
-(2 occurrences/DF) document summarization 
-(2 occurrences/DF) civil law 
-(2 occurrences/DF) proposal 
-(2 occurrences/DF) combination 
-(2 occurrences/DF) database 
-(2 occurrences/DF) legal information 
-(2 occurrences/DF) legal question answering 
-(2 occurrences/DF) property 
-(2 occurrences/DF) bert 
-(2 occurrences/DF) other hand 
-(2 occurrences/DF) order 
-(2 occurrences/DF) performing 
-(2 occurrences/DF) provided summary 
-(2 occurrences/DF) cnn 
-(2 occurrences/DF) networks 
-(2 occurrences/DF) legal language 
-(2 occurrences/DF) relation 
-(2 occurrences/DF) different aspect 
-(2 occurrences/DF) category 
-(2 occurrences/DF) information retrieval 
-(2 occurrences/DF) legal corpus 
-(2 occurrences/DF) learning algorithm 
-(2 occurrences/DF) data 
-(2 occurrences/DF) collection 
-(2 occurrences/DF) rights 
-(2 occurrences/DF) document retrieval 
-(2 occurrences/DF) ranking 
-(2 occurrences/DF) automatic 
-(2 occurrences/DF) judiciary 
+(2 occurrences/DF) building 
 (2 occurrences/DF) hand 
-(2 occurrences/DF) character 
-(2 occurrences/DF) legal information extraction 
-(2 occurrences/DF) extension 
-(2 occurrences/DF) fields 
-(2 occurrences/DF) bag 
-(2 occurrences/DF) computer 
-(2 occurrences/DF) proposed model 
-(2 occurrences/DF) scoring 
-(2 occurrences/DF) encoded summarization 
-(2 occurrences/DF) us 
-(2 occurrences/DF) way 
-(2 occurrences/DF) organization 
-(2 occurrences/DF) entropy 
-(2 occurrences/DF) using bag 
-(2 occurrences/DF) recurrent neural network 
-(2 occurrences/DF) comparison 
-(2 occurrences/DF) ranking svm 
-(2 occurrences/DF) meaning 
-(2 occurrences/DF) token 
-(2 occurrences/DF) training 
-(2 occurrences/DF) supreme court 
-(2 occurrences/DF) legal information retrieval 
+(2 occurrences/DF) modeling 
+(2 occurrences/DF) legal question 
+(2 occurrences/DF) category 
+(2 occurrences/DF) supporting 
+(2 occurrences/DF) speech 
+(2 occurrences/DF) legal information 
+(2 occurrences/DF) document retrieval 
+(2 occurrences/DF) scenario 
+(2 occurrences/DF) learning algorithm 
+(2 occurrences/DF) description 
+(2 occurrences/DF) proposal 
+(2 occurrences/DF) summarizing 
+(2 occurrences/DF) graph 
+(2 occurrences/DF) post 
 (2 occurrences/DF) public document 
-(2 occurrences/DF) generation 
-(2 occurrences/DF) solution 
-(2 occurrences/DF) convolutional 
+(2 occurrences/DF) supreme court 
+(2 occurrences/DF) annotation 
+(2 occurrences/DF) scoring 
+(2 occurrences/DF) effectiveness 
+(2 occurrences/DF) using bag 
 (2 occurrences/DF) tackling 
-(2 occurrences/DF) retrieval system performance 
+(2 occurrences/DF) performing 
+(2 occurrences/DF) question answering 
+(2 occurrences/DF) random 
+(2 occurrences/DF) pair 
+(2 occurrences/DF) fields 
 (2 occurrences/DF) language processing 
+(2 occurrences/DF) order 
+(2 occurrences/DF) retrieval system performance 
+(2 occurrences/DF) proposed model 
+(2 occurrences/DF) way 
+(2 occurrences/DF) shot 
+(2 occurrences/DF) answering system 
+(2 occurrences/DF) computer 
+(2 occurrences/DF) rights 
 (2 occurrences/DF) european court 
+(2 occurrences/DF) lot 
+(2 occurrences/DF) data 
+(2 occurrences/DF) us 
+(2 occurrences/DF) recurrent neural 
+(2 occurrences/DF) encoding document 
+(2 occurrences/DF) collection 
+(2 occurrences/DF) eu 
+(2 occurrences/DF) comparison 
+(2 occurrences/DF) bert 
+(2 occurrences/DF) ad 
+(2 occurrences/DF) legal information retrieval 
+(2 occurrences/DF) search 
+(2 occurrences/DF) neural networks 
+(2 occurrences/DF) entity 
+(2 occurrences/DF) measure 
+(2 occurrences/DF) utility 
+(2 occurrences/DF) networks 
+(2 occurrences/DF) semantic similarity 
+(2 occurrences/DF) recurrent 
+(2 occurrences/DF) legal question answering 
+(2 occurrences/DF) encoded summarization 
+(2 occurrences/DF) source 
+(2 occurrences/DF) extension 
+(2 occurrences/DF) thesaurus 
+(2 occurrences/DF) combination 
+(2 occurrences/DF) encoding 
+(2 occurrences/DF) linear 
+(2 occurrences/DF) system performance 
+(2 occurrences/DF) convolutional neural 
+(2 occurrences/DF) time 
+(2 occurrences/DF) different aspect 
+(2 occurrences/DF) automatic 
+(2 occurrences/DF) legal corpus 
+(2 occurrences/DF) case summarization 
+(2 occurrences/DF) kind 
+(2 occurrences/DF) opinion 
+(2 occurrences/DF) chain 
+(2 occurrences/DF) product 
+(2 occurrences/DF) cnn 
+(2 occurrences/DF) test 
+(2 occurrences/DF) document representation 
+(2 occurrences/DF) retrieval system 
+(2 occurrences/DF) utilizing 
+(2 occurrences/DF) conditional random 
+(2 occurrences/DF) form 
+(2 occurrences/DF) benefit 
+(2 occurrences/DF) term 
+(2 occurrences/DF) policy 
+(2 occurrences/DF) scoring framework 
+(2 occurrences/DF) continuous vector space 
+(2 occurrences/DF) organization 
+(2 occurrences/DF) rule 
+(2 occurrences/DF) text classification 
+(2 occurrences/DF) using state 
+(2 occurrences/DF) legal information extraction 
+(2 occurrences/DF) identifying 
+(2 occurrences/DF) deep convolutional neural network 
+(2 occurrences/DF) user 
+(2 occurrences/DF) judgment 
+(2 occurrences/DF) training 
+(2 occurrences/DF) civil law 
+(2 occurrences/DF) ranking 
 (2 occurrences/DF) according 
+(2 occurrences/DF) token 
+(2 occurrences/DF) experimenting 
+(2 occurrences/DF) relation 
+(2 occurrences/DF) character 
+(2 occurrences/DF) lexical feature 
+(2 occurrences/DF) natural language processing 
+(2 occurrences/DF) provided summary 
+(2 occurrences/DF) design 
+(2 occurrences/DF) other hand 
+(2 occurrences/DF) coliee 
+(2 occurrences/DF) generation 
+(2 occurrences/DF) aspect 
+(2 occurrences/DF) information retrieval 
+(2 occurrences/DF) continuous vector 
+(2 occurrences/DF) solution 
+(2 occurrences/DF) recurrent neural network 
+(2 occurrences/DF) comparing 
+(2 occurrences/DF) gold 
+(2 occurrences/DF) legal language 
+(2 occurrences/DF) introducing 
+(2 occurrences/DF) meaning 
+(2 occurrences/DF) world 
+(2 occurrences/DF) bag 
+(2 occurrences/DF) document summarization 
+(2 occurrences/DF) supreme 
+(2 occurrences/DF) experimental dataset 
+(2 occurrences/DF) scale 
+(2 occurrences/DF) summarizing document 
+(2 occurrences/DF) ranking svm 
+(2 occurrences/DF) judiciary 
+(2 occurrences/DF) code 
+(2 occurrences/DF) database 
+(2 occurrences/DF) convolutional 
+(2 occurrences/DF) property 
+(2 occurrences/DF) entropy 
 ** Terms' similarities and DF grouped by closest category **
-a: 3 terms
-	observation: 0.9999061869691636 - 1 occurrences/DF
-	motion: 0.9881739033591792 - 1 occurrences/DF
-	law: 0.9429903335828895 - 6 occurrences/DF
-b: 1 terms
-	relevant case: 0.996729048114676 - 1 occurrences/DF
+deep learning: 576 terms
+	deep learning: 0.9999998807907104 - 8 occurrences/DF
+	deep learning approach: 0.9042782783508301 - 1 occurrences/DF
+	machine learning: 0.8791046142578125 - 6 occurrences/DF
+	deep convolutional neural: 0.8593301177024841 - 1 occurrences/DF
+	deep neural network: 0.8542028069496155 - 3 occurrences/DF
+	deep learning algorithm: 0.8500034809112549 - 1 occurrences/DF
+	deep: 0.8336362838745117 - 3 occurrences/DF
+	deep convolutional: 0.8264752626419067 - 1 occurrences/DF
+	deep convolutional neural network: 0.8260260224342346 - 2 occurrences/DF
+	convolutional neural: 0.8170274496078491 - 2 occurrences/DF
+	supervised machine learning: 0.8108329772949219 - 1 occurrences/DF
+	neural machine: 0.807486891746521 - 1 occurrences/DF
+	learning: 0.7953277230262756 - 14 occurrences/DF
+	convolutional neural network: 0.7847381830215454 - 4 occurrences/DF
+	interactive machine learning: 0.7793523073196411 - 1 occurrences/DF
+	recurrent neural: 0.7774888277053833 - 2 occurrences/DF
+	neural networks: 0.7712133526802063 - 2 occurrences/DF
+	traditional machine learning: 0.7689856886863708 - 1 occurrences/DF
+	shot learning: 0.7597747445106506 - 1 occurrences/DF
+	shallow neural network: 0.7593458294868469 - 1 occurrences/DF
+	recurrent neural networks: 0.7542110681533813 - 2 occurrences/DF
+	neural network: 0.749000072479248 - 9 occurrences/DF
+	supervised machine: 0.7484428882598877 - 1 occurrences/DF
+	recurrent neural network: 0.7471640706062317 - 2 occurrences/DF
+	using recurrent neural: 0.7360979318618774 - 1 occurrences/DF
+	neural machine translation: 0.7353231310844421 - 1 occurrences/DF
+	neural classifier: 0.7277690172195435 - 1 occurrences/DF
+	convolutional: 0.7274858951568604 - 2 occurrences/DF
+	cnn: 0.7262852191925049 - 2 occurrences/DF
+	using recurrent neural networks: 0.7255257368087769 - 1 occurrences/DF
+	artificial intelligence: 0.7213531136512756 - 1 occurrences/DF
+	neural language model: 0.7211247682571411 - 1 occurrences/DF
+	learning model: 0.7158440351486206 - 1 occurrences/DF
+	mining: 0.7111480236053467 - 3 occurrences/DF
+	neural: 0.7081515789031982 - 6 occurrences/DF
+	learning approach: 0.7080894708633423 - 1 occurrences/DF
+	neural model: 0.70613694190979 - 1 occurrences/DF
+	machine detection: 0.7033581733703613 - 1 occurrences/DF
+	natural language processing: 0.6981967687606812 - 2 occurrences/DF
+	supervised model: 0.6920565366744995 - 1 occurrences/DF
+	supervised text: 0.689591646194458 - 1 occurrences/DF
+	boosting: 0.686176061630249 - 1 occurrences/DF
+	learning method: 0.6861459016799927 - 1 occurrences/DF
+	natural language: 0.6854761838912964 - 4 occurrences/DF
+	knowledge mining: 0.684651792049408 - 1 occurrences/DF
+	discriminative: 0.6827113628387451 - 1 occurrences/DF
+	classification: 0.6766512393951416 - 4 occurrences/DF
+	neural language: 0.6735111474990845 - 1 occurrences/DF
+	neural machine translation system: 0.6727988719940186 - 1 occurrences/DF
+	language models: 0.6713402271270752 - 1 occurrences/DF
+	machine translation: 0.6712179183959961 - 1 occurrences/DF
+	cnns: 0.668982982635498 - 1 occurrences/DF
+	several neural classifier: 0.6576631665229797 - 1 occurrences/DF
+	classifier: 0.6568366885185242 - 4 occurrences/DF
+	recognition: 0.6562378406524658 - 3 occurrences/DF
+	vector machine: 0.651980996131897 - 1 occurrences/DF
+	learning algorithm: 0.6495693922042847 - 2 occurrences/DF
+	prediction: 0.6486654281616211 - 3 occurrences/DF
+	feature engineering: 0.6481155157089233 - 1 occurrences/DF
+	attention network: 0.6464470028877258 - 1 occurrences/DF
+	label classification: 0.6445160508155823 - 1 occurrences/DF
+	text classification: 0.6433051824569702 - 2 occurrences/DF
+	language model: 0.6402009129524231 - 1 occurrences/DF
+	image processing: 0.638891339302063 - 1 occurrences/DF
+	language processing: 0.637757420539856 - 2 occurrences/DF
+	based classifier: 0.6374706625938416 - 1 occurrences/DF
+	large corpus: 0.6345171928405762 - 1 occurrences/DF
+	clustering: 0.6339844465255737 - 3 occurrences/DF
+	neural sentence: 0.6323210000991821 - 1 occurrences/DF
+	embedding model: 0.6317216157913208 - 1 occurrences/DF
+	boosting algorithm: 0.6307746171951294 - 1 occurrences/DF
+	machine translation dataset: 0.630007266998291 - 1 occurrences/DF
+	multi - label classification: 0.6295551657676697 - 1 occurrences/DF
+	lstm: 0.6276581287384033 - 1 occurrences/DF
+	discovery: 0.6275104284286499 - 1 occurrences/DF
+	language modeling: 0.6245800256729126 - 1 occurrences/DF
+	neural system: 0.6237850189208984 - 1 occurrences/DF
+	document retrieval: 0.6237020492553711 - 2 occurrences/DF
+	feature extraction: 0.6232684850692749 - 1 occurrences/DF
+	retrieval: 0.6231239438056946 - 5 occurrences/DF
+	speech recognition: 0.6224973201751709 - 1 occurrences/DF
+	representation space: 0.6196858286857605 - 1 occurrences/DF
+	neural machine translation quality: 0.6194467544555664 - 1 occurrences/DF
+	embeddings: 0.6189179420471191 - 3 occurrences/DF
+	encoding: 0.6186313629150391 - 2 occurrences/DF
+	networks: 0.6168469786643982 - 2 occurrences/DF
+	using word embeddings: 0.6164287328720093 - 1 occurrences/DF
+	information retrieval: 0.6156136989593506 - 2 occurrences/DF
+	hierarchical attention network: 0.6146692037582397 - 1 occurrences/DF
+	text retrieval: 0.6141386032104492 - 1 occurrences/DF
+	embedding: 0.6133023500442505 - 9 occurrences/DF
+	unsupervised method: 0.6130284070968628 - 1 occurrences/DF
+	topic model: 0.6130086183547974 - 1 occurrences/DF
+	- label classification: 0.6124104261398315 - 1 occurrences/DF
+	detection: 0.6117868423461914 - 1 occurrences/DF
+	retrieval dataset: 0.6102118492126465 - 1 occurrences/DF
+	predictive text: 0.6100008487701416 - 1 occurrences/DF
+	automatic feature extraction: 0.6088780164718628 - 1 occurrences/DF
+	multi - label: 0.6079543828964233 - 1 occurrences/DF
+	information processing: 0.6072865724563599 - 1 occurrences/DF
+	regressive transformer: 0.6068035960197449 - 1 occurrences/DF
+	recognizing: 0.6057878136634827 - 1 occurrences/DF
+	svm: 0.6056002974510193 - 3 occurrences/DF
+	regularization: 0.6027432680130005 - 1 occurrences/DF
+	multi - label text classification: 0.6025367379188538 - 1 occurrences/DF
+	classification approach: 0.6020983457565308 - 1 occurrences/DF
+	automatic feature: 0.6017516851425171 - 1 occurrences/DF
+	entity recognition: 0.6015282273292542 - 1 occurrences/DF
+	document representation: 0.6011877655982971 - 2 occurrences/DF
+	label text classification: 0.6009650826454163 - 1 occurrences/DF
+	supervised text similarity: 0.6002156734466553 - 1 occurrences/DF
+	many machine: 0.5998758673667908 - 1 occurrences/DF
+	unsupervised semantic similarity: 0.5995180606842041 - 1 occurrences/DF
+	processing: 0.599146842956543 - 6 occurrences/DF
+	information retrieval task: 0.5986834168434143 - 1 occurrences/DF
+	machine translation system: 0.5965608358383179 - 1 occurrences/DF
+	hierarchical attention: 0.5957537889480591 - 1 occurrences/DF
+	language: 0.5947966575622559 - 12 occurrences/DF
+	word embeddings: 0.5947189331054688 - 1 occurrences/DF
+	underestimate neural machine: 0.5929020643234253 - 1 occurrences/DF
+	parallel language: 0.5914769768714905 - 1 occurrences/DF
+	argumentation mining: 0.59101402759552 - 1 occurrences/DF
+	question answering: 0.5878299474716187 - 2 occurrences/DF
+	network: 0.5864478349685669 - 12 occurrences/DF
+	predicting: 0.5860044956207275 - 4 occurrences/DF
+	exploiting: 0.5859255194664001 - 1 occurrences/DF
+	dropout regularization: 0.5857035517692566 - 1 occurrences/DF
+	multi - label text: 0.5854429602622986 - 1 occurrences/DF
+	embedding rnn: 0.5854185819625854 - 1 occurrences/DF
+	representation: 0.5845398306846619 - 6 occurrences/DF
+	vector space: 0.5836629867553711 - 3 occurrences/DF
+	embedding representation: 0.5832811594009399 - 1 occurrences/DF
+	language resources: 0.5831262469291687 - 1 occurrences/DF
+	topic modelling: 0.5827026963233948 - 1 occurrences/DF
+	voice recognition: 0.5804355144500732 - 1 occurrences/DF
+	- label text classification: 0.5793449878692627 - 1 occurrences/DF
+	answering: 0.579142153263092 - 3 occurrences/DF
+	documents: 0.5785102248191833 - 3 occurrences/DF
+	art: 0.5781172513961792 - 5 occurrences/DF
+	dynamic topic model: 0.5772465467453003 - 1 occurrences/DF
+	information extraction: 0.577021598815918 - 3 occurrences/DF
+	extreme multi - label text classification: 0.5769103765487671 - 1 occurrences/DF
+	argument mining: 0.5757785439491272 - 1 occurrences/DF
+	filtering: 0.5745968222618103 - 1 occurrences/DF
+	feature: 0.5745542049407959 - 11 occurrences/DF
+	discriminative attribute: 0.5743768811225891 - 1 occurrences/DF
+	using recurrent: 0.5711277723312378 - 1 occurrences/DF
+	ranking svm: 0.5708272457122803 - 2 occurrences/DF
+	using clustering: 0.5697853565216064 - 1 occurrences/DF
+	fuzzy: 0.569476842880249 - 1 occurrences/DF
+	replacing cnns: 0.5689704418182373 - 1 occurrences/DF
+	word model: 0.5689550042152405 - 1 occurrences/DF
+	labeled text: 0.5677354335784912 - 1 occurrences/DF
+	latent: 0.5672268867492676 - 4 occurrences/DF
+	machine translation quality: 0.5668611526489258 - 1 occurrences/DF
+	open source: 0.5664668083190918 - 1 occurrences/DF
+	answering system: 0.5660953521728516 - 2 occurrences/DF
+	translation dataset: 0.5652302503585815 - 1 occurrences/DF
+	real world: 0.5649599432945251 - 1 occurrences/DF
+	interactive machine: 0.5646889209747314 - 1 occurrences/DF
+	translation: 0.5641321539878845 - 1 occurrences/DF
+	intelligence: 0.5640537738800049 - 1 occurrences/DF
+	several language: 0.5640137195587158 - 1 occurrences/DF
+	multi: 0.5635557770729065 - 1 occurrences/DF
+	large number: 0.5620033740997314 - 1 occurrences/DF
+	challenging corpus: 0.5619972944259644 - 1 occurrences/DF
+	high accuracy: 0.5619573593139648 - 1 occurrences/DF
+	retrieval system: 0.561901330947876 - 2 occurrences/DF
+	similarity search: 0.5614776611328125 - 1 occurrences/DF
+	multilingual corpus: 0.5597691535949707 - 1 occurrences/DF
+	prediction dataset: 0.5594234466552734 - 1 occurrences/DF
+	complex document: 0.5583950281143188 - 1 occurrences/DF
+	graph: 0.5577872395515442 - 2 occurrences/DF
+	text generation: 0.5577491521835327 - 1 occurrences/DF
+	statistical feature: 0.5573726892471313 - 1 occurrences/DF
+	semantic analysis: 0.5566450357437134 - 1 occurrences/DF
+	several discriminative attribute: 0.5563479661941528 - 1 occurrences/DF
+	fast computer assisted annotation: 0.5561532974243164 - 1 occurrences/DF
+	different feature: 0.5553101897239685 - 1 occurrences/DF
+	automatic: 0.5552630424499512 - 2 occurrences/DF
+	previous unsupervised method: 0.5550398826599121 - 1 occurrences/DF
+	semantic similarity: 0.5549676418304443 - 2 occurrences/DF
+	document summarization: 0.5544291734695435 - 2 occurrences/DF
+	querying: 0.5538500547409058 - 1 occurrences/DF
+	using ranking: 0.5535812377929688 - 1 occurrences/DF
+	large scale resources: 0.5519683361053467 - 1 occurrences/DF
+	hierarchical: 0.5513112545013428 - 1 occurrences/DF
+	classification benchmark: 0.5512007474899292 - 1 occurrences/DF
+	term memory: 0.5510033965110779 - 1 occurrences/DF
+	computer assisted annotation: 0.5504592061042786 - 1 occurrences/DF
+	attention: 0.5503915548324585 - 3 occurrences/DF
+	automatic summarization: 0.5502161979675293 - 1 occurrences/DF
+	underestimate neural machine translation: 0.5498775243759155 - 1 occurrences/DF
+	art quality estimation: 0.5497003197669983 - 1 occurrences/DF
+	dynamic topic: 0.5496857166290283 - 1 occurrences/DF
+	memory: 0.5493407249450684 - 1 occurrences/DF
+	computational: 0.5487017035484314 - 1 occurrences/DF
+	neural baseline: 0.5485069155693054 - 1 occurrences/DF
+	importance prediction: 0.5472606420516968 - 1 occurrences/DF
+	robot: 0.545944094657898 - 1 occurrences/DF
+	patent classifier: 0.5450129508972168 - 1 occurrences/DF
+	retrieval task: 0.5449051856994629 - 4 occurrences/DF
+	speech: 0.5448980331420898 - 2 occurrences/DF
+	modeling: 0.5430552959442139 - 2 occurrences/DF
+	- label: 0.5429508686065674 - 1 occurrences/DF
+	training: 0.5422793030738831 - 2 occurrences/DF
+	previous work: 0.5419749617576599 - 5 occurrences/DF
+	named entity recognition: 0.541824221611023 - 1 occurrences/DF
+	paper: 0.5416194796562195 - 7 occurrences/DF
+	art patent classifier: 0.5415164828300476 - 1 occurrences/DF
+	wide variety: 0.5413188338279724 - 1 occurrences/DF
+	latent policy: 0.5412564873695374 - 1 occurrences/DF
+	architecture: 0.5400517582893372 - 1 occurrences/DF
+	clustering algorithm: 0.5398271083831787 - 1 occurrences/DF
+	modelling: 0.5397640466690063 - 1 occurrences/DF
+	bilstm: 0.5395950078964233 - 1 occurrences/DF
+	similarity: 0.5393209457397461 - 4 occurrences/DF
+	benchmark dataset: 0.5391318798065186 - 1 occurrences/DF
+	machine: 0.5378458499908447 - 9 occurrences/DF
+	compression: 0.5377010107040405 - 1 occurrences/DF
+	quality estimation: 0.5369682312011719 - 1 occurrences/DF
+	prediction model: 0.5368732810020447 - 1 occurrences/DF
+	exploration: 0.5365893840789795 - 1 occurrences/DF
+	fast computer assisted: 0.5343157649040222 - 1 occurrences/DF
+	literature: 0.5340607762336731 - 1 occurrences/DF
+	extreme multi - label text: 0.5321519374847412 - 1 occurrences/DF
+	novel dataset: 0.5312159657478333 - 1 occurrences/DF
+	image: 0.5306552052497864 - 1 occurrences/DF
+	combining computational: 0.5303453207015991 - 1 occurrences/DF
+	document type classification: 0.5301060676574707 - 1 occurrences/DF
+	compression algorithm: 0.5298653841018677 - 1 occurrences/DF
+	mapping: 0.529550313949585 - 1 occurrences/DF
+	open public dataset: 0.5290822982788086 - 1 occurrences/DF
+	fast computer: 0.5290404558181763 - 1 occurrences/DF
+	open source resource: 0.529000997543335 - 1 occurrences/DF
+	automatic semantic edge labeling: 0.52882981300354 - 1 occurrences/DF
+	keyword query: 0.5283716917037964 - 1 occurrences/DF
+	decision support: 0.5283227562904358 - 1 occurrences/DF
+	lexical feature: 0.5279204845428467 - 2 occurrences/DF
+	small multilingual corpus: 0.5272004008293152 - 1 occurrences/DF
+	different clustering: 0.5271941423416138 - 1 occurrences/DF
+	traditional machine: 0.5270521640777588 - 1 occurrences/DF
+	assisted annotation: 0.5269439220428467 - 1 occurrences/DF
+	multilingual test corpus: 0.5264831185340881 - 1 occurrences/DF
+	computer assisted: 0.5263667106628418 - 1 occurrences/DF
+	label: 0.5261871814727783 - 3 occurrences/DF
+	space: 0.5260082483291626 - 4 occurrences/DF
+	ranking: 0.5258223414421082 - 2 occurrences/DF
+	conditional random field model: 0.5255224108695984 - 1 occurrences/DF
+	answering task: 0.5253599882125854 - 1 occurrences/DF
+	frame recognition: 0.5252276062965393 - 1 occurrences/DF
+	automatic citation analysis: 0.5247442722320557 - 1 occurrences/DF
+	novel method: 0.5246862173080444 - 1 occurrences/DF
+	technology: 0.5244703888893127 - 1 occurrences/DF
+	word vector: 0.5241639614105225 - 1 occurrences/DF
+	- label text: 0.5237512588500977 - 1 occurrences/DF
+	dataset: 0.5230797529220581 - 13 occurrences/DF
+	text similarity: 0.5221188068389893 - 1 occurrences/DF
+	information management: 0.5212084054946899 - 1 occurrences/DF
+	existing work: 0.5210698843002319 - 1 occurrences/DF
+	dataset generation: 0.5207626819610596 - 1 occurrences/DF
+	multi -: 0.5207245349884033 - 1 occurrences/DF
+	mobile application: 0.5206930041313171 - 1 occurrences/DF
+	extreme multi - label: 0.5202600359916687 - 1 occurrences/DF
+	work: 0.5200613737106323 - 9 occurrences/DF
+	word: 0.5197440385818481 - 10 occurrences/DF
+	promising: 0.5190136432647705 - 1 occurrences/DF
+	human performance: 0.5189917087554932 - 1 occurrences/DF
+	sentence embeddings: 0.518882691860199 - 1 occurrences/DF
+	multilingual test: 0.5182015895843506 - 1 occurrences/DF
+	interactive: 0.5180368423461914 - 1 occurrences/DF
+	public dataset: 0.5173749923706055 - 1 occurrences/DF
+	stacked bilstm: 0.5172690749168396 - 1 occurrences/DF
+	annotated corpus: 0.5164505243301392 - 1 occurrences/DF
+	distinguishing: 0.5160704255104065 - 1 occurrences/DF
+	meaningful text: 0.5159362554550171 - 1 occurrences/DF
+	automatic charge prediction: 0.5158654451370239 - 1 occurrences/DF
+	label text: 0.5158126950263977 - 1 occurrences/DF
+	summarization: 0.5151458978652954 - 3 occurrences/DF
+	layer: 0.5143394470214844 - 1 occurrences/DF
+	predictive model: 0.5141233801841736 - 1 occurrences/DF
+	wise attention: 0.5141100883483887 - 1 occurrences/DF
+	engineering: 0.51400226354599 - 1 occurrences/DF
+	automatic citation: 0.5138617157936096 - 1 occurrences/DF
+	encoding document: 0.5138512849807739 - 2 occurrences/DF
+	china: 0.5134953260421753 - 1 occurrences/DF
+	high: 0.5130100250244141 - 1 occurrences/DF
+	semantic edge labeling: 0.5125588774681091 - 1 occurrences/DF
+	large scale: 0.5122829079627991 - 1 occurrences/DF
+	traditional contextual feature: 0.5122817158699036 - 1 occurrences/DF
+	estimation: 0.511749267578125 - 1 occurrences/DF
+	automatic post: 0.5115315318107605 - 1 occurrences/DF
+	evaluation: 0.5112632513046265 - 3 occurrences/DF
+	powerful new approach: 0.5105077028274536 - 1 occurrences/DF
+	research: 0.5098627805709839 - 1 occurrences/DF
+	conditional random field: 0.5096469521522522 - 1 occurrences/DF
+	existing: 0.5088571310043335 - 3 occurrences/DF
+	maximum entropy: 0.5075411796569824 - 1 occurrences/DF
+	entailment dataset: 0.5074630975723267 - 1 occurrences/DF
+	based model: 0.5067577362060547 - 1 occurrences/DF
+	citation graph: 0.5065425038337708 - 1 occurrences/DF
+	strong neural baseline: 0.5062905550003052 - 1 occurrences/DF
+	using bag: 0.506264328956604 - 2 occurrences/DF
+	broad variety: 0.5056437253952026 - 1 occurrences/DF
+	test corpus: 0.5050537586212158 - 1 occurrences/DF
+	great progress: 0.504833459854126 - 1 occurrences/DF
+	making: 0.5046878457069397 - 1 occurrences/DF
+	novel model: 0.504645824432373 - 1 occurrences/DF
+	baseline svm: 0.5041792392730713 - 1 occurrences/DF
+	scale case retrieval dataset: 0.5034656524658203 - 1 occurrences/DF
+	multilabel problem: 0.5033279657363892 - 1 occurrences/DF
+	citation analysis: 0.5022388696670532 - 1 occurrences/DF
+	theme classification approach: 0.5019571781158447 - 1 occurrences/DF
+	pipeline: 0.5016424655914307 - 1 occurrences/DF
+	exploring: 0.5014172792434692 - 1 occurrences/DF
+	management: 0.5013147592544556 - 1 occurrences/DF
+	approach: 0.5007182359695435 - 9 occurrences/DF
+	fast: 0.4987313747406006 - 1 occurrences/DF
+	combining: 0.49869248270988464 - 3 occurrences/DF
+	underestimate neural machine translation quality: 0.4985380172729492 - 1 occurrences/DF
+	sophisticated way: 0.49802133440971375 - 1 occurrences/DF
+	encoded summarization: 0.49773329496383667 - 2 occurrences/DF
+	employing ranking svm: 0.4961569309234619 - 1 occurrences/DF
+	contextual feature: 0.4958040416240692 - 1 occurrences/DF
+	natural: 0.4955546259880066 - 1 occurrences/DF
+	abstract information: 0.49530932307243347 - 1 occurrences/DF
+	predicting outcome: 0.4943119287490845 - 1 occurrences/DF
+	additional lstm: 0.49337440729141235 - 1 occurrences/DF
+	generation: 0.4933494031429291 - 2 occurrences/DF
+	conditional random: 0.4932701885700226 - 2 occurrences/DF
+	conditional random fields: 0.4929542541503906 - 1 occurrences/DF
+	random fields: 0.4922301173210144 - 1 occurrences/DF
+	word2vec: 0.4918261170387268 - 1 occurrences/DF
+	classification precision: 0.49179255962371826 - 1 occurrences/DF
+	employing ranking: 0.49135297536849976 - 1 occurrences/DF
+	using ranking svm: 0.49128827452659607 - 1 occurrences/DF
+	automatic semantic edge: 0.49099448323249817 - 1 occurrences/DF
+	continuous vector space: 0.4896061420440674 - 2 occurrences/DF
+	models: 0.4883189797401428 - 1 occurrences/DF
+	several approach: 0.4881478250026703 - 1 occurrences/DF
+	random field: 0.4879252314567566 - 1 occurrences/DF
+	improving: 0.4877961575984955 - 1 occurrences/DF
+	performance: 0.485612690448761 - 6 occurrences/DF
+	experimental dataset: 0.4855167865753174 - 2 occurrences/DF
+	random field model: 0.48413869738578796 - 1 occurrences/DF
+	art quality: 0.48403865098953247 - 1 occurrences/DF
+	translation quality: 0.4831855893135071 - 1 occurrences/DF
+	existing algorithm: 0.4830155074596405 - 1 occurrences/DF
+	computer: 0.4830004572868347 - 2 occurrences/DF
+	large: 0.48298972845077515 - 1 occurrences/DF
+	gated recurrent: 0.48251354694366455 - 1 occurrences/DF
+	progress: 0.4825088679790497 - 1 occurrences/DF
+	open source resource kit: 0.4823490083217621 - 1 occurrences/DF
+	automatic tool: 0.48211660981178284 - 1 occurrences/DF
+	new approach: 0.4810364246368408 - 1 occurrences/DF
+	validation: 0.47922712564468384 - 1 occurrences/DF
+	vector: 0.47890061140060425 - 5 occurrences/DF
+	different approach: 0.47870734333992004 - 1 occurrences/DF
+	quality: 0.47828057408332825 - 3 occurrences/DF
+	using word: 0.47797492146492004 - 1 occurrences/DF
+	edge labeling: 0.477888822555542 - 1 occurrences/DF
+	accurate relevance: 0.47768551111221313 - 1 occurrences/DF
+	entropy: 0.4767960011959076 - 2 occurrences/DF
+	summarizing document: 0.4767323136329651 - 2 occurrences/DF
+	new sophisticated way: 0.47631239891052246 - 1 occurrences/DF
+	nearest neighbour: 0.4762724041938782 - 1 occurrences/DF
+	extensive evaluation: 0.4756937026977539 - 1 occurrences/DF
+	intellectual: 0.4755815863609314 - 1 occurrences/DF
+	automated identification: 0.4755347967147827 - 1 occurrences/DF
+	motion: 0.4751565754413605 - 1 occurrences/DF
+	such translation: 0.47497886419296265 - 1 occurrences/DF
+	many country: 0.474620521068573 - 1 occurrences/DF
+	proposed approach: 0.47438356280326843 - 1 occurrences/DF
+	other open public dataset: 0.4742553234100342 - 1 occurrences/DF
+	bert: 0.4742293357849121 - 2 occurrences/DF
+	gold set: 0.4741685092449188 - 1 occurrences/DF
+	unseen query: 0.47301703691482544 - 1 occurrences/DF
+	based system: 0.47269001603126526 - 1 occurrences/DF
+	rectified linear: 0.4725591540336609 - 1 occurrences/DF
+	gated: 0.47175753116607666 - 1 occurrences/DF
+	assisted: 0.47159311175346375 - 1 occurrences/DF
+	based method: 0.4714450240135193 - 1 occurrences/DF
+	open access: 0.47093841433525085 - 1 occurrences/DF
+	complex nature: 0.4705425500869751 - 1 occurrences/DF
+	differential: 0.4701591730117798 - 1 occurrences/DF
+	informative document: 0.4697028696537018 - 1 occurrences/DF
+	human accuracy: 0.46924275159835815 - 1 occurrences/DF
+	voice: 0.46878963708877563 - 1 occurrences/DF
+	eurlex dataset: 0.46836429834365845 - 1 occurrences/DF
+	human validation: 0.46798962354660034 - 1 occurrences/DF
+	higher accuracy: 0.46710216999053955 - 1 occurrences/DF
+	driven combination: 0.46607261896133423 - 1 occurrences/DF
+	metric: 0.4652159512042999 - 1 occurrences/DF
+	evaluating: 0.46491432189941406 - 1 occurrences/DF
+	cluster identification algorithm: 0.4649038016796112 - 1 occurrences/DF
+	computational cost: 0.4641447365283966 - 1 occurrences/DF
+	quest project: 0.46386250853538513 - 1 occurrences/DF
+	recurrent: 0.4637307822704315 - 2 occurrences/DF
+	production: 0.46359983086586 - 1 occurrences/DF
+	thousand: 0.46279314160346985 - 1 occurrences/DF
+	standard gold set: 0.4626198410987854 - 1 occurrences/DF
+	judgment prediction dataset: 0.4621311128139496 - 1 occurrences/DF
+	long: 0.46105077862739563 - 1 occurrences/DF
+	relying: 0.459673672914505 - 1 occurrences/DF
+	identification algorithm: 0.45926332473754883 - 1 occurrences/DF
+	accuracy: 0.45915818214416504 - 4 occurrences/DF
+	japan: 0.4586371183395386 - 1 occurrences/DF
+	multilabel: 0.45846590399742126 - 1 occurrences/DF
+	previous feature: 0.4579406678676605 - 1 occurrences/DF
+	citation: 0.4579199254512787 - 1 occurrences/DF
+	proposed model: 0.45719122886657715 - 2 occurrences/DF
+	effectiveness: 0.4557526707649231 - 2 occurrences/DF
+	sequential nature: 0.4557285010814667 - 1 occurrences/DF
+	comprehensive content: 0.4556426405906677 - 1 occurrences/DF
+	new dataset: 0.45477786660194397 - 3 occurrences/DF
+	reference translation: 0.4544930160045624 - 1 occurrences/DF
+	using spacy: 0.4537692666053772 - 1 occurrences/DF
+	article: 0.4534897804260254 - 4 occurrences/DF
+	ability: 0.45304739475250244 - 1 occurrences/DF
+	bidirectional: 0.4523473381996155 - 1 occurrences/DF
+	proposed method: 0.45227187871932983 - 1 occurrences/DF
+	multi - label state: 0.45214205980300903 - 1 occurrences/DF
+	convenient tool: 0.45095449686050415 - 1 occurrences/DF
+	linear sliding: 0.450809121131897 - 1 occurrences/DF
+	labeling: 0.4503990411758423 - 1 occurrences/DF
+	retrieval system performance: 0.4503864645957947 - 2 occurrences/DF
+	engine: 0.45036646723747253 - 1 occurrences/DF
+	first dataset: 0.4492856562137604 - 1 occurrences/DF
+	controlled pipeline: 0.4489790201187134 - 1 occurrences/DF
+	linear: 0.44825953245162964 - 2 occurrences/DF
+	automatic post - editing model: 0.4481023848056793 - 1 occurrences/DF
+	bigrus: 0.44801732897758484 - 1 occurrences/DF
+	entire corpus: 0.44730058312416077 - 1 occurrences/DF
+	lower entropy: 0.4472188353538513 - 1 occurrences/DF
+	entropy differential: 0.4466513395309448 - 1 occurrences/DF
+	dropout: 0.44639551639556885 - 1 occurrences/DF
+	tackling: 0.4460788369178772 - 2 occurrences/DF
+	local entropy: 0.4454549551010132 - 1 occurrences/DF
+	fuzzy membership: 0.4453834891319275 - 1 occurrences/DF
+	better model: 0.44442352652549744 - 1 occurrences/DF
+	further improvement: 0.44374603033065796 - 1 occurrences/DF
+	shot charge prediction: 0.443652868270874 - 1 occurrences/DF
+	deeppatent: 0.442987859249115 - 1 occurrences/DF
+	additional statistical feature: 0.44291141629219055 - 1 occurrences/DF
+	continuous vector: 0.4426981806755066 - 2 occurrences/DF
+	multidisciplinary thesaurus: 0.4426076114177704 - 1 occurrences/DF
+	detailed information: 0.44213423132896423 - 1 occurrences/DF
+	charge prediction model: 0.4412441551685333 - 1 occurrences/DF
+	improvement: 0.4412258267402649 - 4 occurrences/DF
+	traditional ad: 0.4411076307296753 - 1 occurrences/DF
+	various body: 0.44069457054138184 - 1 occurrences/DF
+	support: 0.4396861791610718 - 1 occurrences/DF
+	interactions: 0.4387384057044983 - 1 occurrences/DF
+	bgh: 0.4385335445404053 - 1 occurrences/DF
+	chinese: 0.43851351737976074 - 1 occurrences/DF
+	approximate nearest: 0.4381083846092224 - 1 occurrences/DF
+	investment: 0.43790116906166077 - 1 occurrences/DF
+	extensive experiment: 0.43745723366737366 - 1 occurrences/DF
+	extraction: 0.4370274245738983 - 5 occurrences/DF
+	scientific article: 0.43658795952796936 - 1 occurrences/DF
+	gold: 0.4365648627281189 - 2 occurrences/DF
+	filter: 0.4359205961227417 - 1 occurrences/DF
+	including: 0.43574973940849304 - 3 occurrences/DF
+	way: 0.43525320291519165 - 2 occurrences/DF
+	underestimate neural: 0.43496304750442505 - 1 occurrences/DF
+	sliding: 0.4343692362308502 - 1 occurrences/DF
+	cluster algorithm: 0.43391153216362 - 1 occurrences/DF
+	combination: 0.4331373870372772 - 2 occurrences/DF
+	ad: 0.43293532729148865 - 2 occurrences/DF
+	random: 0.4322906732559204 - 2 occurrences/DF
+	implementing: 0.43169477581977844 - 1 occurrences/DF
+	extractive method: 0.4302513897418976 - 1 occurrences/DF
+	hand: 0.4263547956943512 - 2 occurrences/DF
+	transformers: 0.42599785327911377 - 1 occurrences/DF
+	entropy measure: 0.4253929555416107 - 1 occurrences/DF
+	purpose: 0.4252394139766693 - 1 occurrences/DF
+	previous eurlex dataset: 0.4251404106616974 - 1 occurrences/DF
+	summarizing: 0.424162358045578 - 2 occurrences/DF
+	jaccard: 0.42411819100379944 - 1 occurrences/DF
+	different technique: 0.423207551240921 - 1 occurrences/DF
+	element extraction: 0.4226453900337219 - 1 occurrences/DF
+	output: 0.4225110411643982 - 1 occurrences/DF
+	using state: 0.42182862758636475 - 2 occurrences/DF
+	various frame: 0.4214204251766205 - 1 occurrences/DF
+	resource kit: 0.42121028900146484 - 1 occurrences/DF
+	source resource kit: 0.42085087299346924 - 1 occurrences/DF
+	transformer: 0.4199541509151459 - 1 occurrences/DF
+	fewer token: 0.41983065009117126 - 1 occurrences/DF
+	intersection method: 0.41955119371414185 - 1 occurrences/DF
+	study: 0.41954606771469116 - 5 occurrences/DF
+	precision: 0.41917911171913147 - 1 occurrences/DF
+	further research work: 0.41880279779434204 - 1 occurrences/DF
+	better method: 0.4184646010398865 - 1 occurrences/DF
+	bidirectional long short: 0.41678640246391296 - 1 occurrences/DF
+	utilizing: 0.41658201813697815 - 2 occurrences/DF
+	long short: 0.41649043560028076 - 1 occurrences/DF
+	cluster identification: 0.41647869348526 - 1 occurrences/DF
+	top: 0.4163823425769806 - 1 occurrences/DF
+	extreme multi: 0.41624385118484497 - 1 occurrences/DF
+	approximate: 0.41607630252838135 - 1 occurrences/DF
+	relevant article: 0.4158261716365814 - 1 occurrences/DF
+	post - edited version: 0.4156937003135681 - 1 occurrences/DF
+	many synonym: 0.41506898403167725 - 1 occurrences/DF
+	proposed cluster: 0.4148985743522644 - 1 occurrences/DF
+	maintaining: 0.4132584035396576 - 1 occurrences/DF
+	appropriate cluster identification algorithm: 0.4128093719482422 - 1 occurrences/DF
+	post - editing model: 0.4122556447982788 - 1 occurrences/DF
+	bidirectional long: 0.4104357957839966 - 1 occurrences/DF
+	eurlex: 0.41026541590690613 - 1 occurrences/DF
+	crucial role: 0.4101971983909607 - 1 occurrences/DF
+	frequent use: 0.40818023681640625 - 1 occurrences/DF
+	summary: 0.40792781114578247 - 3 occurrences/DF
+	short: 0.40699031949043274 - 1 occurrences/DF
+	stacking: 0.40520602464675903 - 1 occurrences/DF
+	incorporating: 0.40514901280403137 - 1 occurrences/DF
+	producing: 0.40479224920272827 - 1 occurrences/DF
+	releasing: 0.40378719568252563 - 1 occurrences/DF
+	nims: 0.4035419225692749 - 1 occurrences/DF
+	bag: 0.4027707278728485 - 2 occurrences/DF
+	parallel english: 0.4027103781700134 - 1 occurrences/DF
+	han: 0.402384489774704 - 1 occurrences/DF
+	outcome: 0.4020068049430847 - 3 occurrences/DF
+	further research: 0.4016655683517456 - 1 occurrences/DF
+	improved system: 0.39908939599990845 - 1 occurrences/DF
+	fcm: 0.3983685374259949 - 1 occurrences/DF
+	overall performance: 0.39671045541763306 - 1 occurrences/DF
+	many confusing charge: 0.396450400352478 - 1 occurrences/DF
+	called intersection method: 0.3961165249347687 - 1 occurrences/DF
+	comparison: 0.3958119750022888 - 2 occurrences/DF
+	inducing: 0.39556655287742615 - 1 occurrences/DF
+	best method: 0.3943440914154053 - 1 occurrences/DF
+	aforementioned method: 0.392963171005249 - 1 occurrences/DF
+	kit: 0.3918250799179077 - 1 occurrences/DF
+	using frame: 0.3912505507469177 - 1 occurrences/DF
+	previous study: 0.390983521938324 - 1 occurrences/DF
+	growing: 0.388557106256485 - 1 occurrences/DF
+	other algorithm: 0.38720133900642395 - 1 occurrences/DF
+	technique: 0.38695472478866577 - 4 occurrences/DF
+	rectified: 0.3869194984436035 - 1 occurrences/DF
+	difference: 0.386493057012558 - 1 occurrences/DF
+	method: 0.3864121437072754 - 15 occurrences/DF
+	speed: 0.3859967589378357 - 1 occurrences/DF
+	lsi: 0.3859877288341522 - 1 occurrences/DF
+	standard cluster: 0.3847186863422394 - 1 occurrences/DF
+	manhattan: 0.3828361928462982 - 1 occurrences/DF
+	promising preliminary result: 0.3804168403148651 - 1 occurrences/DF
+	approximate nearest neighbour: 0.3794313967227936 - 1 occurrences/DF
+	international investment: 0.3768138289451599 - 1 occurrences/DF
+	consuming: 0.37659764289855957 - 1 occurrences/DF
+	other hand: 0.3755772113800049 - 2 occurrences/DF
+	current algorithm: 0.37479257583618164 - 1 occurrences/DF
+	attentive charge prediction model: 0.3743705153465271 - 1 occurrences/DF
+	extreme multi -: 0.37273645401000977 - 1 occurrences/DF
+	intelligibility: 0.3714037835597992 - 1 occurrences/DF
+	change: 0.37119346857070923 - 1 occurrences/DF
+	persistent difference: 0.365183562040329 - 1 occurrences/DF
+	automatic charge: 0.36443522572517395 - 1 occurrences/DF
+	unsatisfactory performance: 0.3630959689617157 - 1 occurrences/DF
+	rnn: 0.3624281883239746 - 1 occurrences/DF
+	post - editing analysis: 0.3616318106651306 - 1 occurrences/DF
+	appropriate cluster identification: 0.35996222496032715 - 1 occurrences/DF
+	tune: 0.3584440350532532 - 1 occurrences/DF
+	strong baseline: 0.35756129026412964 - 1 occurrences/DF
+	using linear: 0.35679998993873596 - 1 occurrences/DF
+	current multi - label state: 0.35659968852996826 - 1 occurrences/DF
+	benefiting: 0.3511897027492523 - 1 occurrences/DF
+	attentive charge prediction: 0.3457081913948059 - 1 occurrences/DF
+	overall result: 0.3344360589981079 - 1 occurrences/DF
+	using: 0.3317921757698059 - 15 occurrences/DF
+	post: 0.3240676522254944 - 2 occurrences/DF
+	end algorithm: 0.32112833857536316 - 1 occurrences/DF
+	ten: 0.31718459725379944 - 1 occurrences/DF
+	consistent improvement: 0.31421753764152527 - 1 occurrences/DF
+	releasing ten: 0.3082325756549835 - 1 occurrences/DF
+	additional algorithm: 0.3011617362499237 - 1 occurrences/DF
+	ape: 0.25960880517959595 - 1 occurrences/DF
+legal domain: 788 terms
+	legal domain: 0.9999999403953552 - 5 occurrences/DF
+	many legal domain: 0.8457950949668884 - 1 occurrences/DF
+	legal task: 0.7984275221824646 - 1 occurrences/DF
+	technical domain: 0.7916332483291626 - 1 occurrences/DF
+	legal content: 0.7876733541488647 - 1 occurrences/DF
+	legal language: 0.7875140905380249 - 2 occurrences/DF
+	legal text: 0.785010039806366 - 7 occurrences/DF
+	legal: 0.7848959565162659 - 14 occurrences/DF
+	legal document: 0.7780793905258179 - 3 occurrences/DF
+	legal question: 0.7547862529754639 - 2 occurrences/DF
+	legal scenario: 0.7516642808914185 - 1 occurrences/DF
+	domain knowledge: 0.7484355568885803 - 1 occurrences/DF
+	legal case: 0.7477246522903442 - 3 occurrences/DF
+	legal decision: 0.7465747594833374 - 1 occurrences/DF
+	legal language modeling: 0.7452820539474487 - 1 occurrences/DF
+	legal information: 0.7381506562232971 - 2 occurrences/DF
+	legal corpus: 0.7378578186035156 - 2 occurrences/DF
+	legal expertise: 0.7315719723701477 - 1 occurrences/DF
+	domain: 0.7287319898605347 - 9 occurrences/DF
+	legal question answering: 0.7212085723876953 - 2 occurrences/DF
+	legal case retrieval: 0.7199233770370483 - 3 occurrences/DF
+	label legal: 0.7141309976577759 - 1 occurrences/DF
+	open legal text: 0.7137200832366943 - 1 occurrences/DF
+	- legal text: 0.7133885622024536 - 1 occurrences/DF
+	law: 0.7048934102058411 - 6 occurrences/DF
+	legal practice: 0.7019941806793213 - 1 occurrences/DF
+	legal information extraction: 0.7005220651626587 - 2 occurrences/DF
+	legal information processing: 0.6985000371932983 - 1 occurrences/DF
+	legal attributes: 0.6965316534042358 - 1 occurrences/DF
+	legal text generation: 0.6961377859115601 - 1 occurrences/DF
+	legal spanish: 0.6948792934417725 - 1 occurrences/DF
+	legal judgment: 0.6939409971237183 - 1 occurrences/DF
+	legal production: 0.693230390548706 - 1 occurrences/DF
+	legal case retrieval task: 0.6926455497741699 - 3 occurrences/DF
+	legal information retrieval: 0.688920259475708 - 2 occurrences/DF
+	domain name: 0.6887035369873047 - 1 occurrences/DF
+	general domain: 0.6885010004043579 - 1 occurrences/DF
+	label legal text: 0.6854380369186401 - 1 occurrences/DF
+	- label legal: 0.6841679215431213 - 1 occurrences/DF
+	domain name dispute: 0.683356523513794 - 1 occurrences/DF
+	neural legal: 0.6825430393218994 - 1 occurrences/DF
+	legal bar: 0.6807166337966919 - 1 occurrences/DF
+	other domain: 0.679776668548584 - 1 occurrences/DF
+	spanish legal text: 0.6783915758132935 - 1 occurrences/DF
+	legal drafting: 0.6761749982833862 - 1 occurrences/DF
+	legal citation: 0.6761557459831238 - 1 occurrences/DF
+	- label legal text: 0.6731662154197693 - 1 occurrences/DF
+	discriminative legal: 0.669625461101532 - 1 occurrences/DF
+	legal citation graph: 0.666616678237915 - 1 occurrences/DF
+	legal effect: 0.6601430177688599 - 1 occurrences/DF
+	spanish legal: 0.6596353054046631 - 1 occurrences/DF
+	neural legal judgment: 0.6575482487678528 - 1 occurrences/DF
+	legislation knowledge: 0.6572709083557129 - 1 occurrences/DF
+	common law: 0.6564620137214661 - 1 occurrences/DF
+	available general domain: 0.6555750370025635 - 1 occurrences/DF
+	legal judgment prediction: 0.6539673805236816 - 1 occurrences/DF
+	non - legal text: 0.6507515907287598 - 1 occurrences/DF
+	legal assistant: 0.6481395363807678 - 1 occurrences/DF
+	legislation: 0.6460954546928406 - 4 occurrences/DF
+	english legal judgment: 0.6433207392692566 - 1 occurrences/DF
+	civil law: 0.642846941947937 - 2 occurrences/DF
+	tax law: 0.641032338142395 - 1 occurrences/DF
+	lawsuit: 0.639559268951416 - 1 occurrences/DF
+	case law: 0.6372295618057251 - 1 occurrences/DF
+	entity: 0.6367613077163696 - 2 occurrences/DF
+	brazilian legal: 0.6336944103240967 - 1 occurrences/DF
+	patent knowledge: 0.6332195997238159 - 1 occurrences/DF
+	dispute: 0.6299910545349121 - 1 occurrences/DF
+	greek legislation knowledge: 0.6282276511192322 - 1 occurrences/DF
+	neural legal judgment prediction: 0.6239369511604309 - 1 occurrences/DF
+	multilingual legal corpus: 0.6237803101539612 - 1 occurrences/DF
+	knowledge: 0.6237215995788574 - 4 occurrences/DF
+	named entity: 0.621906042098999 - 1 occurrences/DF
+	public document: 0.6204520463943481 - 2 occurrences/DF
+	legal judgment prediction dataset: 0.6203969717025757 - 1 occurrences/DF
+	patent: 0.618988037109375 - 1 occurrences/DF
+	law court: 0.618754506111145 - 1 occurrences/DF
+	multi - label legal: 0.616000235080719 - 1 occurrences/DF
+	eu legislation: 0.6138318777084351 - 1 occurrences/DF
+	legislation knowledge graph: 0.6114659905433655 - 1 occurrences/DF
+	patent knowledge mining: 0.6098374128341675 - 1 occurrences/DF
+	database: 0.6078265905380249 - 2 occurrences/DF
+	criminal case: 0.6051317453384399 - 1 occurrences/DF
+	public document database: 0.6036545634269714 - 1 occurrences/DF
+	multi - label legal text: 0.6016319990158081 - 1 occurrences/DF
+	legal bar exam query: 0.5997593402862549 - 1 occurrences/DF
+	discriminative legal attributes: 0.5982147455215454 - 1 occurrences/DF
+	legislative text: 0.5970596671104431 - 1 occurrences/DF
+	discourse: 0.5955410599708557 - 1 occurrences/DF
+	context: 0.5935646295547485 - 1 occurrences/DF
+	greek legislation knowledge graph: 0.5920133590698242 - 1 occurrences/DF
+	greek legislation: 0.5917543768882751 - 1 occurrences/DF
+	technical language: 0.5907366275787354 - 1 occurrences/DF
+	patent classification: 0.5906075835227966 - 1 occurrences/DF
+	german tax law: 0.5890403985977173 - 1 occurrences/DF
+	meaning: 0.5881169438362122 - 2 occurrences/DF
+	legislative document: 0.5877313017845154 - 1 occurrences/DF
+	intellectual property: 0.5876728892326355 - 1 occurrences/DF
+	english legal judgment prediction: 0.586670458316803 - 1 occurrences/DF
+	name dispute: 0.5863723754882812 - 1 occurrences/DF
+	document database: 0.5832059383392334 - 1 occurrences/DF
+	application: 0.5821096897125244 - 1 occurrences/DF
+	framework: 0.5813382267951965 - 5 occurrences/DF
+	new english legal judgment: 0.5808526873588562 - 1 occurrences/DF
+	us legislation: 0.5800226926803589 - 1 occurrences/DF
+	law entailment dataset: 0.5800021886825562 - 1 occurrences/DF
+	law entailment: 0.5796257257461548 - 1 occurrences/DF
+	agency: 0.578694224357605 - 1 occurrences/DF
+	document: 0.5782135128974915 - 13 occurrences/DF
+	extreme multi - label legal text: 0.5781815052032471 - 1 occurrences/DF
+	patent information: 0.5781459212303162 - 1 occurrences/DF
+	case retrieval: 0.5781052112579346 - 3 occurrences/DF
+	lawyer: 0.5776756405830383 - 1 occurrences/DF
+	argumentation: 0.5773349404335022 - 1 occurrences/DF
+	japanese legal bar: 0.5766059756278992 - 1 occurrences/DF
+	spanish jurisdiction: 0.5764964818954468 - 1 occurrences/DF
+	contract: 0.5759594440460205 - 1 occurrences/DF
+	authority: 0.5758886337280273 - 1 occurrences/DF
+	case law entailment dataset: 0.5751388072967529 - 1 occurrences/DF
+	rights: 0.5746396780014038 - 2 occurrences/DF
+	national legislation: 0.5739893913269043 - 1 occurrences/DF
+	negation: 0.5734949111938477 - 1 occurrences/DF
+	expert: 0.5733479261398315 - 3 occurrences/DF
+	concept: 0.5731726884841919 - 3 occurrences/DF
+	knowledge graph: 0.571151614189148 - 1 occurrences/DF
+	document type: 0.5701056122779846 - 1 occurrences/DF
+	privacy: 0.5689736008644104 - 1 occurrences/DF
+	related concept: 0.5683236122131348 - 1 occurrences/DF
+	legal bar exam: 0.5681965947151184 - 1 occurrences/DF
+	utility patent: 0.5679950714111328 - 1 occurrences/DF
+	search: 0.5676624774932861 - 2 occurrences/DF
+	topic: 0.5666702389717102 - 3 occurrences/DF
+	extreme multi - label legal: 0.5644532442092896 - 1 occurrences/DF
+	european court: 0.5635219216346741 - 2 occurrences/DF
+	english legal judgment prediction dataset: 0.5634322762489319 - 1 occurrences/DF
+	new english legal judgment prediction: 0.5632076263427734 - 1 occurrences/DF
+	semantic relationship: 0.5626484751701355 - 1 occurrences/DF
+	case retrieval task: 0.5620571374893188 - 3 occurrences/DF
+	human expert: 0.5607659816741943 - 1 occurrences/DF
+	judicial opinion: 0.5603088140487671 - 1 occurrences/DF
+	negotiation: 0.5601184368133545 - 1 occurrences/DF
+	art patent: 0.5598989725112915 - 1 occurrences/DF
+	anonymization: 0.5597014427185059 - 1 occurrences/DF
+	resources: 0.558282732963562 - 1 occurrences/DF
+	property organization: 0.5570473670959473 - 1 occurrences/DF
+	name: 0.556426465511322 - 1 occurrences/DF
+	relevant document: 0.5561442375183105 - 1 occurrences/DF
+	case law entailment: 0.5549101829528809 - 1 occurrences/DF
+	intellectual property organization: 0.554784893989563 - 1 occurrences/DF
+	prerequisite: 0.5540415048599243 - 1 occurrences/DF
+	text: 0.5536256432533264 - 15 occurrences/DF
+	relevant case retrieval: 0.5530458688735962 - 1 occurrences/DF
+	recognized entity: 0.5528712272644043 - 1 occurrences/DF
+	information: 0.552725076675415 - 8 occurrences/DF
+	world intellectual property: 0.5525277853012085 - 1 occurrences/DF
+	annotation: 0.5511153340339661 - 2 occurrences/DF
+	linking: 0.5506073236465454 - 1 occurrences/DF
+	jurisdiction: 0.549142599105835 - 1 occurrences/DF
+	corpus: 0.5487438440322876 - 9 occurrences/DF
+	issue: 0.5485262870788574 - 3 occurrences/DF
+	agreements: 0.548107385635376 - 1 occurrences/DF
+	greek language: 0.547649621963501 - 1 occurrences/DF
+	citizen: 0.5454528331756592 - 1 occurrences/DF
+	query case: 0.5452061295509338 - 1 occurrences/DF
+	query: 0.5447494983673096 - 3 occurrences/DF
+	ambiguity: 0.5447407960891724 - 1 occurrences/DF
+	european language: 0.5445731282234192 - 1 occurrences/DF
+	regional entity: 0.544289767742157 - 1 occurrences/DF
+	relevant case: 0.5439667701721191 - 1 occurrences/DF
+	patent information management: 0.5437790751457214 - 1 occurrences/DF
+	subclass: 0.5435269474983215 - 1 occurrences/DF
+	new english legal judgment prediction dataset: 0.5432170629501343 - 1 occurrences/DF
+	case retrieval dataset: 0.5426591634750366 - 1 occurrences/DF
+	information retrieval component: 0.54115891456604 - 1 occurrences/DF
+	scale case law entailment dataset: 0.5410616993904114 - 1 occurrences/DF
+	eu: 0.5410048961639404 - 2 occurrences/DF
+	retrieval component: 0.5409959554672241 - 1 occurrences/DF
+	relevant case retrieval task: 0.5408166646957397 - 1 occurrences/DF
+	administrative decision: 0.5399137735366821 - 1 occurrences/DF
+	administrative process: 0.5380881428718567 - 1 occurrences/DF
+	comparative law: 0.536980390548706 - 1 occurrences/DF
+	corresponding entity: 0.5366724133491516 - 1 occurrences/DF
+	resource: 0.5365678071975708 - 4 occurrences/DF
+	token contract: 0.5355091094970703 - 1 occurrences/DF
+	standard patent classification: 0.5346097350120544 - 1 occurrences/DF
+	topical relevance: 0.5345337986946106 - 1 occurrences/DF
+	written text: 0.5342009663581848 - 1 occurrences/DF
+	entity reference: 0.5340657830238342 - 1 occurrences/DF
+	geopolitical entity: 0.5328201055526733 - 1 occurrences/DF
+	verifying: 0.5327984094619751 - 1 occurrences/DF
+	code: 0.5320059657096863 - 2 occurrences/DF
+	treaty content: 0.5311151146888733 - 1 occurrences/DF
+	word ambiguity: 0.5293564200401306 - 1 occurrences/DF
+	standard patent: 0.5289533138275146 - 1 occurrences/DF
+	jurisprudence database: 0.528789758682251 - 1 occurrences/DF
+	person: 0.5286912322044373 - 1 occurrences/DF
+	treaty language: 0.528434157371521 - 1 occurrences/DF
+	scale case law entailment: 0.5269331932067871 - 1 occurrences/DF
+	decision: 0.5259454250335693 - 3 occurrences/DF
+	expertise: 0.5258321762084961 - 1 occurrences/DF
+	relevance: 0.5255975723266602 - 1 occurrences/DF
+	property: 0.5252835750579834 - 2 occurrences/DF
+	european union: 0.524315595626831 - 1 occurrences/DF
+	forum: 0.5240001678466797 - 1 occurrences/DF
+	tax: 0.5236821174621582 - 1 occurrences/DF
+	textual reference: 0.5224649310112 - 1 occurrences/DF
+	interface: 0.5213513970375061 - 1 occurrences/DF
+	defining: 0.5210086703300476 - 1 occurrences/DF
+	subclass level: 0.5208479166030884 - 1 occurrences/DF
+	user data: 0.5207737684249878 - 1 occurrences/DF
+	exam query: 0.5207539200782776 - 1 occurrences/DF
+	english: 0.5204691886901855 - 3 occurrences/DF
+	human: 0.5196433663368225 - 5 occurrences/DF
+	opinion: 0.5189054608345032 - 2 occurrences/DF
+	court case: 0.5188410878181458 - 1 occurrences/DF
+	directive: 0.517765998840332 - 1 occurrences/DF
+	retrieving: 0.5176520347595215 - 1 occurrences/DF
+	factual background: 0.5172756910324097 - 1 occurrences/DF
+	identifying: 0.5172550678253174 - 2 occurrences/DF
+	implementation: 0.5171788930892944 - 1 occurrences/DF
+	union: 0.5170947313308716 - 1 occurrences/DF
+	concept system: 0.5170218348503113 - 1 occurrences/DF
+	framing: 0.5169847011566162 - 1 occurrences/DF
+	token: 0.5169582366943359 - 2 occurrences/DF
+	complex rule: 0.5159741044044495 - 1 occurrences/DF
+	idf: 0.5157665610313416 - 1 occurrences/DF
+	access: 0.5151492953300476 - 1 occurrences/DF
+	court: 0.5150065422058105 - 5 occurrences/DF
+	translation system: 0.5148611068725586 - 1 occurrences/DF
+	type classification: 0.5147233605384827 - 1 occurrences/DF
+	common form: 0.5140594244003296 - 1 occurrences/DF
+	annotation process: 0.5137821435928345 - 1 occurrences/DF
+	european: 0.5136732459068298 - 3 occurrences/DF
+	european directive: 0.5132533311843872 - 1 occurrences/DF
+	privacyqa: 0.5130491256713867 - 1 occurrences/DF
+	german court: 0.5123089551925659 - 1 occurrences/DF
+	world intellectual property organization: 0.5123007297515869 - 1 occurrences/DF
+	semantics: 0.5111247897148132 - 1 occurrences/DF
+	us code: 0.5105671882629395 - 1 occurrences/DF
+	description section: 0.5105622410774231 - 1 occurrences/DF
+	time framework: 0.5100146532058716 - 1 occurrences/DF
+	country: 0.5093903541564941 - 1 occurrences/DF
+	relation: 0.5092064142227173 - 2 occurrences/DF
+	human reference: 0.5080394744873047 - 1 occurrences/DF
+	company: 0.5079626441001892 - 1 occurrences/DF
+	named: 0.507535457611084 - 1 occurrences/DF
+	definition: 0.5075318813323975 - 1 occurrences/DF
+	organization: 0.507483184337616 - 2 occurrences/DF
+	entity reference representation: 0.5071138143539429 - 1 occurrences/DF
+	written rule: 0.5058890581130981 - 1 occurrences/DF
+	world: 0.505338191986084 - 2 occurrences/DF
+	administrative open access: 0.5041769742965698 - 1 occurrences/DF
+	- token contract: 0.5039178133010864 - 1 occurrences/DF
+	statement: 0.5038591027259827 - 1 occurrences/DF
+	news: 0.502396285533905 - 1 occurrences/DF
+	aspect: 0.5022647380828857 - 2 occurrences/DF
+	united: 0.5022355318069458 - 1 occurrences/DF
+	tuple: 0.501853346824646 - 1 occurrences/DF
+	provision: 0.5017654895782471 - 1 occurrences/DF
+	website: 0.5005829334259033 - 1 occurrences/DF
+	membership: 0.5004633665084839 - 1 occurrences/DF
+	user: 0.5000160932540894 - 2 occurrences/DF
+	raw utility patent: 0.4995369017124176 - 1 occurrences/DF
+	shape: 0.49903836846351624 - 1 occurrences/DF
+	practical difficulty: 0.49899059534072876 - 1 occurrences/DF
+	utility: 0.4984385371208191 - 2 occurrences/DF
+	surrounding text: 0.4982903301715851 - 1 occurrences/DF
+	type: 0.49817949533462524 - 3 occurrences/DF
+	scale case retrieval: 0.4980979859828949 - 1 occurrences/DF
+	limited case: 0.49803322553634644 - 1 occurrences/DF
+	state court: 0.4978765845298767 - 1 occurrences/DF
+	main topic: 0.49747684597969055 - 1 occurrences/DF
+	title: 0.4973587393760681 - 1 occurrences/DF
+	kind: 0.49719566106796265 - 2 occurrences/DF
+	source resource: 0.4967121481895447 - 1 occurrences/DF
+	attribute: 0.4962801933288574 - 1 occurrences/DF
+	question: 0.49618977308273315 - 3 occurrences/DF
+	phrase: 0.49607715010643005 - 3 occurrences/DF
+	geographical landmark: 0.49600881338119507 - 1 occurrences/DF
+	content: 0.49564671516418457 - 4 occurrences/DF
+	previous administrative decision: 0.49512460827827454 - 1 occurrences/DF
+	description: 0.494829922914505 - 2 occurrences/DF
+	thesaurus: 0.4942432940006256 - 2 occurrences/DF
+	editing: 0.49411022663116455 - 1 occurrences/DF
+	sentence: 0.49393749237060547 - 4 occurrences/DF
+	spanish corpus: 0.493876188993454 - 1 occurrences/DF
+	tool: 0.49331071972846985 - 3 occurrences/DF
+	representing: 0.4929715692996979 - 1 occurrences/DF
+	upper court: 0.4927315413951874 - 1 occurrences/DF
+	category: 0.4920072853565216 - 2 occurrences/DF
+	common keyword query: 0.49135875701904297 - 1 occurrences/DF
+	nlp: 0.491222620010376 - 1 occurrences/DF
+	case study: 0.49120625853538513 - 1 occurrences/DF
+	rule: 0.4909813106060028 - 2 occurrences/DF
+	retrieving supporting case: 0.4908584654331207 - 1 occurrences/DF
+	generated text: 0.49081891775131226 - 1 occurrences/DF
+	textual entailment: 0.4904216229915619 - 1 occurrences/DF
+	demographic information: 0.4897294342517853 - 1 occurrences/DF
+	relevant literature: 0.48949509859085083 - 1 occurrences/DF
+	german tax: 0.4893944561481476 - 1 occurrences/DF
+	cascade framework: 0.4888961911201477 - 1 occurrences/DF
+	type system: 0.48877865076065063 - 1 occurrences/DF
+	united states: 0.4886156916618347 - 1 occurrences/DF
+	including word: 0.48845091462135315 - 1 occurrences/DF
+	different kind: 0.48837560415267944 - 1 occurrences/DF
+	source: 0.48814982175827026 - 2 occurrences/DF
+	political speech: 0.4881312847137451 - 1 occurrences/DF
+	cost: 0.4878016710281372 - 1 occurrences/DF
+	judge: 0.48776882886886597 - 1 occurrences/DF
+	supporting case: 0.4876710772514343 - 1 occurrences/DF
+	article level: 0.4873257875442505 - 1 occurrences/DF
+	lower court: 0.48654842376708984 - 1 occurrences/DF
+	world intellectual: 0.48640772700309753 - 1 occurrences/DF
+	world utility: 0.4863845109939575 - 1 occurrences/DF
+	contract element: 0.48601430654525757 - 1 occurrences/DF
+	potential problem: 0.4858242869377136 - 1 occurrences/DF
+	support tool: 0.4855833649635315 - 1 occurrences/DF
+	component: 0.4854406714439392 - 1 occurrences/DF
+	majority: 0.48501211404800415 - 1 occurrences/DF
+	field model: 0.48485904932022095 - 1 occurrences/DF
+	relevant answer: 0.4847806990146637 - 1 occurrences/DF
+	scoring framework: 0.48463401198387146 - 2 occurrences/DF
+	implication: 0.4846094250679016 - 1 occurrences/DF
+	structure: 0.4844551384449005 - 1 occurrences/DF
+	provider: 0.48439276218414307 - 1 occurrences/DF
+	version: 0.48423922061920166 - 3 occurrences/DF
+	like quality: 0.4836055040359497 - 1 occurrences/DF
+	supreme court: 0.48360079526901245 - 2 occurrences/DF
+	source sentence: 0.4835585057735443 - 1 occurrences/DF
+	conditional: 0.48319071531295776 - 3 occurrences/DF
+	different purpose: 0.48309755325317383 - 1 occurrences/DF
+	potential: 0.48302674293518066 - 1 occurrences/DF
+	board: 0.4829868972301483 - 1 occurrences/DF
+	editing model: 0.4829622805118561 - 1 occurrences/DF
+	process: 0.4826080799102783 - 6 occurrences/DF
+	specific argument: 0.4824374318122864 - 1 occurrences/DF
+	modeling paragraph: 0.48234570026397705 - 1 occurrences/DF
+	answerability: 0.4822842478752136 - 1 occurrences/DF
+	role: 0.48211008310317993 - 1 occurrences/DF
+	semantic edge: 0.48211002349853516 - 1 occurrences/DF
+	translator: 0.4816786050796509 - 1 occurrences/DF
+	textual entailment component: 0.4814431369304657 - 1 occurrences/DF
+	cascade: 0.48139292001724243 - 1 occurrences/DF
+	consistency: 0.4804002344608307 - 1 occurrences/DF
+	spanish: 0.48036038875579834 - 1 occurrences/DF
+	government: 0.4799438714981079 - 1 occurrences/DF
+	scale case law: 0.4797717034816742 - 1 occurrences/DF
+	violation classification: 0.47957396507263184 - 1 occurrences/DF
+	judgment: 0.47939783334732056 - 2 occurrences/DF
+	policy: 0.4783635139465332 - 2 occurrences/DF
+	lack: 0.47814032435417175 - 1 occurrences/DF
+	time structure: 0.478061318397522 - 1 occurrences/DF
+	specialized ir: 0.4778766930103302 - 1 occurrences/DF
+	including news: 0.47778090834617615 - 1 occurrences/DF
+	contract element extraction: 0.47648170590400696 - 1 occurrences/DF
+	research work: 0.47623124718666077 - 1 occurrences/DF
+	characteristic: 0.4755798876285553 - 1 occurrences/DF
+	triple: 0.47554805874824524 - 1 occurrences/DF
+	different aspect: 0.47544825077056885 - 2 occurrences/DF
+	spectrum: 0.4752836227416992 - 1 occurrences/DF
+	supreme: 0.47520482540130615 - 2 occurrences/DF
+	paragraph level: 0.475017249584198 - 1 occurrences/DF
+	distribution: 0.4747805893421173 - 1 occurrences/DF
+	project: 0.4745398163795471 - 1 occurrences/DF
+	usa: 0.4739452302455902 - 1 occurrences/DF
+	policies: 0.4739147424697876 - 1 occurrences/DF
+	greek: 0.473793089389801 - 1 occurrences/DF
+	chain: 0.4737764298915863 - 2 occurrences/DF
+	design: 0.4735044836997986 - 2 occurrences/DF
+	system: 0.47285518050193787 - 11 occurrences/DF
+	binary violation classification: 0.472463995218277 - 1 occurrences/DF
+	challenge: 0.4723009467124939 - 3 occurrences/DF
+	spanish resource: 0.47161558270454407 - 1 occurrences/DF
+	public datum: 0.47152179479599 - 1 occurrences/DF
+	particular type: 0.47148120403289795 - 1 occurrences/DF
+	bill: 0.47132444381713867 - 1 occurrences/DF
+	attributes: 0.4711178243160248 - 1 occurrences/DF
+	size: 0.47085362672805786 - 1 occurrences/DF
+	binary violation: 0.4707793593406677 - 1 occurrences/DF
+	editing dataset: 0.4702318012714386 - 1 occurrences/DF
+	term: 0.47011151909828186 - 2 occurrences/DF
+	nearest: 0.4700518846511841 - 1 occurrences/DF
+	proposal: 0.46995308995246887 - 2 occurrences/DF
+	theme classification: 0.4694651961326599 - 1 occurrences/DF
+	vast majority: 0.4689992368221283 - 1 occurrences/DF
+	other resource: 0.4683160185813904 - 1 occurrences/DF
+	professional translator: 0.468086838722229 - 1 occurrences/DF
+	syntactic similarity: 0.46745994687080383 - 1 occurrences/DF
+	directives: 0.4674128592014313 - 1 occurrences/DF
+	distinct argument: 0.46720126271247864 - 1 occurrences/DF
+	international: 0.4669930934906006 - 1 occurrences/DF
+	answer: 0.46689438819885254 - 1 occurrences/DF
+	problem: 0.46672356128692627 - 3 occurrences/DF
+	default: 0.4667053818702698 - 1 occurrences/DF
+	drafting: 0.46605074405670166 - 1 occurrences/DF
+	argumentative sentence: 0.4660400152206421 - 1 occurrences/DF
+	scale resources: 0.4660300016403198 - 1 occurrences/DF
+	extracted meaning: 0.46516454219818115 - 1 occurrences/DF
+	making process: 0.46481552720069885 - 1 occurrences/DF
+	formulaic nature: 0.46443507075309753 - 1 occurrences/DF
+	general topical relevance: 0.46387267112731934 - 1 occurrences/DF
+	describing: 0.4637548625469208 - 1 occurrences/DF
+	candidate: 0.46368083357810974 - 1 occurrences/DF
+	treaty: 0.46314537525177 - 1 occurrences/DF
+	bar exam query: 0.4626312851905823 - 1 occurrences/DF
+	extension: 0.4622937738895416 - 2 occurrences/DF
+	survey: 0.46225661039352417 - 1 occurrences/DF
+	real world utility: 0.4620577394962311 - 1 occurrences/DF
+	annotator: 0.46168777346611023 - 1 occurrences/DF
+	nature: 0.46166855096817017 - 3 occurrences/DF
+	patent classification benchmark: 0.4607512354850769 - 1 occurrences/DF
+	retrieving supporting: 0.460531622171402 - 1 occurrences/DF
+	surrounding: 0.46032440662384033 - 1 occurrences/DF
+	ireland: 0.46017831563949585 - 1 occurrences/DF
+	important prerequisite: 0.4599733352661133 - 1 occurrences/DF
+	different source: 0.45975738763809204 - 1 occurrences/DF
+	length: 0.4593222439289093 - 1 occurrences/DF
+	quality thesaurus: 0.45900824666023254 - 1 occurrences/DF
+	given sentence: 0.4588746726512909 - 1 occurrences/DF
+	signal: 0.4586496353149414 - 1 occurrences/DF
+	manual task: 0.4582710266113281 - 1 occurrences/DF
+	charge: 0.45820197463035583 - 1 occurrences/DF
+	identification: 0.4581908881664276 - 3 occurrences/DF
+	shot scenario: 0.45812827348709106 - 1 occurrences/DF
+	customer: 0.4579046368598938 - 1 occurrences/DF
+	part: 0.45724260807037354 - 3 occurrences/DF
+	body: 0.4567996561527252 - 1 occurrences/DF
+	difficulty: 0.45671379566192627 - 1 occurrences/DF
+	adjudication: 0.4566296339035034 - 1 occurrences/DF
+	quest: 0.4563932418823242 - 1 occurrences/DF
+	representative court: 0.45584118366241455 - 1 occurrences/DF
+	element: 0.45517444610595703 - 1 occurrences/DF
+	framing strategy: 0.45489227771759033 - 1 occurrences/DF
+	entailment model: 0.4547730088233948 - 1 occurrences/DF
+	internal mapping: 0.4539853036403656 - 1 occurrences/DF
+	genuine real world: 0.45396125316619873 - 1 occurrences/DF
+	entailment: 0.45372870564460754 - 3 occurrences/DF
+	extreme: 0.45340287685394287 - 1 occurrences/DF
+	page: 0.4533136188983917 - 1 occurrences/DF
+	treaty design: 0.45325326919555664 - 1 occurrences/DF
+	particular type system: 0.4531801640987396 - 1 occurrences/DF
+	case summarization: 0.4529670476913452 - 2 occurrences/DF
+	feasibility: 0.45296573638916016 - 1 occurrences/DF
+	field: 0.4526289105415344 - 1 occurrences/DF
+	length limitation: 0.4525279998779297 - 1 occurrences/DF
+	administrative adjudication: 0.45247527956962585 - 1 occurrences/DF
+	frequency: 0.45206546783447266 - 1 occurrences/DF
+	argument: 0.45186349749565125 - 1 occurrences/DF
+	character: 0.45184406638145447 - 2 occurrences/DF
+	violation: 0.4517855942249298 - 1 occurrences/DF
+	choice: 0.45118141174316406 - 1 occurrences/DF
+	existing solution: 0.4510684311389923 - 1 occurrences/DF
+	portuguese: 0.4510648250579834 - 1 occurrences/DF
+	tf: 0.45094019174575806 - 1 occurrences/DF
+	italy: 0.4505922794342041 - 1 occurrences/DF
+	appropriate: 0.450529009103775 - 1 occurrences/DF
+	section: 0.4501999318599701 - 1 occurrences/DF
+	allowing annotator: 0.449958860874176 - 1 occurrences/DF
+	belonging: 0.4498544931411743 - 1 occurrences/DF
+	exam: 0.4492611885070801 - 1 occurrences/DF
+	respondent: 0.4490647614002228 - 1 occurrences/DF
+	pos: 0.44906091690063477 - 1 occurrences/DF
+	investment treaty: 0.44853758811950684 - 1 occurrences/DF
+	annotating: 0.4484986960887909 - 1 occurrences/DF
+	certain type: 0.44838008284568787 - 1 occurrences/DF
+	edit: 0.44825875759124756 - 1 occurrences/DF
+	same information: 0.44825655221939087 - 1 occurrences/DF
+	future system: 0.44812119007110596 - 1 occurrences/DF
+	experience: 0.44784408807754517 - 1 occurrences/DF
+	case importance prediction: 0.4476455748081207 - 1 occurrences/DF
+	essential task: 0.4474581182003021 - 1 occurrences/DF
+	investigation: 0.44734787940979004 - 1 occurrences/DF
+	negotiating: 0.44616571068763733 - 1 occurrences/DF
+	mission: 0.4456116855144501 - 1 occurrences/DF
+	modification: 0.4451618790626526 - 1 occurrences/DF
+	appeal: 0.44510456919670105 - 1 occurrences/DF
+	antonym: 0.44483616948127747 - 1 occurrences/DF
+	level: 0.4447326064109802 - 4 occurrences/DF
+	asymmetry: 0.4445737898349762 - 1 occurrences/DF
+	label state: 0.44389697909355164 - 1 occurrences/DF
+	synonym: 0.44364750385284424 - 1 occurrences/DF
+	allowing: 0.44334304332733154 - 1 occurrences/DF
+	sense: 0.4433179199695587 - 1 occurrences/DF
+	draft: 0.443313330411911 - 1 occurrences/DF
+	entailment component: 0.44322654604911804 - 1 occurrences/DF
+	variety: 0.44315436482429504 - 3 occurrences/DF
+	importance: 0.44289007782936096 - 3 occurrences/DF
+	fields: 0.4428367614746094 - 2 occurrences/DF
+	building: 0.44262856245040894 - 2 occurrences/DF
+	nim: 0.442452073097229 - 1 occurrences/DF
+	collection process: 0.44243335723876953 - 1 occurrences/DF
+	- editing model: 0.4422796070575714 - 1 occurrences/DF
+	multi - token contract: 0.4421287178993225 - 1 occurrences/DF
+	reference representation: 0.44205769896507263 - 1 occurrences/DF
+	units: 0.4417601227760315 - 2 occurrences/DF
+	california: 0.44146105647087097 - 1 occurrences/DF
+	phase: 0.4411808252334595 - 1 occurrences/DF
+	case importance: 0.44093936681747437 - 1 occurrences/DF
+	relationship: 0.4406592845916748 - 1 occurrences/DF
+	judiciary: 0.44051963090896606 - 2 occurrences/DF
+	self: 0.4399612545967102 - 1 occurrences/DF
+	expectation: 0.43992626667022705 - 1 occurrences/DF
+	solution: 0.43973708152770996 - 2 occurrences/DF
+	draft international: 0.43957000970840454 - 1 occurrences/DF
+	same label: 0.4394443929195404 - 1 occurrences/DF
+	extended form: 0.4394305944442749 - 1 occurrences/DF
+	corresponding label: 0.43914228677749634 - 1 occurrences/DF
+	auxiliary corpus: 0.43911054730415344 - 1 occurrences/DF
+	use: 0.4391006529331207 - 3 occurrences/DF
+	analysed time framework: 0.4382164478302002 - 1 occurrences/DF
+	competition: 0.4375857412815094 - 3 occurrences/DF
+	brazil: 0.43739479780197144 - 1 occurrences/DF
+	different size: 0.4370442032814026 - 1 occurrences/DF
+	preference: 0.43699872493743896 - 1 occurrences/DF
+	interaction: 0.43669363856315613 - 1 occurrences/DF
+	genuine opinion: 0.4366171360015869 - 1 occurrences/DF
+	theme: 0.4365510046482086 - 1 occurrences/DF
+	hypothesis: 0.4364694654941559 - 1 occurrences/DF
+	full text: 0.4361076056957245 - 1 occurrences/DF
+	building thesauri: 0.4358367323875427 - 1 occurrences/DF
+	case: 0.4356950521469116 - 8 occurrences/DF
+	data: 0.4354049861431122 - 2 occurrences/DF
+	eurovoc: 0.43517303466796875 - 1 occurrences/DF
+	charge prediction: 0.435149610042572 - 1 occurrences/DF
+	form: 0.43460318446159363 - 2 occurrences/DF
+	editing analysis: 0.4345467984676361 - 1 occurrences/DF
+	perspectives: 0.4345071613788605 - 1 occurrences/DF
+	establishing: 0.4345064163208008 - 1 occurrences/DF
+	pair: 0.43434762954711914 - 2 occurrences/DF
+	number: 0.43403002619743347 - 1 occurrences/DF
+	scale: 0.43317484855651855 - 2 occurrences/DF
+	brazilian: 0.4322936236858368 - 1 occurrences/DF
+	performed annotation: 0.431670606136322 - 1 occurrences/DF
+	product: 0.43118157982826233 - 2 occurrences/DF
+	practical use: 0.43111684918403625 - 1 occurrences/DF
+	frame: 0.4310988187789917 - 1 occurrences/DF
+	congress: 0.4309905767440796 - 1 occurrences/DF
+	efficiency: 0.43065255880355835 - 1 occurrences/DF
+	order: 0.4297202527523041 - 2 occurrences/DF
+	time: 0.42953944206237793 - 2 occurrences/DF
+	congressional: 0.42906033992767334 - 1 occurrences/DF
+	comprise: 0.42901208996772766 - 1 occurrences/DF
+	intersection: 0.42891812324523926 - 1 occurrences/DF
+	annotating sentence: 0.42843663692474365 - 1 occurrences/DF
+	paragraph article: 0.4279652237892151 - 1 occurrences/DF
+	scale case: 0.42764270305633545 - 1 occurrences/DF
+	lateral annotation: 0.42760181427001953 - 1 occurrences/DF
+	argumentative political speech: 0.4274860620498657 - 1 occurrences/DF
+	thesauri: 0.4273098111152649 - 1 occurrences/DF
+	states: 0.42729315161705017 - 1 occurrences/DF
+	crf: 0.4261242151260376 - 1 occurrences/DF
+	tag: 0.42602866888046265 - 1 occurrences/DF
+	composition: 0.4258995056152344 - 1 occurrences/DF
+	raw utility: 0.4258612096309662 - 1 occurrences/DF
+	extending: 0.42579180002212524 - 1 occurrences/DF
+	state: 0.42548319697380066 - 7 occurrences/DF
+	rio: 0.42543476819992065 - 1 occurrences/DF
+	judgment prediction: 0.4251120388507843 - 1 occurrences/DF
+	covering: 0.42501282691955566 - 1 occurrences/DF
+	edited version: 0.42489907145500183 - 1 occurrences/DF
+	edge: 0.424857497215271 - 1 occurrences/DF
+	rank: 0.4235094487667084 - 1 occurrences/DF
+	parliamentary discourse: 0.42268794775009155 - 1 occurrences/DF
+	jurisprudence: 0.42236214876174927 - 1 occurrences/DF
+	us congress: 0.4221492111682892 - 1 occurrences/DF
+	contention: 0.42202144861221313 - 1 occurrences/DF
+	scoring: 0.42134734988212585 - 2 occurrences/DF
+	uspto-2: 0.421315461397171 - 1 occurrences/DF
+	citing text: 0.42128416895866394 - 1 occurrences/DF
+	assignment: 0.420891672372818 - 1 occurrences/DF
+	share resource: 0.4208855628967285 - 1 occurrences/DF
+	reference: 0.4206741154193878 - 3 occurrences/DF
+	lot: 0.42065542936325073 - 2 occurrences/DF
+	independent human reference: 0.4199939966201782 - 1 occurrences/DF
+	experimental evaluation: 0.4195817708969116 - 1 occurrences/DF
+	basis: 0.4194827675819397 - 1 occurrences/DF
+	transposition: 0.4192798435688019 - 1 occurrences/DF
+	limitation: 0.4192140996456146 - 1 occurrences/DF
+	cleaning: 0.4190981090068817 - 1 occurrences/DF
+	tokenized using: 0.41842925548553467 - 1 occurrences/DF
+	paragraph: 0.4181084930896759 - 3 occurrences/DF
+	- label state: 0.41800224781036377 - 1 occurrences/DF
+	general implication: 0.41784805059432983 - 1 occurrences/DF
+	practice: 0.4174482822418213 - 1 occurrences/DF
+	operating: 0.4170001149177551 - 1 occurrences/DF
+	focus: 0.41685599088668823 - 1 occurrences/DF
+	landmark: 0.41664183139801025 - 1 occurrences/DF
+	resulting post: 0.4166405200958252 - 1 occurrences/DF
+	u.s. supreme court: 0.4159316420555115 - 1 occurrences/DF
+	ruling case: 0.4153469502925873 - 1 occurrences/DF
+	ruling: 0.4153374135494232 - 1 occurrences/DF
+	subsequent decision: 0.41499823331832886 - 1 occurrences/DF
+	modifications: 0.4148712754249573 - 1 occurrences/DF
+	bar exam: 0.41437533497810364 - 1 occurrences/DF
+	original reference: 0.41422927379608154 - 1 occurrences/DF
+	consisting: 0.4137289226055145 - 1 occurrences/DF
+	neighbour: 0.41350993514060974 - 1 occurrences/DF
+	respective machine translation: 0.4133908748626709 - 1 occurrences/DF
+	analytic: 0.41316652297973633 - 1 occurrences/DF
+	particular paragraph: 0.41307294368743896 - 1 occurrences/DF
+	supporting: 0.4127131700515747 - 2 occurrences/DF
+	- editing analysis: 0.41229841113090515 - 1 occurrences/DF
+	- edit: 0.412261962890625 - 1 occurrences/DF
+	test: 0.41224825382232666 - 2 occurrences/DF
+	- edited version: 0.4118407368659973 - 1 occurrences/DF
+	corresponding: 0.4118284583091736 - 1 occurrences/DF
+	original reference translation: 0.41180258989334106 - 1 occurrences/DF
+	us congressional: 0.41163307428359985 - 1 occurrences/DF
+	alternative solution: 0.41130581498146057 - 1 occurrences/DF
+	full spectrum: 0.41128599643707275 - 1 occurrences/DF
+	containing case: 0.41098350286483765 - 1 occurrences/DF
+	model: 0.4108913242816925 - 14 occurrences/DF
+	year: 0.410513699054718 - 1 occurrences/DF
+	collection: 0.41028133034706116 - 2 occurrences/DF
+	task: 0.4098588824272156 - 14 occurrences/DF
+	inherent characteristic: 0.40985050797462463 - 1 occurrences/DF
+	spacy: 0.4096021056175232 - 1 occurrences/DF
+	congressional bill: 0.4093824028968811 - 1 occurrences/DF
+	identifying output: 0.40846335887908936 - 1 occurrences/DF
+	window: 0.4083571135997772 - 1 occurrences/DF
+	hierarchical version: 0.40805545449256897 - 1 occurrences/DF
+	record: 0.4070548117160797 - 1 occurrences/DF
+	current investment treaty: 0.40688079595565796 - 1 occurrences/DF
+	fake opinion: 0.40657636523246765 - 1 occurrences/DF
+	design benchmark: 0.406570702791214 - 1 occurrences/DF
+	previous eurlex: 0.406057208776474 - 1 occurrences/DF
+	called intersection: 0.4060248136520386 - 1 occurrences/DF
+	scenario: 0.4055585563182831 - 2 occurrences/DF
+	one: 0.4055529236793518 - 1 occurrences/DF
+	room: 0.40531742572784424 - 1 occurrences/DF
+	value: 0.4051765203475952 - 1 occurrences/DF
+	eu ape: 0.4051695466041565 - 1 occurrences/DF
+	genuine real world utility: 0.4047456383705139 - 1 occurrences/DF
+	janeiro: 0.4046289622783661 - 1 occurrences/DF
+	power: 0.40455150604248047 - 1 occurrences/DF
+	benchmark: 0.40384185314178467 - 3 occurrences/DF
+	elrc: 0.40200281143188477 - 1 occurrences/DF
+	citing: 0.40174221992492676 - 1 occurrences/DF
+	share: 0.40167003870010376 - 1 occurrences/DF
+	echr: 0.40156295895576477 - 1 occurrences/DF
+	measure: 0.40112683176994324 - 2 occurrences/DF
+	suitable candidate: 0.4009048640727997 - 1 occurrences/DF
+	de: 0.40034401416778564 - 1 occurrences/DF
+	amount: 0.39872974157333374 - 1 occurrences/DF
+	veterans: 0.3982938528060913 - 1 occurrences/DF
+	- reference: 0.39763110876083374 - 1 occurrences/DF
+	fact: 0.39728403091430664 - 3 occurrences/DF
+	additional information: 0.39530640840530396 - 1 occurrences/DF
+	available datum: 0.3952367305755615 - 1 occurrences/DF
+	billa: 0.39492085576057434 - 1 occurrences/DF
+	ir: 0.3948286771774292 - 1 occurrences/DF
+	theme assignment: 0.39433619379997253 - 1 occurrences/DF
+	resulting: 0.3942830264568329 - 1 occurrences/DF
+	other state: 0.39389631152153015 - 1 occurrences/DF
+	standard gold: 0.3936300575733185 - 1 occurrences/DF
+	set: 0.39340606331825256 - 5 occurrences/DF
+	benefit: 0.3933931589126587 - 2 occurrences/DF
+	agreement: 0.39327144622802734 - 1 occurrences/DF
+	final charge: 0.39289718866348267 - 1 occurrences/DF
+	national implementation: 0.39235854148864746 - 1 occurrences/DF
+	parameter study: 0.39216649532318115 - 1 occurrences/DF
+	analysis: 0.3920053541660309 - 4 occurrences/DF
+	system performance: 0.3917655348777771 - 2 occurrences/DF
+	aggregating: 0.3914106786251068 - 1 occurrences/DF
+	written summary: 0.3910803198814392 - 1 occurrences/DF
+	effective signal: 0.3903338611125946 - 1 occurrences/DF
+	brazilian appellate court: 0.3903220295906067 - 1 occurrences/DF
+	treaty design benchmark: 0.39021211862564087 - 1 occurrences/DF
+	c: 0.3895292580127716 - 1 occurrences/DF
+	replacing: 0.389229416847229 - 1 occurrences/DF
+	addressed using: 0.3890680968761444 - 1 occurrences/DF
+	confusing charge: 0.38817042112350464 - 1 occurrences/DF
+	combined tf: 0.3871890604496002 - 1 occurrences/DF
+	result: 0.3871326148509979 - 12 occurrences/DF
+	salient phrase: 0.38688892126083374 - 1 occurrences/DF
+	side: 0.385418176651001 - 1 occurrences/DF
+	es: 0.3846893906593323 - 1 occurrences/DF
+	national implementing: 0.38453730940818787 - 1 occurrences/DF
+	shot: 0.3838464021682739 - 2 occurrences/DF
+	applying: 0.3838207721710205 - 1 occurrences/DF
+	score: 0.38330647349357605 - 1 occurrences/DF
+	performing: 0.3831939101219177 - 2 occurrences/DF
+	u.s. supreme: 0.3831319510936737 - 1 occurrences/DF
+	corresponding nim: 0.3812221884727478 - 1 occurrences/DF
+	preliminary result: 0.38041952252388 - 1 occurrences/DF
+	m: 0.38030266761779785 - 1 occurrences/DF
+	experimental result: 0.37929821014404297 - 4 occurrences/DF
+	%: 0.37901508808135986 - 5 occurrences/DF
+	k: 0.37842562794685364 - 3 occurrences/DF
+	aggregating paragraph: 0.37831467390060425 - 1 occurrences/DF
+	introducing: 0.37820690870285034 - 2 occurrences/DF
+	proof: 0.37800782918930054 - 1 occurrences/DF
+	appellate state court: 0.3778883218765259 - 1 occurrences/DF
+	parameter: 0.3773718476295471 - 1 occurrences/DF
+	appeals: 0.3769928812980652 - 1 occurrences/DF
+	ex: 0.3769509196281433 - 1 occurrences/DF
+	finding: 0.3765096664428711 - 1 occurrences/DF
+	appearing: 0.3757249712944031 - 1 occurrences/DF
+	observation: 0.3757033944129944 - 1 occurrences/DF
+	de janeiro: 0.3753143548965454 - 1 occurrences/DF
+	comparing: 0.3747721314430237 - 2 occurrences/DF
+	proposed modification: 0.37361252307891846 - 1 occurrences/DF
+	bar: 0.3736065924167633 - 1 occurrences/DF
+	first task: 0.37309277057647705 - 1 occurrences/DF
+	auto: 0.3725064694881439 - 1 occurrences/DF
+	brazilian appellate: 0.37244856357574463 - 1 occurrences/DF
+	rio de: 0.3712180256843567 - 1 occurrences/DF
+	-: 0.3707500100135803 - 3 occurrences/DF
+	luxembourg: 0.3707377314567566 - 1 occurrences/DF
+	draft international investment: 0.3701121211051941 - 1 occurrences/DF
+	appellate court: 0.3695905804634094 - 1 occurrences/DF
+	uspto-2 m: 0.36883437633514404 - 1 occurrences/DF
+	clef: 0.368522584438324 - 1 occurrences/DF
+	combined solution: 0.3676440119743347 - 1 occurrences/DF
+	provided summary: 0.3672069311141968 - 2 occurrences/DF
+	cluster: 0.36544010043144226 - 1 occurrences/DF
+	background: 0.36504805088043213 - 1 occurrences/DF
+	experimenting: 0.3648994565010071 - 2 occurrences/DF
+	appropriate cluster: 0.3648766279220581 - 1 occurrences/DF
+	synset: 0.36481159925460815 - 1 occurrences/DF
+	strategy: 0.36479923129081726 - 1 occurrences/DF
+	dsca: 0.363604873418808 - 1 occurrences/DF
+	obtained result: 0.36333826184272766 - 1 occurrences/DF
+	assistant: 0.3626885414123535 - 1 occurrences/DF
+	serving: 0.3625395894050598 - 1 occurrences/DF
+	showing: 0.3621612787246704 - 1 occurrences/DF
+	gram: 0.3607281446456909 - 1 occurrences/DF
+	ip: 0.3602219820022583 - 1 occurrences/DF
+	us: 0.3593376576900482 - 2 occurrences/DF
+	german bundesgerichtshof: 0.35918372869491577 - 1 occurrences/DF
+	initial result: 0.3590306341648102 - 1 occurrences/DF
+	suggesting: 0.35880565643310547 - 1 occurrences/DF
+	sensible manner: 0.35785290598869324 - 1 occurrences/DF
+	shot charge: 0.3569817543029785 - 1 occurrences/DF
+	respective machine: 0.35661375522613525 - 1 occurrences/DF
+	billsum: 0.3559894561767578 - 1 occurrences/DF
+	rio de janeiro: 0.3558935523033142 - 1 occurrences/DF
+	coliee: 0.3558558225631714 - 2 occurrences/DF
+	57k: 0.35582005977630615 - 1 occurrences/DF
+	mean: 0.3528956472873688 - 1 occurrences/DF
+	datum: 0.35194870829582214 - 7 occurrences/DF
+	extending thesauri: 0.3504035472869873 - 1 occurrences/DF
+	baseline result: 0.3492547571659088 - 1 occurrences/DF
+	victor: 0.3482171595096588 - 1 occurrences/DF
+	cross: 0.3480221629142761 - 1 occurrences/DF
+	concluded one: 0.34702450037002563 - 1 occurrences/DF
+	adding: 0.34605878591537476 - 1 occurrences/DF
+	u.s.: 0.34582576155662537 - 1 occurrences/DF
+	scotus: 0.3447524309158325 - 1 occurrences/DF
+	kauanejunior: 0.3446184992790222 - 1 occurrences/DF
+	ante: 0.3442856967449188 - 1 occurrences/DF
+	predicted treaty: 0.34418153762817383 - 1 occurrences/DF
+	appellate state: 0.3440821170806885 - 1 occurrences/DF
+	experiment: 0.3416979908943176 - 5 occurrences/DF
+	end: 0.3412643074989319 - 1 occurrences/DF
+	employing: 0.34051695466041565 - 1 occurrences/DF
+	contribution: 0.3395204544067383 - 1 occurrences/DF
+	appellate: 0.3390412926673889 - 1 occurrences/DF
+	f1: 0.33897164463996887 - 3 occurrences/DF
+	current investment: 0.3387645184993744 - 1 occurrences/DF
+	wipo: 0.3385341167449951 - 1 occurrences/DF
+	analysed time: 0.33777400851249695 - 1 occurrences/DF
+	effect: 0.3348516523838043 - 1 occurrences/DF
+	bundesgerichtshof: 0.33382803201675415 - 1 occurrences/DF
+	selected treaty: 0.3338050842285156 - 1 occurrences/DF
+	according: 0.33186182379722595 - 2 occurrences/DF
+	selected treaty design benchmark: 0.3302358388900757 - 1 occurrences/DF
+	manner: 0.33013010025024414 - 1 occurrences/DF
+	𝐹𝛽=1 score: 0.32901549339294434 - 1 occurrences/DF
+	containing: 0.32488876581192017 - 1 occurrences/DF
+	modificatory: 0.32343223690986633 - 1 occurrences/DF
+	acia: 0.3232622742652893 - 1 occurrences/DF
+	baseline: 0.3231480121612549 - 3 occurrences/DF
+	means: 0.3207347095012665 - 1 occurrences/DF
+	gensim: 0.3194464147090912 - 1 occurrences/DF
+	selected treaty design: 0.3191510736942291 - 1 occurrences/DF
+	underestimate: 0.3163726031780243 - 1 occurrences/DF
+	attentive charge: 0.3141898512840271 - 1 occurrences/DF
+	bva: 0.3108701705932617 - 1 occurrences/DF
+	algorithm: 0.31034010648727417 - 6 occurrences/DF
+	considerable room: 0.3082674741744995 - 1 occurrences/DF
+	simpler wipo: 0.3076484203338623 - 1 occurrences/DF
+	other baseline: 0.3055119812488556 - 1 occurrences/DF
+	pli: 0.302365243434906 - 1 occurrences/DF
+	implementing measure: 0.29989051818847656 - 1 occurrences/DF
+	xmtc: 0.29933375120162964 - 1 occurrences/DF
+	sensible composition: 0.26677653193473816 - 1 occurrences/DF
+	ex ante: 0.2626756429672241 - 1 occurrences/DF
