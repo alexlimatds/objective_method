@@ -1,3 +1,5 @@
 find_not_revised_papers.out.txt
 __pycache__
 terms_pipeline-*-log.txt
+analysis_extracted_terms_*.pdf
+
