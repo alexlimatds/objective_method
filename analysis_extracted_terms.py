@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
+import matplotlib.ticker as mticker
 import seaborn as sns
 rcParams.update({'figure.autolayout': True})
 sns.set_style('ticks')
@@ -30,13 +31,15 @@ hist_plt.set(xlabel='Term DF', ylabel='Frequency')
 hist_plt.set_xticks(bins)
 hist_plt.text(max_df - 3, max(hist), f'{len(terms)} terms in total')
 
+plt.savefig('analysis_extracted_terms_histogram.pdf', bbox_inches='tight')
+
 # Terms with df greater than one
 sorted_df = np.argsort(term_df)
 
-log += '** Extracted terms and their document frequency **\n'
+log += '** Extracted terms with document frequency above one **\n'
 for i in sorted_df[::-1]: # iterating from backwards
   if term_df[i] > 1:
-    log += f'({term_df[i]} occurrences) {terms[i]} \n'
+    log += f'({term_df[i]} occurrences/DF) {terms[i]} \n'
 
 # Similarity
 
@@ -45,6 +48,7 @@ term_vecs = vectorizer.get_embeddings(terms)
 categories = ['deep learning', 'legal domain']
 category_vecs = vectorizer.get_embeddings(categories)
 '''
+# test data
 term_vecs = [[0.7, 0.2], [0.9, 0.1], [0.2, 0.7], [0.6, 0.3]] # a a b a
 categories = ['a','b']
 category_vecs = [[0.8, 0.1], [0.18, 0.9]]
@@ -54,34 +58,48 @@ split = split_by_category(categories, category_vecs, term_vecs)
 def sim(e):
   return e[1] # returns the cosine similarity value
 
-log += '** Terms\' similarities grouped by closest category **\n'
+log += '** Terms\' similarities and DF grouped by closest category **\n'
 for c in categories:
   log += f'{c}: {len(split[c])} terms\n'
   c_list = split[c]
   c_list.sort(reverse=True, key=sim)
   for t in c_list:
-    log += f'\t{terms[t[0]]}: {t[1]}\n'
+    log += f'\t{terms[t[0]]}: {t[1]} - {term_df[t[0]]} occurrences/DF\n'
 
 # Document Frequency vs Cossine similarity
-_, axis = plt.subplots(len(categories), sharex=True, figsize=(10, 10))
 for i, c in enumerate(categories):
+  _, axis = plt.subplots(1, figsize=(20, 20))
   X, Y = [], []
   for t in split[c]:
-    x = term_df[t[0]]
+    x = term_df[t[0]] # df
     X.append(x)
-    y = t[1]
+    y = t[1]          # similarity
     Y.append(y)
-    #axis[i].annotate(terms[t[0]], (x,y))
-  axis[i].scatter(X, Y, s=3.0)
-  axis[i].grid(axis='both')
-  axis[i].set_title(c)
+    if x >= 4 or y >= 0.8:
+      axis.annotate(terms[t[0]], (x,y))
+  axis.scatter(X, Y, s=3.0)
+  axis.set_xticks(range(max_df + 2))
+  label_format = '{:,.1f}'
+  y_ticks = np.arange(0.0, 1.2, 0.1).tolist()
+  axis.set_yticks(y_ticks)
+  axis.yaxis.set_major_locator(mticker.FixedLocator(y_ticks))
+  axis.set_yticklabels([label_format.format(x) for x in y_ticks])
+  axis.grid(axis='both')
+  axis.set_title(c)
+  axis.set(xlabel='document frequency', ylabel='cossine similarity')
 
-for ax in axis.flat:
-  ax.set(xlabel='document frequency', ylabel='cossine similarity')
+  plt.savefig(f'analysis_extracted_terms_df_vs_sim-{c}.pdf', bbox_inches='tight')
 
+# Map of occurrence matrix
+'''
+_, axis = plt.subplots(1, figsize=(20, 20))
+axis.imshow(occur_matrix, aspect='auto', interpolation=None)
+plt.savefig(f'analysis_extracted_terms_occurrence_matrix.pdf', bbox_inches='tight')
+'''
+  
 # Writing log file
 log_file = open('analysis_extracted_terms-log.txt', 'w')
 log_file.write(log)
 log_file.close()
 
-plt.show()
+#plt.show()
