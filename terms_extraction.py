@@ -4,6 +4,7 @@ This module comprises the code related to the extraction of candidate terms from
 import spacy
 from spacy.matcher import Matcher
 import numpy as np
+import re
 
 class PosTagExtractor:
   """
@@ -38,17 +39,22 @@ class PosTagExtractor:
     -------
     A python list whose each element is a candidate term.
     """
+    invalid_regex = re.compile(r'[^a-zA-Z]+') # tokens without letters
     doc = self.nlp(text)
     matches = self.matcher(doc)
     extracted = []
     for match_id, start, end in matches:
       words = []
       for i in range(start, end):
-        if doc[i].tag_ in ['NN', 'NNS']:  # if word is a noun, use its lemma (inflexed form)
-          words.append(doc[i].lemma_.lower())
-        else:
-          words.append(doc[i].text.lower())
-      extracted.append(' '.join(words))
+        if invalid_regex.fullmatch(doc[i].text):
+          print('-->MATCH: ', doc[i].text)
+        if not invalid_regex.fullmatch(doc[i].text):
+          if doc[i].tag_ in ['NN', 'NNS']:  # if word is a noun, use its lemma (inflexed form)
+            words.append(doc[i].lemma_.lower())
+          else:
+            words.append(doc[i].text.lower())
+      if len(words) > 0:
+        extracted.append(' '.join(words))
 
     return extracted
   
