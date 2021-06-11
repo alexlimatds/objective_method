@@ -39,7 +39,7 @@ class PosTagExtractor:
     -------
     A python list whose each element is a candidate term.
     """
-    invalid_regex = re.compile(r'[^a-zA-Z]+') # tokens without letters
+    invalid_regex = re.compile(r'[^a-zA-Z]+|.{1}') # tokens without letters or with just one character
     doc = self.nlp(text)
     matches = self.matcher(doc)
     extracted = []
