@@ -46,8 +46,6 @@ class PosTagExtractor:
     for match_id, start, end in matches:
       words = []
       for i in range(start, end):
-        if invalid_regex.fullmatch(doc[i].text):
-          print('-->MATCH: ', doc[i].text)
         if not invalid_regex.fullmatch(doc[i].text):
           if doc[i].tag_ in ['NN', 'NNS']:  # if word is a noun, use its lemma (inflexed form)
             words.append(doc[i].lemma_.lower())
