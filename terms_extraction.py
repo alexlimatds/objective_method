@@ -52,7 +52,7 @@ class PosTagExtractor:
 
     return extracted
   
-  def extract_with_df(self, corpus):
+  def extract_with_df(self, corpus, other_terms=None):
     """
     Performs the extraction of candidate terms from a given text. All of the candidate terms 
     are converted to lower case and the nouns are reduced to their inflexed form (lemma). 
@@ -63,6 +63,8 @@ class PosTagExtractor:
     ----------
     corpus : list of string
       A list whose each element is a document in the corpus.
+    other_terms : list of string
+      A list of previousky known terms to be added to the final term set.
 
     Returns
     -------
@@ -74,6 +76,8 @@ class PosTagExtractor:
       The same matrix returned by the __term_doc_occurrence__ function.
     """
     terms = set()
+    if other_terms:
+      terms.update(other_terms)
     terms_by_doc = [None] * len(corpus)
     for i, text in enumerate(corpus):
       extraction = self.extract(text)
