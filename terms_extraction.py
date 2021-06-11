@@ -67,8 +67,9 @@ class PosTagExtractor:
     ----------
     corpus : list of string
       A list whose each element is a document in the corpus.
-    other_terms : list of string
-      A list of previousky known terms to be added to the final term set.
+    other_terms : list of list of string
+      The previously known terms for each document. Provide a list for each document. For 
+      documents without known terms, provide None as value.
 
     Returns
     -------
@@ -80,11 +81,11 @@ class PosTagExtractor:
       The same matrix returned by the __term_doc_occurrence__ function.
     """
     terms = set()
-    if other_terms:
-      terms.update(other_terms)
     terms_by_doc = [None] * len(corpus)
     for i, text in enumerate(corpus):
       extraction = self.extract(text)
+      if other_terms and other_terms[i]:
+        extraction.extend([t.lower() for t in other_terms[i]])
       terms_by_doc[i] = set(extraction)
       terms.update(extraction)
     terms = list(terms)

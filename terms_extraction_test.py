@@ -71,7 +71,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "My name is John Doe", 
       "His name is not Paul, it is John", 
       "I forgot my name"]
-    known_terms = ['name', 'nickname', 'nick']
+    known_terms = [['nick', 'nickname'], None, ['nick']]
 
     extractor = terms_extraction.PosTagExtractor()
     terms, terms_df, occur_matrix = extractor.extract_with_df(corpus, other_terms=known_terms)
@@ -79,8 +79,9 @@ class PosTagExtractorTest(unittest.TestCase):
     self.assertEqual(occur_matrix.shape[0], len(corpus))
     self.assertEqual(len(terms_df), len(terms))
     self.assertEqual(len(terms_df), occur_matrix.shape[1])
-    for t in known_terms:
-      self.assertTrue(t in terms)
+    self.assertTrue('nick' in terms)
+    self.assertTrue('nickname' in terms)
+    self.assertFalse(None in terms)
   
 if __name__ == '__main__':
   unittest.main()
