@@ -21,14 +21,14 @@ class PosTagExtractorTest(unittest.TestCase):
     for t in extractor.extract(text):
       print(t)
 
-  def test__term_doc_occurrence__(self):
+  def test_get_term_doc_occurrence(self):
     terms_by_doc = [
       {'my', 'name', 'is', 'john', 'doe'},                # my name is joh doe
       {'his', 'name', 'is', 'not', 'paul', 'it', 'john'}, # his name is not paul it is john
       {'i', 'forgot', 'my', 'name'}]                      # i forgot my name
     terms = ['my', 'name', 'is', 'john', 'doe', 'his', 'not', 'paul', 'it', 'i', 'forgot']
     
-    occur_matrix = terms_extraction.__term_doc_occurrence__(terms, terms_by_doc)
+    occur_matrix = terms_extraction.get_term_doc_occurrence(terms, terms_by_doc)
     
     self.assertEqual(occur_matrix[0,0], 1) # 'my' in doc 0
     self.assertEqual(occur_matrix[1,0], 0) # 'my' in doc 1
@@ -39,14 +39,40 @@ class PosTagExtractorTest(unittest.TestCase):
     self.assertEqual(occur_matrix[0,2], 1) # 'is' in doc 0
     self.assertEqual(occur_matrix[1,2], 1) # 'is' in doc 1
     self.assertEqual(occur_matrix[2,2], 0) # 'is' in doc 2
+  
+  def test_extract_from_corpus_1(self):
+    corpus = [
+      "My name is John Doe", 
+      "His name is not Paul, it is John", 
+      "I forgot my name"]
     
-  def test__term_df__(self):
+    extractor = terms_extraction.PosTagExtractor()
+    terms, terms_by_doc = extractor.extract_from_corpus(corpus)
+    
+    self.assertEqual(len(terms_by_doc), len(corpus))
+
+  def test_extract_from_corpus_2(self):
+    corpus = [
+      "My name is John Doe", 
+      "His name is not Paul, it is John", 
+      "I forgot my name"]
+    known_terms = [['nick', 'nickname'], None, ['nick']]
+
+    extractor = terms_extraction.PosTagExtractor()
+    terms, terms_by_doc = extractor.extract_from_corpus(corpus, other_terms=known_terms)
+    
+    self.assertEqual(len(terms_by_doc), len(corpus))
+    self.assertTrue('nick' in terms)
+    self.assertTrue('nickname' in terms)
+    self.assertFalse(None in terms)
+
+  def test_get_term_df(self):
     matrix = np.array([
       [1, 1, 1, 0],   # doc 0
       [1, 1, 0, 0],   # doc 1
       [1, 0, 0, 1]])   # doc 2
     
-    df = terms_extraction.__term_df__(matrix)
+    df = terms_extraction.get_term_df(matrix)
     
     self.assertEqual(df[0], 3)  # term 0
     self.assertEqual(df[1], 2)  # term 1
