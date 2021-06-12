@@ -134,7 +134,7 @@ class PosTagExtractorTest(unittest.TestCase):
     self.assertEqual(terms_by_doc[2,1], 1) # nick in doc 2
     self.assertEqual(terms_by_doc[2,2], 0) # nickname not in doc 2
   
-  def test_terms_by_doc_1(self):
+  def test_terms_by_doc_2(self):
     term_idx = {
       "name": 0,
       "nick": 1
