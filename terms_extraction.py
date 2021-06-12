@@ -89,6 +89,36 @@ class PosTagExtractor:
 
     return terms, terms_by_doc
   
+  def terms_by_doc(self, term_idx, corpus, other_terms=None):
+    """
+    Generate the occurence matrix of a specific term set in a corpus.
+    
+    Parameters
+    ----------
+    term_idx : dictionary with string for key and int for value
+      A dictionary storing the reference indexes of the term set. Each key (string) is a term 
+      and each value is the reference index of such key.
+    corpus : a list of strings.
+      A list whose each element is a document.
+    
+    Returns
+    -------
+    A numpy matrix with shape (len(terms_by_doc), len(terms)). The 1 value indicates a occurrence of the 
+    term in the document. The zero value indicates the opposite case. The column indexes follow the 
+    indexes from the term_idx parameter. The row indexes follow the index from the corpus parameter.
+    """
+    terms_by_doc = np.zeros((len(corpus), len(term_idx)))
+    for i, text in enumerate(corpus):
+      extraction = self.extract(text)
+      if other_terms and other_terms[i]:
+        extraction.extend([t.lower() for t in other_terms[i]])
+      for e in extraction:
+        idx = term_idx.get(e)
+        if idx is not None:
+          terms_by_doc[i, idx] = 1
+
+    return terms_by_doc
+
   def extract_with_df(self, corpus, other_terms=None):
     """
     Performs the extraction of candidate terms from a given text. All of the candidate terms 

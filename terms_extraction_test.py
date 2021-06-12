@@ -109,5 +109,50 @@ class PosTagExtractorTest(unittest.TestCase):
     self.assertTrue('nickname' in terms)
     self.assertFalse(None in terms)
   
+  def test_terms_by_doc_1(self):
+    term_idx = {
+      "name": 0, 
+      "nick": 1, 
+      "nickname": 2
+      }
+    corpus = [
+      "My name is John Doe", 
+      "His name is not Paul, it is John", 
+      "I forgot my name"]
+    known_terms = [['nick', 'nickname'], None, ['nick']]
+
+    extractor = terms_extraction.PosTagExtractor()
+    terms_by_doc = extractor.terms_by_doc(term_idx, corpus, other_terms=known_terms)
+
+    self.assertEqual(terms_by_doc[0,0], 1) # name in doc 0
+    self.assertEqual(terms_by_doc[0,1], 1) # nick in doc 0
+    self.assertEqual(terms_by_doc[0,2], 1) # nickname in doc 0
+    self.assertEqual(terms_by_doc[1,0], 1) # name in doc 1
+    self.assertEqual(terms_by_doc[1,1], 0) # nick not in doc 1
+    self.assertEqual(terms_by_doc[1,2], 0) # nickname not in doc 1
+    self.assertEqual(terms_by_doc[2,0], 1) # name in doc 2
+    self.assertEqual(terms_by_doc[2,1], 1) # nick in doc 2
+    self.assertEqual(terms_by_doc[2,2], 0) # nickname not in doc 2
+  
+  def test_terms_by_doc_1(self):
+    term_idx = {
+      "name": 0,
+      "nick": 1
+    }
+    corpus = [
+      "My name is John Doe", 
+      "His name is not Paul, it is John", 
+      "I forgot my nickname"]
+
+    extractor = terms_extraction.PosTagExtractor()
+    terms_by_doc = extractor.terms_by_doc(term_idx, corpus)
+
+    self.assertEqual(terms_by_doc[0,0], 1) # name in doc 0
+    self.assertEqual(terms_by_doc[0,1], 0) # nick not in doc 0
+    self.assertEqual(terms_by_doc[1,0], 1) # name in doc 1
+    self.assertEqual(terms_by_doc[1,1], 0) # nick not in doc 1
+    self.assertEqual(terms_by_doc[2,0], 0) # name not in doc 2
+    self.assertEqual(terms_by_doc[2,1], 0) # nick not in doc 2
+
 if __name__ == '__main__':
   unittest.main()
