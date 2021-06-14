@@ -40,7 +40,7 @@ class PosTagExtractor:
     A python list whose each element is a candidate term.
     """
     invalid_regex = re.compile(r'[^a-zA-Z]+|.{1}') # tokens without letters or with just one character
-    doc = self.nlp(text)
+    doc = self.nlp(text.lower())
     matches = self.matcher(doc)
     extracted = []
     for match_id, start, end in matches:
@@ -48,9 +48,9 @@ class PosTagExtractor:
       for i in range(start, end):
         if not invalid_regex.fullmatch(doc[i].text):
           if doc[i].tag_ in ['NN', 'NNS']:  # if word is a noun, use its lemma (inflexed form)
-            words.append(doc[i].lemma_.lower())
+            words.append(doc[i].lemma_)
           else:
-            words.append(doc[i].text.lower())
+            words.append(doc[i].text)
       if len(words) > 0:
         extracted.append(' '.join(words))
 
