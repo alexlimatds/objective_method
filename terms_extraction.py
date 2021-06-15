@@ -27,7 +27,7 @@ class PosTagExtractor:
 
   def extract(self, text):
     """
-    Performs the extraction of candidate terms from a given text. All of the candidate terms 
+    Performs the extraction of terms from a given text. All of the terms 
     are converted to lower case and the nouns are reduced to their inflexed form (lemma).
     
     Parameters
@@ -88,7 +88,7 @@ class PosTagExtractor:
     terms = list(terms)
 
     return terms, terms_by_doc
-  
+
   def terms_by_doc(self, term_idx, corpus, other_terms=None):
     """
     Generate the occurence matrix of a specific term set in a corpus.
