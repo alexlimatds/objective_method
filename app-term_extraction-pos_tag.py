@@ -1,10 +1,7 @@
 from terms_extraction import PosTagExtractor, get_term_df
-import pandas as pd
+import data_readers
 
-data = pd.read_csv('seed_set.csv')
-seed_corpus = data['title'].str.cat(data['abstract'], sep='. ', na_rep='').tolist()
-seed_known_terms = data['keywords'].apply(lambda x: x.split(',') if x is list else None).to_list()
-
+seed_corpus, seed_known_terms = data_readers.seed_set()
 extractor = PosTagExtractor()
 terms, _ = extractor.extract_from_corpus(seed_corpus, other_terms=seed_known_terms)
 with open("extracted_terms-seed_set-pos_tag.csv", 'w') as csvfile:
@@ -22,10 +19,7 @@ with open("extracted_terms_df-seed_set-pos_tag.csv", 'w') as csvfile:
   for i in range(len(terms)):
     csvfile.write(f'{i},{terms[i]},{seed_term_df[i]}\n')
 
-data = pd.read_csv('population_set_ieee.csv')
-population_corpus = data['title'].str.cat(data['abstract'], sep='. ', na_rep='').tolist()
-population_known_terms = data['terms'].apply(lambda x: x.split(',') if x is list else None).to_list()
-
+population_corpus, population_known_terms = data_readers.population_set()
 population_occur_matrix = extractor.terms_by_doc(terms_idx, population_corpus, other_terms=population_known_terms)
 population_term_df = get_term_df(population_occur_matrix)
 with open("extracted_terms_df-population_set-pos_tag.csv", 'w') as csvfile:
