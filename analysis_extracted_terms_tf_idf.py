@@ -116,8 +116,10 @@ class TfidfVectorizer:
 
 seed_corpus, seed_known_terms = data_readers.seed_set()
 population_corpus, population_known_terms = data_readers.population_set()
-corpus = seed_corpus + population_corpus
-known_terms = seed_known_terms + population_known_terms
+#corpus = seed_corpus + population_corpus
+#known_terms = seed_known_terms + population_known_terms
+corpus = seed_corpus
+known_terms = seed_known_terms
 
 extractor = terms_extraction.PosTagExtractor()
 pipe = TfidfVectorizer(extractor)
@@ -133,11 +135,12 @@ plot_count = 0
 for i in range(n_seed_docs):
     if seed_known_terms[i]: # the paper provides author's keywords
         # histogram with tf-idf scores of all terms in the document
-        axis[plot_count,0].set_title(f'TF-IDF histogram - document {i}')
-        axis[plot_count,0].hist(tf_idf[i])
+        axis[plot_count,0].set_title(f'Histogram - document {i} - {np.count_nonzero(tf_idf[i])} terms')
+        min_positive = np.amin(tf_idf[i], where=(tf_idf[i] > 0), initial=1.0)
+        axis[plot_count,0].hist(tf_idf[i], range=(min_positive, tf_idf[i].max()))
         axis[plot_count,0].grid(axis='y')
         axis[plot_count,0].set_yscale('log')
-        axis[plot_count,0].set(xlabel='TF-IDF', ylabel='Frequency')
+        axis[plot_count,0].set(xlabel='TF-IDF')
 
         # tf-idf scores of the authors' keywords
         keywords = []
@@ -148,6 +151,7 @@ for i in range(n_seed_docs):
             key_scores.append(tf_idf[i,idx])
         y_pos = range(len(keywords))
         axis[plot_count,1].barh(y_pos, key_scores)
+        axis[plot_count,1].grid(axis='x')
         axis[plot_count,1].set_yticks(y_pos)
         axis[plot_count,1].set_yticklabels(keywords)
         axis[plot_count,1].set_title("TF-IDF scores of authors' keywords")
@@ -160,6 +164,7 @@ for i in range(n_seed_docs):
             terms.append(v[idx])
         y_pos = range(n_top)
         axis[plot_count,2].barh(y_pos, tf_idf[i,top_idx])
+        axis[plot_count,2].grid(axis='x')
         axis[plot_count,2].set_yticks(y_pos)
         axis[plot_count,2].set_yticklabels(terms)
         axis[plot_count,2].set_title(f"Top {n_top} TF-IDF scores")
