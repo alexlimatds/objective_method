@@ -23,8 +23,12 @@ ax = df2.plot(
   x='keyword', 
   y='frequency', 
   legend=False, 
-	figsize=(7, 12));
+	figsize=(7, 12))
 ax.set_ylabel('Author Keywords')
 ax.set_xlabel('Frequency')
+ax.grid(axis='x')
 plt.gcf().text(0, 0, f'There are {len(k_hist.keys())} keywords')
-plt.savefig('analysis_author_keywords.pdf', bbox_inches='tight')
+file_name = 'analysis/analysis_author_keywords.pdf'
+plt.savefig(file_name, bbox_inches='tight')
+
+print(f'Done! Check the {file_name} file.')
