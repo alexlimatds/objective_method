@@ -8,6 +8,7 @@ sns.set_style('ticks')
 from terms_extraction import PosTagExtractor
 from terms_vectorization import BertVectorizer
 from terms_categorization import split_by_category
+import analysis_functions
 import numpy as np
 
 data = pd.read_csv('seed_set.csv')
@@ -55,9 +56,6 @@ category_vecs = [[0.8, 0.1], [0.18, 0.9]]
 '''
 split = split_by_category(categories, category_vecs, term_vecs)
 
-def sim(e):
-  return e[1] # returns the cosine similarity value
-
 log += '** Terms\' similarities and DF grouped by closest category **\n'
 for c in categories:
   log += f'{c}: {len(split[c])} terms\n'
@@ -91,14 +89,24 @@ for i, c in enumerate(categories):
   plt.savefig(f'analysis_extracted_terms_df_vs_sim-{c}.pdf', bbox_inches='tight')
 
 # TODO histogram of extracted terms by doc
-  
+
 # Map of occurrence matrix
 for i, c in enumerate(categories):
   c_array = split[c]
-  c_occur_matrix = occur_matrix[:,c_array['term_index']] # occurrence matrix including just the category terms
-  _, axis = plt.subplots(1, figsize=(20, 20))
-  axis.imshow(c_occur_matrix, aspect='auto', interpolation=None)
-  plt.savefig(f'analysis_extracted_terms_occurrence_matrix-{c}.pdf', bbox_inches='tight')
+  c_occur_matrix = occur_matrix[:, c_array['term_index']] # occurrence matrix including just the terms of the current category
+  sims = split[c]
+  
+  # filtering
+  f = c_array['similarity'] >= 0.5
+  c_occur_matrix = c_occur_matrix[:, f]
+  sims = sims[f]
+  
+  analysis_functions.plot_map(
+    c_occur_matrix, 
+    terms=terms, 
+    similarities=sims, 
+    fig_size=(100,20), 
+    save_name=f'analysis_extracted_terms_occurrence_matrix-{c}.pdf')
   
 # Writing log file
 log_file = open('analysis_extracted_terms-log.txt', 'w')
