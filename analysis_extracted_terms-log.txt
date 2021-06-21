@@ -1,274 +1,274 @@
 ** Extracted terms with document frequency above one **
-(15 occurrences/DF) text 
-(15 occurrences/DF) method 
 (15 occurrences/DF) using 
-(14 occurrences/DF) task 
-(14 occurrences/DF) learning 
+(15 occurrences/DF) method 
+(15 occurrences/DF) text 
 (14 occurrences/DF) legal 
+(14 occurrences/DF) learning 
+(14 occurrences/DF) task 
 (14 occurrences/DF) model 
 (13 occurrences/DF) document 
 (13 occurrences/DF) dataset 
-(12 occurrences/DF) language 
 (12 occurrences/DF) network 
+(12 occurrences/DF) language 
 (12 occurrences/DF) result 
-(11 occurrences/DF) system 
 (11 occurrences/DF) feature 
+(11 occurrences/DF) system 
 (10 occurrences/DF) word 
-(9 occurrences/DF) neural network 
-(9 occurrences/DF) embedding 
-(9 occurrences/DF) corpus 
-(9 occurrences/DF) domain 
-(9 occurrences/DF) machine 
-(9 occurrences/DF) approach 
 (9 occurrences/DF) work 
-(8 occurrences/DF) information 
+(9 occurrences/DF) embedding 
+(9 occurrences/DF) neural network 
+(9 occurrences/DF) approach 
+(9 occurrences/DF) corpus 
+(9 occurrences/DF) machine 
+(9 occurrences/DF) domain 
 (8 occurrences/DF) case 
 (8 occurrences/DF) deep learning 
+(8 occurrences/DF) information 
+(7 occurrences/DF) paper 
 (7 occurrences/DF) state 
 (7 occurrences/DF) legal text 
-(7 occurrences/DF) paper 
 (7 occurrences/DF) datum 
-(6 occurrences/DF) representation 
-(6 occurrences/DF) algorithm 
-(6 occurrences/DF) neural 
-(6 occurrences/DF) processing 
-(6 occurrences/DF) performance 
-(6 occurrences/DF) process 
 (6 occurrences/DF) machine learning 
+(6 occurrences/DF) algorithm 
+(6 occurrences/DF) processing 
+(6 occurrences/DF) process 
+(6 occurrences/DF) performance 
 (6 occurrences/DF) law 
-(5 occurrences/DF) court 
+(6 occurrences/DF) representation 
+(6 occurrences/DF) neural 
+(5 occurrences/DF) legal domain 
+(5 occurrences/DF) retrieval 
 (5 occurrences/DF) art 
 (5 occurrences/DF) study 
-(5 occurrences/DF) human 
-(5 occurrences/DF) previous work 
-(5 occurrences/DF) experiment 
-(5 occurrences/DF) framework 
-(5 occurrences/DF) vector 
-(5 occurrences/DF) retrieval 
-(5 occurrences/DF) set 
-(5 occurrences/DF) legal domain 
-(5 occurrences/DF) extraction 
 (5 occurrences/DF) % 
-(4 occurrences/DF) experimental result 
-(4 occurrences/DF) resource 
-(4 occurrences/DF) retrieval task 
-(4 occurrences/DF) convolutional neural network 
-(4 occurrences/DF) content 
-(4 occurrences/DF) improvement 
-(4 occurrences/DF) level 
-(4 occurrences/DF) legislation 
-(4 occurrences/DF) similarity 
+(5 occurrences/DF) extraction 
+(5 occurrences/DF) framework 
+(5 occurrences/DF) experiment 
+(5 occurrences/DF) human 
+(5 occurrences/DF) vector 
+(5 occurrences/DF) set 
+(5 occurrences/DF) previous work 
+(5 occurrences/DF) court 
+(4 occurrences/DF) classifier 
 (4 occurrences/DF) analysis 
-(4 occurrences/DF) accuracy 
-(4 occurrences/DF) sentence 
-(4 occurrences/DF) natural language 
-(4 occurrences/DF) article 
-(4 occurrences/DF) classification 
 (4 occurrences/DF) latent 
 (4 occurrences/DF) technique 
-(4 occurrences/DF) classifier 
-(4 occurrences/DF) predicting 
-(4 occurrences/DF) space 
+(4 occurrences/DF) content 
+(4 occurrences/DF) natural language 
+(4 occurrences/DF) article 
 (4 occurrences/DF) knowledge 
-(3 occurrences/DF) svm 
-(3 occurrences/DF) expert 
-(3 occurrences/DF) vector space 
-(3 occurrences/DF) case retrieval task 
-(3 occurrences/DF) identification 
+(4 occurrences/DF) predicting 
+(4 occurrences/DF) convolutional neural network 
+(4 occurrences/DF) accuracy 
+(4 occurrences/DF) classification 
+(4 occurrences/DF) similarity 
+(4 occurrences/DF) retrieval task 
+(4 occurrences/DF) experimental result 
+(4 occurrences/DF) resource 
+(4 occurrences/DF) legislation 
+(4 occurrences/DF) improvement 
+(4 occurrences/DF) level 
+(4 occurrences/DF) sentence 
+(4 occurrences/DF) space 
+(3 occurrences/DF) issue 
+(3 occurrences/DF) new dataset 
+(3 occurrences/DF) nature 
+(3 occurrences/DF) outcome 
+(3 occurrences/DF) evaluation 
+(3 occurrences/DF) recognition 
 (3 occurrences/DF) label 
-(3 occurrences/DF) challenge 
-(3 occurrences/DF) legal case 
-(3 occurrences/DF) embeddings 
-(3 occurrences/DF) conditional 
-(3 occurrences/DF) question 
-(3 occurrences/DF) version 
-(3 occurrences/DF) topic 
+(3 occurrences/DF) importance 
+(3 occurrences/DF) benchmark 
+(3 occurrences/DF) f1 
+(3 occurrences/DF) svm 
+(3 occurrences/DF) vector space 
+(3 occurrences/DF) european 
 (3 occurrences/DF) - 
-(3 occurrences/DF) english 
-(3 occurrences/DF) competition 
-(3 occurrences/DF) deep 
-(3 occurrences/DF) information extraction 
-(3 occurrences/DF) clustering 
+(3 occurrences/DF) variety 
 (3 occurrences/DF) prediction 
 (3 occurrences/DF) summary 
-(3 occurrences/DF) concept 
-(3 occurrences/DF) query 
 (3 occurrences/DF) quality 
-(3 occurrences/DF) recognition 
-(3 occurrences/DF) existing 
-(3 occurrences/DF) evaluation 
-(3 occurrences/DF) case retrieval 
-(3 occurrences/DF) combining 
-(3 occurrences/DF) problem 
-(3 occurrences/DF) legal document 
+(3 occurrences/DF) concept 
 (3 occurrences/DF) answering 
-(3 occurrences/DF) reference 
-(3 occurrences/DF) legal case retrieval 
-(3 occurrences/DF) issue 
-(3 occurrences/DF) summarization 
-(3 occurrences/DF) attention 
-(3 occurrences/DF) european 
-(3 occurrences/DF) importance 
-(3 occurrences/DF) variety 
-(3 occurrences/DF) tool 
-(3 occurrences/DF) baseline 
-(3 occurrences/DF) documents 
-(3 occurrences/DF) decision 
-(3 occurrences/DF) phrase 
+(3 occurrences/DF) conditional 
+(3 occurrences/DF) version 
+(3 occurrences/DF) legal document 
+(3 occurrences/DF) english 
+(3 occurrences/DF) clustering 
 (3 occurrences/DF) part 
-(3 occurrences/DF) including 
-(3 occurrences/DF) deep neural network 
-(3 occurrences/DF) new dataset 
-(3 occurrences/DF) outcome 
-(3 occurrences/DF) benchmark 
-(3 occurrences/DF) nature 
-(3 occurrences/DF) entailment 
-(3 occurrences/DF) fact 
 (3 occurrences/DF) mining 
-(3 occurrences/DF) f1 
-(3 occurrences/DF) k 
-(3 occurrences/DF) use 
-(3 occurrences/DF) type 
+(3 occurrences/DF) combining 
 (3 occurrences/DF) legal case retrieval task 
+(3 occurrences/DF) k 
+(3 occurrences/DF) phrase 
+(3 occurrences/DF) query 
+(3 occurrences/DF) use 
+(3 occurrences/DF) entailment 
+(3 occurrences/DF) documents 
+(3 occurrences/DF) reference 
+(3 occurrences/DF) summarization 
+(3 occurrences/DF) type 
+(3 occurrences/DF) existing 
+(3 occurrences/DF) baseline 
+(3 occurrences/DF) deep 
+(3 occurrences/DF) competition 
+(3 occurrences/DF) attention 
+(3 occurrences/DF) tool 
+(3 occurrences/DF) question 
+(3 occurrences/DF) case retrieval task 
+(3 occurrences/DF) expert 
+(3 occurrences/DF) including 
+(3 occurrences/DF) topic 
 (3 occurrences/DF) paragraph 
-(2 occurrences/DF) units 
-(2 occurrences/DF) recurrent neural networks 
-(2 occurrences/DF) building 
-(2 occurrences/DF) hand 
-(2 occurrences/DF) modeling 
-(2 occurrences/DF) legal question 
-(2 occurrences/DF) category 
-(2 occurrences/DF) supporting 
-(2 occurrences/DF) speech 
-(2 occurrences/DF) legal information 
-(2 occurrences/DF) document retrieval 
-(2 occurrences/DF) scenario 
-(2 occurrences/DF) learning algorithm 
-(2 occurrences/DF) description 
-(2 occurrences/DF) proposal 
-(2 occurrences/DF) summarizing 
-(2 occurrences/DF) graph 
-(2 occurrences/DF) post 
-(2 occurrences/DF) public document 
-(2 occurrences/DF) supreme court 
-(2 occurrences/DF) annotation 
-(2 occurrences/DF) scoring 
-(2 occurrences/DF) effectiveness 
-(2 occurrences/DF) using bag 
-(2 occurrences/DF) tackling 
-(2 occurrences/DF) performing 
-(2 occurrences/DF) question answering 
-(2 occurrences/DF) random 
-(2 occurrences/DF) pair 
-(2 occurrences/DF) fields 
-(2 occurrences/DF) language processing 
-(2 occurrences/DF) order 
-(2 occurrences/DF) retrieval system performance 
-(2 occurrences/DF) proposed model 
-(2 occurrences/DF) way 
-(2 occurrences/DF) shot 
-(2 occurrences/DF) answering system 
-(2 occurrences/DF) computer 
-(2 occurrences/DF) rights 
-(2 occurrences/DF) european court 
-(2 occurrences/DF) lot 
-(2 occurrences/DF) data 
+(3 occurrences/DF) identification 
+(3 occurrences/DF) case retrieval 
+(3 occurrences/DF) fact 
+(3 occurrences/DF) information extraction 
+(3 occurrences/DF) challenge 
+(3 occurrences/DF) legal case retrieval 
+(3 occurrences/DF) embeddings 
+(3 occurrences/DF) decision 
+(3 occurrences/DF) legal case 
+(3 occurrences/DF) deep neural network 
+(3 occurrences/DF) problem 
 (2 occurrences/DF) us 
-(2 occurrences/DF) recurrent neural 
+(2 occurrences/DF) judiciary 
+(2 occurrences/DF) convolutional neural 
+(2 occurrences/DF) summarizing 
+(2 occurrences/DF) source 
+(2 occurrences/DF) utilizing 
 (2 occurrences/DF) encoding document 
-(2 occurrences/DF) collection 
-(2 occurrences/DF) eu 
+(2 occurrences/DF) pair 
+(2 occurrences/DF) form 
+(2 occurrences/DF) supreme court 
+(2 occurrences/DF) opinion 
 (2 occurrences/DF) comparison 
-(2 occurrences/DF) bert 
-(2 occurrences/DF) ad 
-(2 occurrences/DF) legal information retrieval 
-(2 occurrences/DF) search 
-(2 occurrences/DF) neural networks 
-(2 occurrences/DF) entity 
-(2 occurrences/DF) measure 
-(2 occurrences/DF) utility 
-(2 occurrences/DF) networks 
+(2 occurrences/DF) language processing 
+(2 occurrences/DF) tackling 
+(2 occurrences/DF) experimenting 
 (2 occurrences/DF) semantic similarity 
+(2 occurrences/DF) hand 
+(2 occurrences/DF) solution 
+(2 occurrences/DF) civil law 
+(2 occurrences/DF) gold 
+(2 occurrences/DF) encoded summarization 
+(2 occurrences/DF) entity 
+(2 occurrences/DF) training 
+(2 occurrences/DF) supreme 
+(2 occurrences/DF) scenario 
+(2 occurrences/DF) term 
+(2 occurrences/DF) continuous vector space 
+(2 occurrences/DF) generation 
+(2 occurrences/DF) product 
+(2 occurrences/DF) bert 
+(2 occurrences/DF) different aspect 
+(2 occurrences/DF) thesaurus 
+(2 occurrences/DF) lot 
+(2 occurrences/DF) using bag 
+(2 occurrences/DF) speech 
+(2 occurrences/DF) scoring 
+(2 occurrences/DF) information retrieval 
+(2 occurrences/DF) utility 
+(2 occurrences/DF) coliee 
+(2 occurrences/DF) using state 
+(2 occurrences/DF) scale 
+(2 occurrences/DF) rule 
+(2 occurrences/DF) scoring framework 
+(2 occurrences/DF) public document 
+(2 occurrences/DF) experimental dataset 
+(2 occurrences/DF) code 
+(2 occurrences/DF) fields 
+(2 occurrences/DF) measure 
+(2 occurrences/DF) encoding 
+(2 occurrences/DF) answering system 
+(2 occurrences/DF) legal information extraction 
+(2 occurrences/DF) meaning 
+(2 occurrences/DF) rights 
+(2 occurrences/DF) neural networks 
+(2 occurrences/DF) provided summary 
+(2 occurrences/DF) extension 
+(2 occurrences/DF) identifying 
+(2 occurrences/DF) computer 
+(2 occurrences/DF) legal language 
+(2 occurrences/DF) post 
+(2 occurrences/DF) ranking 
+(2 occurrences/DF) document representation 
+(2 occurrences/DF) kind 
+(2 occurrences/DF) combination 
+(2 occurrences/DF) lexical feature 
+(2 occurrences/DF) other hand 
+(2 occurrences/DF) learning algorithm 
+(2 occurrences/DF) legal information 
+(2 occurrences/DF) collection 
+(2 occurrences/DF) building 
+(2 occurrences/DF) deep convolutional neural network 
+(2 occurrences/DF) random 
+(2 occurrences/DF) world 
+(2 occurrences/DF) case summarization 
+(2 occurrences/DF) legal corpus 
+(2 occurrences/DF) units 
 (2 occurrences/DF) recurrent 
 (2 occurrences/DF) legal question answering 
-(2 occurrences/DF) encoded summarization 
-(2 occurrences/DF) source 
-(2 occurrences/DF) extension 
-(2 occurrences/DF) thesaurus 
-(2 occurrences/DF) combination 
-(2 occurrences/DF) encoding 
-(2 occurrences/DF) linear 
-(2 occurrences/DF) system performance 
-(2 occurrences/DF) convolutional neural 
-(2 occurrences/DF) time 
-(2 occurrences/DF) different aspect 
-(2 occurrences/DF) automatic 
-(2 occurrences/DF) legal corpus 
-(2 occurrences/DF) case summarization 
-(2 occurrences/DF) kind 
-(2 occurrences/DF) opinion 
-(2 occurrences/DF) chain 
-(2 occurrences/DF) product 
-(2 occurrences/DF) cnn 
-(2 occurrences/DF) test 
-(2 occurrences/DF) document representation 
-(2 occurrences/DF) retrieval system 
-(2 occurrences/DF) utilizing 
-(2 occurrences/DF) conditional random 
-(2 occurrences/DF) form 
-(2 occurrences/DF) benefit 
-(2 occurrences/DF) term 
-(2 occurrences/DF) policy 
-(2 occurrences/DF) scoring framework 
-(2 occurrences/DF) continuous vector space 
-(2 occurrences/DF) organization 
-(2 occurrences/DF) rule 
-(2 occurrences/DF) text classification 
-(2 occurrences/DF) using state 
-(2 occurrences/DF) legal information extraction 
-(2 occurrences/DF) identifying 
-(2 occurrences/DF) deep convolutional neural network 
-(2 occurrences/DF) user 
-(2 occurrences/DF) judgment 
-(2 occurrences/DF) training 
-(2 occurrences/DF) civil law 
-(2 occurrences/DF) ranking 
-(2 occurrences/DF) according 
-(2 occurrences/DF) token 
-(2 occurrences/DF) experimenting 
+(2 occurrences/DF) proposed model 
+(2 occurrences/DF) proposal 
 (2 occurrences/DF) relation 
-(2 occurrences/DF) character 
-(2 occurrences/DF) lexical feature 
-(2 occurrences/DF) natural language processing 
-(2 occurrences/DF) provided summary 
-(2 occurrences/DF) design 
-(2 occurrences/DF) other hand 
-(2 occurrences/DF) coliee 
-(2 occurrences/DF) generation 
-(2 occurrences/DF) aspect 
-(2 occurrences/DF) information retrieval 
-(2 occurrences/DF) continuous vector 
-(2 occurrences/DF) solution 
-(2 occurrences/DF) recurrent neural network 
+(2 occurrences/DF) legal question 
+(2 occurrences/DF) effectiveness 
 (2 occurrences/DF) comparing 
-(2 occurrences/DF) gold 
-(2 occurrences/DF) legal language 
-(2 occurrences/DF) introducing 
-(2 occurrences/DF) meaning 
-(2 occurrences/DF) world 
-(2 occurrences/DF) bag 
-(2 occurrences/DF) document summarization 
-(2 occurrences/DF) supreme 
-(2 occurrences/DF) experimental dataset 
-(2 occurrences/DF) scale 
-(2 occurrences/DF) summarizing document 
-(2 occurrences/DF) ranking svm 
-(2 occurrences/DF) judiciary 
-(2 occurrences/DF) code 
-(2 occurrences/DF) database 
-(2 occurrences/DF) convolutional 
-(2 occurrences/DF) property 
+(2 occurrences/DF) data 
+(2 occurrences/DF) cnn 
+(2 occurrences/DF) aspect 
+(2 occurrences/DF) supporting 
+(2 occurrences/DF) recurrent neural networks 
+(2 occurrences/DF) graph 
+(2 occurrences/DF) system performance 
+(2 occurrences/DF) recurrent neural 
+(2 occurrences/DF) retrieval system 
 (2 occurrences/DF) entropy 
+(2 occurrences/DF) search 
+(2 occurrences/DF) chain 
+(2 occurrences/DF) way 
+(2 occurrences/DF) benefit 
+(2 occurrences/DF) text classification 
+(2 occurrences/DF) annotation 
+(2 occurrences/DF) networks 
+(2 occurrences/DF) policy 
+(2 occurrences/DF) recurrent neural network 
+(2 occurrences/DF) database 
+(2 occurrences/DF) description 
+(2 occurrences/DF) eu 
+(2 occurrences/DF) summarizing document 
+(2 occurrences/DF) question answering 
+(2 occurrences/DF) category 
+(2 occurrences/DF) conditional random 
+(2 occurrences/DF) modeling 
+(2 occurrences/DF) ad 
+(2 occurrences/DF) document summarization 
+(2 occurrences/DF) continuous vector 
+(2 occurrences/DF) automatic 
+(2 occurrences/DF) according 
+(2 occurrences/DF) property 
+(2 occurrences/DF) performing 
+(2 occurrences/DF) retrieval system performance 
+(2 occurrences/DF) token 
+(2 occurrences/DF) organization 
+(2 occurrences/DF) introducing 
+(2 occurrences/DF) convolutional 
+(2 occurrences/DF) design 
+(2 occurrences/DF) test 
+(2 occurrences/DF) natural language processing 
+(2 occurrences/DF) european court 
+(2 occurrences/DF) bag 
+(2 occurrences/DF) user 
+(2 occurrences/DF) document retrieval 
+(2 occurrences/DF) judgment 
+(2 occurrences/DF) ranking svm 
+(2 occurrences/DF) shot 
+(2 occurrences/DF) time 
+(2 occurrences/DF) character 
+(2 occurrences/DF) order 
+(2 occurrences/DF) legal information retrieval 
+(2 occurrences/DF) linear 
 ** Terms' similarities and DF grouped by closest category **
 deep learning: 576 terms
 	deep learning: 0.9999998807907104 - 8 occurrences/DF
