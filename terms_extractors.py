@@ -52,7 +52,7 @@ class PosTagExtractor:
           else:
             words.append(doc[i].text)
       if len(words) > 0:
-        extracted.append(' '.join(words))
+        extracted.append(' '.join(words).strip())
 
     return extracted
 
@@ -82,7 +82,7 @@ class PosTagExtractor:
     for i, text in enumerate(corpus):
       extraction = self.extract(text)
       if other_terms and other_terms[i]:
-        extraction.extend([t.lower() for t in other_terms[i]])
+        extraction.extend([t.lower().strip() for t in other_terms[i]])
       terms_by_doc[i] = set(extraction)
       terms.update(extraction)
     terms = list(terms)
@@ -111,7 +111,7 @@ class PosTagExtractor:
     for i, text in enumerate(corpus):
       extraction = self.extract(text)
       if other_terms and other_terms[i]:
-        extraction.extend([t.lower() for t in other_terms[i]])
+        extraction.extend([t.lower().strip() for t in other_terms[i]])
       for e in extraction:
         idx = term_idx.get(e)
         if idx is not None:
