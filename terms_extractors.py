@@ -8,8 +8,9 @@ import re
 
 class PosTagExtractor:
   """
-  It uses POS tagging to perform extraction. The aim is to extract the noun phrases, including those 
-  containing present and past participles. The desired pattern is (JJ|JJR|JJS|VBG|VBN)*(NN|NNS|NNP|NNPS|VBG)+
+  This extractor considers noun phrases and nouns as terms and so it applies POS tagging to perform 
+  the extraction. The aim is to extract the noun phrases, including those containing present and past 
+  participles. The desired pattern is (JJ|JJR|JJS|VBG|VBN)*(NN|NNS|NNP|NNPS|VBG)+.
   """
   
   def __init__(self):
@@ -33,11 +34,11 @@ class PosTagExtractor:
     Parameters
     ----------
     text : string
-      The text from which the candidate terms will be extracted.
+      The text from which the terms will be extracted.
       
     Returns
     -------
-    A python list whose each element is a candidate term.
+    A python list whose each element is a term.
     """
     invalid_regex = re.compile(r'[^a-zA-Z]+|.{1}') # tokens without letters or with just one character
     doc = self.nlp(text.lower())
@@ -58,7 +59,7 @@ class PosTagExtractor:
 
   def extract_from_corpus(self, corpus, other_terms=None):
     """
-    Performs the extraction of candidate terms from a given text. All of the candidate terms 
+    Performs the extraction of terms from a given text. All of the terms 
     are converted to lower case and the nouns are reduced to their inflexed form (lemma). 
 
     Parameters
@@ -103,9 +104,10 @@ class PosTagExtractor:
     
     Returns
     -------
-    A numpy matrix with shape (len(terms_by_doc), len(terms)). The 1 value indicates a occurrence of the 
-    term in the document. The zero value indicates the opposite case. The column indexes follow the 
-    indexes from the term_idx parameter. The row indexes follow the index from the corpus parameter.
+    A numpy matrix with shape (len(terms_by_doc), len(terms)). A value equals to 1 indicates the 
+    occurrence of that term in the document. The zero value indicates the opposite case. 
+    The column indexes follow the indexes from the term_idx parameter. The row indexes follow 
+    the index from the corpus parameter.
     """
     terms_by_doc = np.zeros((len(corpus), len(term_idx)))
     for i, text in enumerate(corpus):
@@ -121,7 +123,7 @@ class PosTagExtractor:
 
   def extract_with_df(self, corpus, other_terms=None):
     """
-    Performs the extraction of candidate terms from a given text. All of the candidate terms 
+    Performs the extraction of terms from a given text. All of the terms 
     are converted to lower case and the nouns are reduced to their inflexed form (lemma). 
     It also generates the occurrence matrix of the terms in the documents and the term document 
     frequencies.
@@ -150,6 +152,78 @@ class PosTagExtractor:
     term_df = get_term_df(occurrence_matrix)
     
     return terms, term_df, occurrence_matrix
+
+#end: PosTagExtractor
+
+class TokenExtractor:
+
+  def __init__(self):
+    self.nlp = spacy.load("en_core_web_sm", disable=["ner"])
+
+  def extract_from_corpus(self, corpus):
+    """
+    Performs the extraction of tokens from a given text. All of the extracted tokens 
+    are converted to lower case and are reduced to their inflexed form (lemma) when 
+    it is indentified as a noun.
+
+    Parameters
+    ----------
+    corpus : list of string
+      A list whose each element is a document in the corpus.
+
+    Returns
+    -------
+    tokens : list of string
+      A list whose each element is an extracted token.
+    tokens_by_doc : list of set of strings
+      The token set of each document. The list follows the same document indexes from 
+      the corpus parameter.
+    """
+    invalid_regex = re.compile(r'[^a-zA-Z]+|.{1}') # tokens without letters or with just one character
+    extracted = set()
+    tokens_by_doc = list()
+    for doc in self.nlp.pipe(corpus):
+      doc_tokens = set()
+      for tok in doc:
+        if not invalid_regex.fullmatch(tok.text):
+          if tok.tag_.startswith('N'):
+            token = tok.lemma_.lower()
+          else:
+            token = tok.text.lower()
+        extracted.add(token)
+        doc_tokens.add(token)
+      tokens_by_doc.append(doc_tokens)
+
+    return list(extracted), tokens_by_doc
+
+  def terms_by_doc(self, token_idx, corpus):
+    """
+    Generate the occurence matrix of a specific token set in a corpus.
+    
+    Parameters
+    ----------
+    token_idx : dictionary with string for key and int for value
+      A dictionary storing the reference indexes of the token set. Each key (string) is a token 
+      and each value is the reference index of such key.
+    corpus : a list of strings.
+      A list whose each element is a document.
+    
+    Returns
+    -------
+    A numpy matrix with shape (len(corpus), len(token_idx)). A value equals to 1 indicates the occurrence of that
+    token in the document. The zero value indicates the opposite case. The column indexes follow the 
+    indexes from the token_idx parameter. The row indexes follow the index from the corpus parameter.
+    """
+    matrix = np.zeros((len(corpus), len(token_idx)))
+    _, sets = self.extract_from_corpus(corpus)
+    for i, by_doc in enumerate(sets):
+      for tok in by_doc:
+        idx = token_idx.get(tok)
+        if idx is not None:
+          matrix[i, idx] = 1
+
+    return matrix
+#end: TokenExtractor
 
 def get_term_df(occurrence_matrix):
   """
