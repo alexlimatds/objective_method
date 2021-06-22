@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/alexandre/anaconda3/envs/PyTorch/bin/python"
+    "python.pythonPath": "/home/alexandre/anaconda3/envs/PyTorch/bin/python",
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}",
+    },
+    "python.envFile": "${workspaceFolder}/.env"
 }
