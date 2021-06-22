@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-import terms_extraction
+import terms_extractors
 
 class PosTagExtractorTest(unittest.TestCase):
   def test_extract(self):
@@ -16,7 +16,7 @@ class PosTagExtractorTest(unittest.TestCase):
     and consistent improvements than other state-of-the-art baselines. Specifically, our model outperforms other baselines 
     by more than 50% in the few-shot scenario. Our codes and datasets can be obtained from https://github.com/thunlp/attribute_charge.'''
 
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     print('test_extractor log:')
     for t in extractor.extract(text):
       print(t)
@@ -28,7 +28,7 @@ class PosTagExtractorTest(unittest.TestCase):
       {'i', 'forgot', 'my', 'name'}]                      # i forgot my name
     terms = ['my', 'name', 'is', 'john', 'doe', 'his', 'not', 'paul', 'it', 'i', 'forgot']
     
-    occur_matrix = terms_extraction.get_term_doc_occurrence(terms, terms_by_doc)
+    occur_matrix = terms_extractors.get_term_doc_occurrence(terms, terms_by_doc)
     
     self.assertEqual(occur_matrix[0,0], 1) # 'my' in doc 0
     self.assertEqual(occur_matrix[1,0], 0) # 'my' in doc 1
@@ -46,7 +46,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "His name is not Paul, it is John", 
       "I forgot my name"]
     
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     terms, terms_by_doc = extractor.extract_from_corpus(corpus)
     
     self.assertEqual(len(terms_by_doc), len(corpus))
@@ -58,7 +58,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "I forgot my name"]
     known_terms = [['nick', 'nickname'], None, ['nick']]
 
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     terms, terms_by_doc = extractor.extract_from_corpus(corpus, other_terms=known_terms)
     
     self.assertEqual(len(terms_by_doc), len(corpus))
@@ -72,7 +72,7 @@ class PosTagExtractorTest(unittest.TestCase):
       [1, 1, 0, 0],   # doc 1
       [1, 0, 0, 1]])   # doc 2
     
-    df = terms_extraction.get_term_df(matrix)
+    df = terms_extractors.get_term_df(matrix)
     
     self.assertEqual(df[0], 3)  # term 0
     self.assertEqual(df[1], 2)  # term 1
@@ -85,7 +85,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "His name is not Paul, it is John", 
       "I forgot my name"]
     
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     terms, terms_df, occur_matrix = extractor.extract_with_df(corpus)
     
     self.assertEqual(occur_matrix.shape[0], len(corpus))
@@ -99,7 +99,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "I forgot my name"]
     known_terms = [['nick', 'nickname'], None, ['nick']]
 
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     terms, terms_df, occur_matrix = extractor.extract_with_df(corpus, other_terms=known_terms)
     
     self.assertEqual(occur_matrix.shape[0], len(corpus))
@@ -121,7 +121,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "I forgot my name"]
     known_terms = [['nick', 'nickname'], None, ['nick']]
 
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     terms_by_doc = extractor.terms_by_doc(term_idx, corpus, other_terms=known_terms)
 
     self.assertEqual(terms_by_doc[0,0], 1) # name in doc 0
@@ -144,7 +144,7 @@ class PosTagExtractorTest(unittest.TestCase):
       "His name is not Paul, it is John", 
       "I forgot my nickname"]
 
-    extractor = terms_extraction.PosTagExtractor()
+    extractor = terms_extractors.PosTagExtractor()
     terms_by_doc = extractor.terms_by_doc(term_idx, corpus)
 
     self.assertEqual(terms_by_doc[0,0], 1) # name in doc 0

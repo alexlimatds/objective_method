@@ -5,7 +5,7 @@ import matplotlib.ticker as mticker
 import seaborn as sns
 rcParams.update({'figure.autolayout': True})
 sns.set_style('ticks')
-from terms_extraction import PosTagExtractor
+from terms_extractors import PosTagExtractor
 from terms_vectorization import BertVectorizer
 from terms_categorization import split_by_category
 import analysis_functions

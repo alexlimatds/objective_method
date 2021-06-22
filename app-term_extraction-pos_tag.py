@@ -1,4 +1,4 @@
-from terms_extraction import PosTagExtractor, get_term_df
+from terms_extractors import PosTagExtractor, get_term_df
 import data_readers
 
 seed_corpus, seed_known_terms = data_readers.seed_set()

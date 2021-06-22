@@ -2,7 +2,7 @@
 Module containing the pipeline code, i.e., the object in charge of generate the 
 potential terms to be used in a boolean query.
 """
-import candidates_extraction, terms_categorization, terms_vectorization
+import terms_extractors, terms_categorization, terms_vectorization
 import time
 import traceback
 
@@ -35,7 +35,7 @@ class TermsClusteringPipeline:
     
     try:
       log.append('Starting term extraction.')
-      extractor = candidates_extraction.PosTagExtractor()
+      extractor = terms_extractors.PosTagExtractor()
       terms = set()
       for i, text in enumerate(corpus):
         log.append(f'\tProcessing text number {i}.')

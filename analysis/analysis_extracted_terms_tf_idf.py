@@ -7,7 +7,7 @@ from matplotlib import rcParams
 import seaborn as sns
 rcParams.update({'figure.autolayout': True})
 sns.set_style('white')
-import terms_extraction
+import terms_extractors
 import data_readers
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import Pipeline
@@ -120,7 +120,7 @@ population_corpus, population_known_terms = data_readers.population_set()
 corpus = seed_corpus + population_corpus
 known_terms = seed_known_terms + population_known_terms
 
-extractor = terms_extraction.PosTagExtractor()
+extractor = terms_extractors.PosTagExtractor()
 pipe = TfidfVectorizer(extractor)
 pipe.fit(corpus, known_terms)
 
