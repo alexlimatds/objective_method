@@ -190,8 +190,8 @@ class TokenExtractor:
             token = tok.lemma_.lower()
           else:
             token = tok.text.lower()
-        extracted.add(token)
-        doc_tokens.add(token)
+          extracted.add(token)
+          doc_tokens.add(token)
       tokens_by_doc.append(doc_tokens)
 
     return list(extracted), tokens_by_doc
