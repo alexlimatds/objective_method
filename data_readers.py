@@ -21,7 +21,7 @@ def seed_set():
     known_terms = []
     for s in data['keywords'].to_list():
         if type(s) == str:
-            known_terms.append(s.split(','))
+            known_terms.append([t.strip() for t in s.split(',')])
         else:
             known_terms.append(None)
     
@@ -45,7 +45,7 @@ def population_set():
     known_terms = []
     for s in data['terms'].to_list():
         if type(s) == str:
-            known_terms.append(s.split(','))
+            known_terms.append([t.strip() for t in s.split(',')])
         else:
             known_terms.append(None)
     
