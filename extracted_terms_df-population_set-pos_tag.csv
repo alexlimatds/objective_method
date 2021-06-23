@@ -1,1264 +1,1264 @@
-0,lack,0.0
-1,legal case retrieval task,0.0
-2,website,0.0
-3,court decision,0.0
-4,title,0.0
-5,company,76.0
-6,mining,76.0
-7,patent information,0.0
-8,particular type system,0.0
-9,baseline,0.0
-10,respondent,0.0
-11,ex ante,0.0
-12,dataset clef,0.0
-13,proof,227.0
-14,neural baseline,0.0
-15,building,76.0
-16,signal,75.0
-17,automated identification,0.0
-18,concluded one,0.0
-19,privacy,0.0
-20,legislation knowledge,0.0
-21,analysed time,0.0
-22,effect,529.0
-23,traditional machine learning approach,0.0
-24,annotation,0.0
-25,open source resource,0.0
-26,scientific article,0.0
-27,previous unsupervised method,0.0
-28,body,76.0
-29,case law entailment,0.0
-30,selected treaty,0.0
-31,identification,75.0
-32,effective signal,0.0
-33,property,606.0
-34,contract element extraction,0.0
-35,concept system,0.0
-36,showing,76.0
-37,engineering,304.0
-38,alternative solution,0.0
-39,comprehensive content,0.0
-40,allowing,0.0
-41,use,228.0
-42,finding,76.0
-43,veteran,0.0
-44,legal case retrieval,0.0
-45,modeling paragraph,0.0
-46,length,76.0
-47,further research,0.0
-48,previous feature,0.0
-49,veteran appeal,0.0
-50,manhattan,0.0
-51,different size,0.0
-52,research work,0.0
-53,quest,0.0
-54,issue,531.0
-55,standard patent classification,0.0
-56,ranking svm information retrieval component,0.0
-57,including news,0.0
-58,description,152.0
-59,benefit,76.0
-60,prediction,152.0
-61,conditional random field,0.0
-62,appropriate cluster,0.0
-63,obtained result,0.0
-64,legal language modeling,0.0
-65,project,228.0
-66,shot,75.0
-67,implementation,0.0
-68,experimental dataset,0.0
-69,model,985.0
-70,domain knowledge,0.0
-71,querying,0.0
-72,keyword query,0.0
-73,patent knowledge,0.0
-74,scoring framework,0.0
-75,frequency,151.0
-76,embedding representation,0.0
-77,spanish jurisdiction,0.0
-78,answering using ranking,0.0
-79,patent information management,0.0
-80,different aspect,75.0
-81,extraction,0.0
-82,various body,0.0
-83,text classification,0.0
-84,legal documents,0.0
-85,genuine real world,0.0
-86,supervised machine,0.0
-87,top,76.0
-88,transformer,0.0
-89,representation,604.0
-90,current investment,0.0
-91,ip competition,0.0
-92,legal expertise,0.0
-93,judicial opinion,0.0
-94,discriminative legal attribute,0.0
-95,comparing,0.0
-96,user data,0.0
-97,knowledge mining,0.0
-98,cluster identification algorithm,0.0
-99,classification precision,0.0
-100,layer,75.0
-101,representative court,0.0
-102,paragraph level,0.0
-103,voice,0.0
-104,automatic tool,0.0
-105,study,605.0
-106,privacyqa,0.0
-107,feature extraction,0.0
-108,like quality,0.0
-109,modification,0.0
-110,unseen query,0.0
-111,neural machine,0.0
-112,svm information retrieval component,0.0
-113,multi label text,0.0
-114,relationship,76.0
-115,fake opinion,0.0
-116,administrative process,0.0
-117,supervised model,0.0
-118,phase,303.0
-119,importance prediction,0.0
-120,current algorithm,0.0
-121,source sentence,0.0
-122,particular type,0.0
-123,method,1290.0
-124,same information,0.0
-125,answering task,0.0
-126,using spacy,0.0
-127,section,378.0
-128,human,76.0
-129,document representation,0.0
-130,content,0.0
-131,respective machine,0.0
-132,outcome,152.0
-133,decision,0.0
-134,many confusing charge,0.0
-135,manual task,0.0
-136,speed similarity,0.0
-137,various frame,0.0
-138,scale case,0.0
-139,ranking,0.0
-140,congress,0.0
-141,paragraph article,0.0
-142,utilizing,151.0
-143,citation,0.0
-144,representation space,0.0
-145,mobile application,0.0
-146,german tax law,0.0
-147,improvement,152.0
-148,bgh,0.0
-149,national legislation,0.0
-150,janeiro jurisprudence,0.0
-151,word,228.0
-152,legal judgment prediction dataset,0.0
-153,extensive evaluation,0.0
-154,rnn,0.0
-155,exploiting,0.0
-156,graph,0.0
-157,score,0.0
-158,robot,76.0
-159,preference,0.0
-160,source,227.0
-161,tune,0.0
-162,investment,0.0
-163,kauanejunior,0.0
-164,retrieval system performance,0.0
-165,available datum,0.0
-166,italy,152.0
-167,recognizing textual entailment,0.0
-168,negotiation,0.0
-169,edge,0.0
-170,promising preliminary result,0.0
-171,compression algorithm,0.0
-172,contribution,76.0
-173,named entity recognition,0.0
-174,appearing,0.0
-175,learning model,0.0
-176,competition,76.0
-177,retrieving supporting case,0.0
-178,verifying,0.0
-179,respective machine translation,0.0
-180,31k,0.0
-181,post editing analysis,0.0
-182,combining,152.0
-183,legal text generation,0.0
-184,motion,76.0
-185,intellectual property,0.0
-186,further research work,0.0
-187,patent,0.0
-188,tokenized using,0.0
-189,common keyword query,0.0
-190,patent classifier,0.0
-191,convolutional neural network (cnn),0.0
-192,entity reference representation,0.0
-193,multilingual test,0.0
-194,patent classification,0.0
-195,original reference,0.0
-196,retrieval component,0.0
-197,shot scenario,0.0
-198,previous administrative decision,0.0
-199,legal bar exam,0.0
-200,united state,75.0
-201,unsatisfactory performance,0.0
-202,retrieval system,0.0
-203,nim,0.0
-204,fast computer,0.0
-205,neural machine translation quality,0.0
-206,world utility,0.0
-207,appropriate cluster identification,0.0
-208,legislation,0.0
-209,different feature,0.0
-210,side,0.0
-211,lot,151.0
-212,labeling,0.0
-213,common law,0.0
-214,bundesgerichtshof,0.0
-215,classification approach,0.0
-216,open public dataset,0.0
-217,statement,0.0
-218,eu legislation,0.0
-219,german tax,0.0
-220,accurate relevance,0.0
-221,strong neural baseline,0.0
-222,means,0.0
-223,support,227.0
-224,human right,0.0
-225,binary violation,0.0
-226,real world utility,0.0
-227,legal text,0.0
-228,feasibility,0.0
-229,annotated corpus,0.0
-230,editing dataset,0.0
-231,memory network,0.0
-232,introducing,75.0
-233,law entailment,0.0
-234,other hand,76.0
-235,legal language,0.0
-236,legal spanish,0.0
-237,elrc,0.0
-238,ip,0.0
-239,argument,76.0
-240,real world,0.0
-241,svm information retrieval,0.0
-242,fuzzy,0.0
-243,different approach,76.0
-244,additional information,0.0
-245,existing algorithm,0.0
-246,retrieval dataset,0.0
-247,european directive,0.0
-248,neural legal judgment,0.0
-249,unsupervised method,0.0
-250,employing ranking,0.0
-251,dispute,0.0
-252,uspto-2,0.0
-253,modificatory provisions,0.0
-254,nature,76.0
-255,wipo,0.0
-256,value,303.0
-257,fuzzy clustering algorithm,0.0
-258,context,151.0
-259,name dispute,0.0
-260,suggesting,0.0
-261,building thesauri,0.0
-262,genuine opinion,0.0
-263,written text,0.0
-264,estimation,151.0
-265,extended form,0.0
-266,predictive text,0.0
-267,other algorithm,0.0
-268,article level,0.0
-269,57k,0.0
-270,comparative law,0.0
-271,hierarchical version,0.0
-272,shot learning,0.0
-273,machine,76.0
-274,limited case,0.0
-275,demographic information,0.0
-276,producing,0.0
-277,gold,76.0
-278,ranking svm,0.0
-279,using bag,0.0
-280,framework,76.0
-281,based system,0.0
-282,parameter study,0.0
-283,case study,75.0
-284,performing,0.0
-285,administrative open access,0.0
-286,european union,0.0
-287,analysis,909.0
-288,patent classification benchmark,0.0
-289,proposed approach,0.0
-290,length limitation,0.0
-291,design,380.0
-292,token contract,0.0
-293,feature,227.0
-294,utility patent,0.0
-295,conditional random fields,0.0
-296,union,228.0
-297,legal attribute,0.0
-298,word2vec,0.0
-299,fcm,0.0
-300,detailed information,0.0
-301,query,0.0
-302,automatic feature,0.0
-303,combination,226.0
-304,general domain,0.0
-305,final charge,0.0
-306,patent knowledge mining,0.0
-307,resource,228.0
-308,relying,0.0
-309,addressed using,0.0
-310,entity,0.0
-311,previous study,76.0
-312,abstract information,0.0
-313,multi label text classification,0.0
-314,political speech,0.0
-315,scale,151.0
-316,standard cluster,0.0
-317,work,910.0
-318,billsum,0.0
-319,share resource,0.0
-320,according,0.0
-321,attention network,0.0
-322,image processing,0.0
-323,multilabel problem,0.0
-324,civil law,0.0
-325,legal domain,0.0
-326,regional entity,0.0
-327,quest project,0.0
-328,tool,303.0
-329,production,228.0
-330,combined tf,0.0
-331,bva,0.0
-332,querying greek,0.0
-333,right,0.0
-334,inherent characteristic,0.0
-335,available general domain,0.0
-336,citizen,76.0
-337,querying greek legislation,0.0
-338,intelligibility,0.0
-339,embeddings,0.0
-340,feature engineering,0.0
-341,summary,0.0
-342,candidate,0.0
-343,speech recognition,0.0
-344,task,76.0
-345,source resource,0.0
-346,latent policy,0.0
-347,improved system,0.0
-348,annotator,0.0
-349,additional algorithm,0.0
-350,including,228.0
-351,dropout regularization,0.0
-352,administrative adjudication,0.0
-353,element,76.0
-354,automatic post editing model,0.0
-355,frequent use,0.0
-356,ad,152.0
-357,self,76.0
-358,result,1288.0
-359,corpus,0.0
-360,traditional machine,0.0
-361,organization,0.0
-362,time structure,0.0
-363,synonym,0.0
-364,practical difficulty,0.0
-365,learning algorithm,0.0
-366,resulting,76.0
-367,cross,75.0
-368,selected treaty design benchmark,0.0
-369,pair,76.0
-370,inducing,0.0
-371,efficiency,76.0
-372,algorithm,455.0
-373,related concept,0.0
-374,asymmetry,75.0
-375,choice,76.0
-376,world,228.0
-377,implementing measure,0.0
-378,experimental result,0.0
-379,factual background,0.0
-380,recognized entity,0.0
-381,similarity search,0.0
-382,entailment model,0.0
-383,shot charge prediction,0.0
-384,other state,0.0
-385,eurlex dataset,0.0
-386,applying,0.0
-387,bigrus,0.0
-388,learning method,0.0
-389,shot charge,0.0
-390,full text,0.0
-391,speed,152.0
-392,contextual feature,0.0
-393,size,76.0
-394,31k tuple,0.0
-395,violation classification,0.0
-396,hierarchical attention network,0.0
-397,supervised text similarity,0.0
-398,public dataset,0.0
-399,scale case law entailment dataset,0.0
-400,cleaning,0.0
-401,challenging corpus,0.0
-402,human expert,0.0
-403,crucial role,0.0
-404,assisted annotation,0.0
-405,spanish legal text processing,0.0
-406,geographical landmark,0.0
-407,topical relevance,0.0
-408,deep learning algorithm,0.0
-409,sensible manner,0.0
-410,judiciary,0.0
-411,ranking svm information retrieval,0.0
-412,anonymization,0.0
-413,cnns,0.0
-414,deep neural network,0.0
-415,parallel english,0.0
-416,multi label classification,0.0
-417,named entity,0.0
-418,open access,76.0
-419,international investment,0.0
-420,driven combination,0.0
-421,surrounding text,0.0
-422,case,606.0
-423,syntactic similarity,0.0
-424,han,0.0
-425,describing,0.0
-426,salient phrase,0.0
-427,new english legal judgment prediction,0.0
-428,japan,0.0
-429,parliamentary discourse,0.0
-430,large corpus,0.0
-431,mapping,151.0
-432,identifying,0.0
-433,classification,0.0
-434,high accuracy,0.0
-435,particular paragraph,0.0
-436,engine,0.0
-437,clef,0.0
-438,broad variety,0.0
-439,comprise,0.0
-440,convenient tool,0.0
-441,domain name,0.0
-442,public document database,0.0
-443,machine translation system,0.0
-444,greek legislation,0.0
-445,problem,531.0
-446,frame recognition,0.0
-447,corresponding entity,0.0
-448,change,228.0
-449,accuracy,152.0
-450,practice,152.0
-451,machine translation quality,0.0
-452,pli,0.0
-453,scale case law entailment,0.0
-454,public datum,0.0
-455,vector,227.0
-456,employing ranking svm,0.0
-457,bilstm,0.0
-458,agreement,226.0
-459,law entailment dataset,0.0
-460,congressional bill,0.0
-461,evaluating,151.0
-462,natural language,0.0
-463,clustering algorithm,0.0
-464,victor,0.0
-465,role,303.0
-466,future system,0.0
-467,overall result,0.0
-468,literature,225.0
-469,defining,0.0
-470,analysed time framework,0.0
-471,cost,76.0
-472,answering system,0.0
-473,dynamic topic model,0.0
-474,german bundesgerichtshof,0.0
-475,technology,531.0
-476,first task,0.0
-477,legislation knowledge graph,0.0
-478,experimental evaluation,0.0
-479,neural machine translation system,0.0
-480,including word,0.0
-481,called intersection,0.0
-482,chain,75.0
-483,random field model,0.0
-484,bar exam,0.0
-485,utility,0.0
-486,convolutional neural network,0.0
-487,forum,76.0
-488,research,608.0
-489,shape,76.0
-490,establishing,75.0
-491,traditional contextual feature,0.0
-492,many country,0.0
-493,extensive experiment,0.0
-494,output,0.0
-495,lower entropy,0.0
-496,description section,0.0
-497,existing solution,0.0
-498,same label,0.0
-499,case law entailment dataset,0.0
-500,answering using,0.0
-501,legislative document,0.0
-502,judgment prediction,0.0
-503,thesauri,0.0
-504,replacing,0.0
-505,traditional ad,0.0
-506,such translation,0.0
-507,surrounding,0.0
-508,quality thesaurus,0.0
-509,cascade,0.0
-510,translation quality,0.0
-511,solution,532.0
-512,multi label legal text,0.0
-513,strategy,76.0
-514,agency,76.0
-515,text retrieval,0.0
-516,cascade framework,0.0
-517,large number,0.0
-518,ruling,0.0
-519,predicting,0.0
-520,jurisprudence,0.0
-521,name,0.0
-522,technical language,0.0
-523,art quality estimation,0.0
-524,relevant article,0.0
-525,eurovoc,0.0
-526,treaty content,0.0
-527,legal information processing,0.0
-528,standard gold set,0.0
-529,focus,76.0
-530,corresponding,152.0
-531,fewer token,0.0
-532,reference,152.0
-533,legal text classification,0.0
-534,distinct argument,0.0
-535,label legal text,0.0
-536,essential task,0.0
-537,country,379.0
-538,ambiguity,0.0
-539,scale case retrieval dataset,0.0
-540,word ambiguity,0.0
-541,dataset generation,0.0
-542,composition,152.0
-543,important prerequisite,0.0
-544,raw utility,0.0
-545,proposed method,0.0
-546,negotiating,0.0
-547,background,0.0
-548,legal scenario,0.0
-549,extreme multi label legal text,0.0
-550,triple,0.0
-551,search,0.0
-552,neural sentence,0.0
-553,amount,0.0
-554,generation,0.0
-555,investment treaty,0.0
-556,original reference translation,0.0
-557,perspective,150.0
-558,embedding,301.0
-559,binary violation classification,0.0
-560,legal drafting,0.0
-561,combined solution,0.0
-562,retrieval,152.0
-563,predictive model,0.0
-564,different purpose,0.0
-565,interface,75.0
-566,jurisdiction,0.0
-567,bag,0.0
-568,scale case law,0.0
-569,learning to rank,0.0
-570,importance,227.0
-571,filter,0.0
-572,user,152.0
-573,other open public dataset,0.0
-574,multilabel,0.0
-575,learning approach,0.0
-576,california billa,0.0
-577,deeppatent,0.0
-578,simpler wipo,0.0
-579,non legal text,0.0
-580,local entropy,0.0
-581,similarity,0.0
-582,general topical relevance,0.0
-583,previous work,76.0
-584,lawyer,0.0
-585,long short-term memory,0.0
-586,adjudication,0.0
-587,strong baseline,0.0
-588,sophisticated way,0.0
-589,treaty language,0.0
-590,image,378.0
-591,appellate state,0.0
-592,english legal judgment prediction dataset,0.0
-593,prerequisite,0.0
-594,confusing charge,0.0
-595,hypothesis,0.0
-596,kauanejunior corpus,0.0
-597,boosting algorithm,0.0
-598,using state,0.0
-599,many legal domain,0.0
-600,automatic post-editing,0.0
-601,main topic,0.0
-602,tf,0.0
-603,type,681.0
-604,other domain,0.0
-605,relevant case,0.0
-606,stacked bilstm,0.0
-607,relevant case retrieval,0.0
-608,legal production,0.0
-609,argument mining,0.0
-610,tuple,76.0
-611,better method,0.0
-612,quality estimation,0.0
-613,boosting,0.0
-614,language resources,0.0
-615,category,304.0
-616,ireland,0.0
-617,multi label legal text classification,0.0
-618,term,529.0
-619,prediction dataset,0.0
-620,legal bar,0.0
-621,replacing cnns,0.0
-622,word model,0.0
-623,eu,0.0
-624,spanish legal text,0.0
-625,extending,76.0
-626,lower court judge,0.0
-627,system,1213.0
-628,domain,454.0
-629,machine learning,76.0
-630,legal question,0.0
-631,multidisciplinary thesaurus,0.0
-632,question,227.0
-633,embedding rnns,0.0
-634,speed similarity search,0.0
-635,metric,152.0
-636,component,380.0
-637,eurlex,0.0
-638,suitable candidate,0.0
-639,court case,0.0
-640,automatic charge prediction,0.0
-641,recurrent neural networks,0.0
-642,room,0.0
-643,labeled text,0.0
-644,standard gold,0.0
-645,membership,76.0
-646,interactive machine learning,0.0
-647,tax,0.0
-648,legal citation,0.0
-649,new english legal judgment,0.0
-650,semantic edge labeling,0.0
-651,natural language processing,0.0
-652,post-editing dataset,0.0
-653,form,151.0
-654,editing model,0.0
-655,mean,76.0
-656,bert model,0.0
-657,relevant document,0.0
-658,extreme multi label text classification,0.0
-659,greek legislation knowledge,0.0
-660,legal bar exam query,0.0
-661,language modeling,0.0
-662,appropriate cluster identification algorithm,0.0
-663,art patent,0.0
-664,contract,0.0
-665,european court,0.0
-666,tackling,0.0
-667,relevant answer,0.0
-668,semantic similarity,0.0
-669,different clustering,0.0
-670,source resource kit,0.0
-671,edited version,0.0
-672,linear sliding,0.0
-673,theme assignment,0.0
-674,multilingual legal corpus,0.0
-675,charge prediction,0.0
-676,text similarity,0.0
-677,text,76.0
-678,benchmark,0.0
-679,spanish,0.0
-680,usa,0.0
-681,board,76.0
-682,human reference,0.0
-683,attention,152.0
-684,lower court,0.0
-685,summarizing document,0.0
-686,court,0.0
-687,bar,0.0
-688,person,303.0
-689,language model,0.0
-690,appellate court decision,0.0
-691,bypass,0.0
-692,filtering,0.0
-693,better model,0.0
-694,selected treaty design,0.0
-695,clustering,0.0
-696,rio,0.0
-697,attribute,0.0
-698,maximum entropy,0.0
-699,observation,303.0
-700,parallel language,0.0
-701,current multi label state,0.0
-702,legal text processing,0.0
-703,lateral annotation,0.0
-704,expectation,0.0
-705,legal information retrieval,0.0
-706,other resource,0.0
-707,semantic relationship,0.0
-708,sliding,0.0
-709,written summary,0.0
-710,data,152.0
-711,svm information,0.0
-712,state court,0.0
-713,recurrent neural network,0.0
-714,benchmark dataset clef,0.0
-715,state,302.0
-716,paragraph,0.0
-717,gram,0.0
-718,fact,226.0
-719,different technique,0.0
-720,professional translator,0.0
-721,textual entailment component,0.0
-722,legal case,0.0
-723,treaty design,0.0
-724,citation graph,0.0
-725,representing,0.0
-726,judgment prediction dataset,0.0
-727,legal citation graph,0.0
-728,supporting case,0.0
-729,classification benchmark,0.0
-730,attentive charge prediction,0.0
-731,tax law,0.0
-732,internal mapping,0.0
-733,language,454.0
-734,traditional machine learning,0.0
-735,cluster,0.0
-736,distribution,302.0
-737,information retrieval,0.0
-738,landmark,0.0
-739,encoding,0.0
-740,intellectual property organization,0.0
-741,dropout,0.0
-742,human accuracy,0.0
-743,relevance,0.0
-744,legal task,0.0
-745,national implementation,0.0
-746,different kind,0.0
-747,purpose,151.0
-748,support tool,0.0
-749,post editing model,0.0
-750,resulting post,0.0
-751,full spectrum,0.0
-752,consistency,0.0
-753,token,0.0
-754,art patent classifier,0.0
-755,brazil,0.0
-756,billa,0.0
-757,challenge,228.0
-758,deep learning approach,0.0
-759,making,76.0
-760,persistent difference,0.0
-761,retrieval task,0.0
-762,product,302.0
-763,gold set,0.0
-764,training,75.0
-765,level,455.0
-766,idf,0.0
-767,administrative decision,0.0
-768,identification algorithm,0.0
-769,intersection,303.0
-770,element extraction,0.0
-771,paper,1668.0
-772,neural system,0.0
-773,text-as-data,0.0
-774,legal judgment,0.0
-775,entropy,0.0
-776,survey,0.0
-777,answering,0.0
-778,design benchmark,0.0
-779,decision support,0.0
-780,unit,151.0
-781,multilingual test corpus,0.0
-782,processing,302.0
-783,multilingual corpus,0.0
-784,system performance,0.0
-785,mission,0.0
-786,difficulty,0.0
-787,lstm,0.0
-788,using frame,0.0
-789,embedding model,0.0
-790,part,454.0
-791,experimenting,0.0
-792,identifying output,0.0
-793,translator,0.0
-794,time framework,0.0
-795,crf combination,0.0
-796,customer,0.0
-797,collection,304.0
-798,field model,0.0
-799,new sophisticated way,0.0
-800,based classifier,0.0
-801,assistant,0.0
-802,term memory network,0.0
-803,appellate state court,0.0
-804,directive,0.0
-805,compression,0.0
-806,cnn,0.0
-807,legal practice,0.0
-808,consistent improvement,0.0
-809,covering,0.0
-810,label text classification,0.0
-811,type system,0.0
-812,annotating sentence,0.0
-813,standard patent,0.0
-814,statistical feature,0.0
-815,learning,531.0
-816,set,531.0
-817,structure,453.0
-818,computer,455.0
-819,court judge,0.0
-820,benefiting,0.0
-821,spanish corpus,0.0
-822,performed annotation,0.0
-823,deep learning,76.0
-824,provided summary,0.0
-825,shallow neural network,0.0
-826,stacking,0.0
-827,record,76.0
-828,xmtc,0.0
-829,preliminary result,0.0
-830,benchmark dataset,0.0
-831,summarizing,0.0
-832,antonym,0.0
-833,new english legal judgment prediction dataset,0.0
-834,implication,75.0
-835,automatic semantic edge,0.0
-836,time,985.0
-837,answering using ranking svm,0.0
-838,lexical feature,0.0
-839,case retrieval,0.0
-840,common form,0.0
-841,page,76.0
-842,voice recognition,0.0
-843,appeal,0.0
-844,greek,0.0
-845,document database,0.0
-846,dynamic topic,0.0
-847,predicting outcome,0.0
-848,post,76.0
-849,nlp,0.0
-850,topic model,0.0
-851,practical use,0.0
-852,process,530.0
-853,ten,0.0
-854,geopolitical entity,0.0
-855,edit,0.0
-856,complex rule,0.0
-857,controlled pipeline,0.0
-858,term memory,75.0
-859,datum,605.0
-860,named entity recognition and linking,0.0
-861,post editing dataset,0.0
-862,database,0.0
-863,one,0.0
-864,thousand,0.0
-865,automatic feature extraction,0.0
-866,property organization,0.0
-867,linear unit,0.0
-868,recognition,151.0
-869,hand,76.0
-870,case summarization,0.0
-871,bert,0.0
-872,supervised machine learning,0.0
-873,kind,152.0
-874,spectrum,75.0
-875,german court,0.0
-876,legal effect,0.0
-877,prediction model,0.0
-878,definition,76.0
-879,spacy,0.0
-880,great progress,0.0
-881,topic modelling,0.0
-882,extension,303.0
-883,crf layer,0.0
-884,translation,76.0
-885,legislative text,0.0
-886,label,76.0
-887,distinguishing,0.0
-888,dsca,0.0
-889,deep convolutional neural network,0.0
-890,document summarization,0.0
-891,cluster identification,0.0
-892,legal question answering,0.0
-893,relevant literature,0.0
-894,consuming,0.0
-895,baseline svm,0.0
-896,authority,0.0
-897,extreme multi label legal text classification,0.0
-898,es,0.0
-899,predicted treaty,0.0
-900,theme classification approach,0.0
-901,japanese legal bar,0.0
-902,exploration,0.0
-903,treaty design benchmark,0.0
-904,information management,0.0
-905,novel model,75.0
-906,appellate court,0.0
-907,version,304.0
-908,continuous vector,0.0
-909,human performance,0.0
-910,powerful new approach,0.0
-911,many machine,0.0
-912,test,228.0
-913,art,152.0
-914,greek legislation knowledge graph,0.0
-915,expertise,0.0
-916,growing,152.0
-917,discovery,152.0
-918,scenario,0.0
-919,frame,0.0
-920,gated recurrent units,0.0
-921,using word,0.0
-922,aggregating paragraph,0.0
-923,english legal judgment,0.0
-924,synsets,0.0
-925,technique,304.0
-926,certain type,0.0
-927,kit,0.0
-928,extending thesauri,0.0
-929,scale case retrieval,0.0
-930,legal judgment prediction,0.0
-931,knowledge,303.0
-932,additional lstm,0.0
-933,novel dataset,0.0
-934,legal text analytics,0.0
-935,entailment dataset,0.0
-936,extraction task,0.0
-937,neural legal judgment prediction,0.0
-938,field,985.0
-939,baseline result,0.0
-940,textual reference,0.0
-941,investigation,76.0
-942,aspect,379.0
-943,multi token contract,0.0
-944,performance,152.0
-945,implementing,0.0
-946,serving,0.0
-947,using ranking,0.0
-948,additional statistical feature,0.0
-949,neural network,151.0
-950,approximate nearest neighbour,0.0
-951,theme classification,0.0
-952,experiment,302.0
-953,annotation process,0.0
-954,proposed model,0.0
-955,considerable room,0.0
-956,legal information extraction,0.0
-957,scoring,0.0
-958,china,0.0
-959,text processing,0.0
-960,exam query,0.0
-961,collection process,0.0
-962,jurisprudence database,0.0
-963,quality,75.0
-964,greek language,0.0
-965,window,0.0
-966,extracted meaning,0.0
-967,textual entailment,0.0
-968,automatic citation analysis,0.0
-969,improving,0.0
-970,belonging,0.0
-971,effectiveness,75.0
-972,specific argument,0.0
-973,negation,0.0
-974,corresponding nim,0.0
-975,supervised text,0.0
-976,allowing annotator,0.0
-977,law,152.0
-978,ability,76.0
-979,thesaurus,0.0
-980,independent human reference,0.0
-981,operating,0.0
-982,access,75.0
-983,number,681.0
-984,potential problem,0.0
-985,legal decision,0.0
-986,word vector,0.0
-987,sentence embeddings,0.0
-988,machine translation,0.0
-989,criminal case,0.0
-990,article,1059.0
-991,argumentation mining,0.0
-992,linking,76.0
-993,information processing,0.0
-994,corresponding label,0.0
-995,scotus,0.0
-996,approach,531.0
-997,using ranking svm,0.0
-998,classifier,0.0
-999,open source,0.0
-1000,several language,0.0
-1001,hierarchical attention,0.0
-1002,privacyqa corpus,0.0
-1003,retrieving supporting,0.0
-1004,treaty,0.0
-1005,proposal,151.0
-1006,crf,0.0
-1007,existing,76.0
-1008,discriminative attribute,0.0
-1009,random field,0.0
-1010,novel method,0.0
-1011,potential,228.0
-1012,law court,0.0
-1013,informative document,0.0
-1014,translation system,0.0
-1015,written rule,0.0
-1016,sequential nature,0.0
-1017,svm,0.0
-1018,janeiro jurisprudence database,0.0
-1019,english,0.0
-1020,argumentation,0.0
-1021,employing,0.0
-1022,aggregating,0.0
-1023,legal information,0.0
-1024,initial result,0.0
-1025,answer,76.0
-1026,information retrieval component,0.0
-1027,computational cost,0.0
-1028,ir task,0.0
-1029,subclass,0.0
-1030,argumentative political speech,0.0
-1031,given sentence,0.0
-1032,adding,0.0
-1033,label legal text classification,0.0
-1034,manner,76.0
-1035,opinion,0.0
-1036,previous eurlex dataset,0.0
-1037,unsupervised semantic similarity,0.0
-1038,way,379.0
-1039,retrieving,0.0
-1040,translation dataset,0.0
-1041,overall performance,0.0
-1042,machine detection of generated text,0.0
-1043,legal perspective,0.0
-1044,document type,0.0
-1045,formulaic nature,0.0
-1046,based method,0.0
-1047,containing case,0.0
-1048,difference,227.0
-1049,vector space,76.0
-1050,latent,0.0
-1051,precision,76.0
-1052,summarization,0.0
-1053,open legal text,0.0
-1054,test corpus,0.0
-1055,case importance,0.0
-1056,regularization,0.0
-1057,clustering technique,0.0
-1058,basis,227.0
-1059,further improvement,0.0
-1060,vector machine,0.0
-1061,encoded summarization,0.0
-1062,public document,0.0
-1063,supreme court,0.0
-1064,promising,0.0
-1065,entropy differential,0.0
-1066,ruling case,0.0
-1067,containing,152.0
-1068,variety,303.0
-1069,bill,0.0
-1070,relevant case retrieval task,0.0
-1071,sensible composition,0.0
-1072,existing work,0.0
-1073,upper court,0.0
-1074,network,529.0
-1075,reference translation,0.0
-1076,technical domain,0.0
-1077,citing text,0.0
-1078,information retrieval task,0.0
-1079,small multilingual corpus,0.0
-1080,modeling,151.0
-1081,majority,0.0
-1082,legal document,0.0
-1083,proposed cluster,0.0
-1084,management,152.0
-1085,judge,0.0
-1086,brazilian appellate court,0.0
-1087,neural language model,0.0
-1088,california state,0.0
-1089,english legal judgment prediction,0.0
-1090,entire corpus,0.0
-1091,f1,0.0
-1092,current investment treaty,0.0
-1093,dutch,0.0
-1094,new dataset,0.0
-1095,transposition,0.0
-1096,post edited version,0.0
-1097,best method,0.0
-1098,machine learning approach,0.0
-1099,pipeline,76.0
-1100,phrase,0.0
-1101,document,76.0
-1102,charge,151.0
-1103,new approach,0.0
-1104,charge prediction model,0.0
-1105,knowledge graph,0.0
-1106,ranking svm information,0.0
-1107,neural language models,0.0
-1108,label classification,0.0
-1109,contract element,0.0
-1110,answerability,0.0
-1111,document retrieval,0.0
-1112,ape,0.0
-1113,european language,0.0
-1114,raw utility patent,0.0
-1115,memory,151.0
-1116,differential,76.0
-1117,multi label state,0.0
-1118,based model,76.0
-1119,automatic semantic edge labeling,0.0
-1120,lawsuit,0.0
-1121,document type classification,0.0
-1122,art quality,0.0
-1123,bar exam query,0.0
-1124,several approach,0.0
-1125,called intersection method,0.0
-1126,argumentative sentence,0.0
-1127,measure,76.0
-1128,expert,152.0
-1129,consisting,0.0
-1130,comparison,0.0
-1131,higher accuracy,0.0
-1132,order,380.0
-1133,theme,76.0
-1134,interaction,76.0
-1135,entailment,0.0
-1136,sentence,75.0
-1137,wide variety,0.0
-1138,wise attention,0.0
-1139,contention,0.0
-1140,general implication,0.0
-1141,case importance prediction,0.0
-1142,first dataset,0.0
-1143,auto,0.0
-1144,semantics,0.0
-1145,large scale,0.0
-1146,incorporating,0.0
-1147,character,0.0
-1148,spanish resources,0.0
-1149,semantic analysis,0.0
-1150,open source resource kit,0.0
-1151,coliee,0.0
-1152,dataset,0.0
-1153,type classification,0.0
-1154,edge labeling,0.0
-1155,neural model,0.0
-1156,label text,0.0
-1157,genuine real world utility,0.0
-1158,neural language,0.0
-1159,rule,228.0
-1160,tag,0.0
-1161,complex document,0.0
-1162,artificial intelligence,0.0
-1163,power,227.0
-1164,other baseline,0.0
-1165,gensim,0.0
-1166,releasing ten,0.0
-1167,u.s,0.0
-1168,citing,0.0
-1169,exam,0.0
-1170,assignment,76.0
-1171,share,0.0
-1172,end algorithm,0.0
-1173,experience,152.0
-1174,language models,0.0
-1175,legal assistant,0.0
-1176,legal corpus,0.0
-1177,evaluation,0.0
-1178,aforementioned method,0.0
-1179,ex,0.0
-1180,end,0.0
-1181,framing,0.0
-1182,resource kit,0.0
-1183,automatic charge,0.0
-1184,label state,0.0
-1185,legal content,0.0
-1186,policy,76.0
-1187,continuous vector space,0.0
-1188,releasing,0.0
-1189,semantic edge,0.0
-1190,government,75.0
-1191,intersection method,0.0
-1192,complex nature,0.0
-1193,brazilian legal document,0.0
-1194,specialized ir task,0.0
-1195,word embeddings,0.0
-1196,domain name dispute,0.0
-1197,several discriminative attribute,0.0
-1198,different source,0.0
-1199,architecture,227.0
-1200,sense,228.0
-1201,cluster algorithm,0.0
-1202,speech,0.0
-1203,subclass level,0.0
-1204,extractive method,0.0
-1205,auxiliary corpus,0.0
-1206,maintaining,75.0
-1207,application,909.0
-1208,making process,0.0
-1209,vast majority,0.0
-1210,concept,76.0
-1211,exploring,0.0
-1212,many synonym,0.0
-1213,extreme multi label text,0.0
-1214,fuzzy membership,0.0
-1215,investment treaties,0.0
-1216,provider,0.0
-1217,year,983.0
-1218,entailment component,0.0
-1219,editing analysis,0.0
-1220,violation,0.0
-1221,several neural classifier,0.0
-1222,relation,227.0
-1223,code,0.0
-1224,meaning,0.0
-1225,information,455.0
-1226,encoding document,0.0
-1227,annotating,0.0
-1228,using,1210.0
-1229,query case,0.0
-1230,judgment,75.0
-1231,progress,151.0
-1232,space,832.0
-1233,ante,0.0
-1234,discourse,76.0
-1235,case retrieval dataset,0.0
-1236,word embedding,0.0
-1237,regressive transformer,0.0
-1238,rnns,0.0
-1239,meaningful text,0.0
-1240,neural machine translation,0.0
-1241,framing strategy,0.0
-1242,topic,152.0
-1243,news,152.0
-1244,entity recognition,0.0
-1245,entropy measure,0.0
-1246,conditional random field model,0.0
-1247,limitation,151.0
-1248,attentive charge prediction model,0.0
-1249,case retrieval task,0.0
-1250,national implementing,0.0
-1251,echr,0.0
-1252,default,0.0
-1253,subsequent decision,0.0
-1254,characteristic,0.0
-1255,human validation,0.0
-1256,attentive charge,0.0
-1257,automatic summarization,0.0
-1258,proposed modification,0.0
-1259,information extraction,0.0
-1260,neural classifier,0.0
-1261,supporting,75.0
-1262,machine translation dataset,0.0
-1263,case law,0.0
+0,appellate state,0.0
+1,citing,0.0
+2,self,76.0
+3,modeling paragraph,0.0
+4,spanish,0.0
+5,knowledge mining,0.0
+6,entropy,0.0
+7,public dataset,0.0
+8,antonym,0.0
+9,natural language,0.0
+10,wise attention,0.0
+11,patent,0.0
+12,surrounding text,0.0
+13,learning algorithm,0.0
+14,government,75.0
+15,bilstm,0.0
+16,large number,0.0
+17,main topic,0.0
+18,potential problem,0.0
+19,allowing annotator,0.0
+20,inherent characteristic,0.0
+21,multilabel problem,0.0
+22,natural language processing,0.0
+23,suitable candidate,0.0
+24,memory,151.0
+25,basis,227.0
+26,interactive machine learning,0.0
+27,legal information processing,0.0
+28,framework,76.0
+29,annotation process,0.0
+30,lower court,0.0
+31,traditional machine learning approach,0.0
+32,congress,0.0
+33,relying,0.0
+34,process,530.0
+35,strategy,76.0
+36,variety,303.0
+37,complex document,0.0
+38,judgment,75.0
+39,neural legal judgment prediction,0.0
+40,legal text analytics,0.0
+41,title,0.0
+42,lawyer,0.0
+43,maximum entropy,0.0
+44,billsum,0.0
+45,ip competition,0.0
+46,extractive method,0.0
+47,improving,0.0
+48,ranking,0.0
+49,patent information,0.0
+50,legal bar exam,0.0
+51,charge prediction model,0.0
+52,manhattan,0.0
+53,citation,0.0
+54,additional lstm,0.0
+55,using state,0.0
+56,judgment prediction dataset,0.0
+57,bar exam,0.0
+58,chain,75.0
+59,technology,531.0
+60,rnns,0.0
+61,legal language,0.0
+62,data,152.0
+63,comparative law,0.0
+64,legal corpus,0.0
+65,using frame,0.0
+66,different aspect,75.0
+67,dispute,0.0
+68,intelligibility,0.0
+69,alternative solution,0.0
+70,previous study,76.0
+71,shallow neural network,0.0
+72,first dataset,0.0
+73,legal perspective,0.0
+74,european language,0.0
+75,translation,76.0
+76,relevant case retrieval,0.0
+77,extreme multi label text classification,0.0
+78,case study,75.0
+79,performed annotation,0.0
+80,using spacy,0.0
+81,topic model,0.0
+82,challenge,228.0
+83,privacy,0.0
+84,exploring,0.0
+85,obtained result,0.0
+86,new approach,0.0
+87,neural legal judgment,0.0
+88,proposed model,0.0
+89,legislation knowledge graph,0.0
+90,text-as-data,0.0
+91,embedding,301.0
+92,national implementing,0.0
+93,translator,0.0
+94,feature extraction,0.0
+95,italy,152.0
+96,querying greek legislation,0.0
+97,57k,0.0
+98,language modeling,0.0
+99,verifying,0.0
+100,ruling,0.0
+101,design,380.0
+102,charge,151.0
+103,predictive model,0.0
+104,simpler wipo,0.0
+105,strong neural baseline,0.0
+106,final charge,0.0
+107,membership,76.0
+108,bar,0.0
+109,scenario,0.0
+110,potential,228.0
+111,right,0.0
+112,post edited version,0.0
+113,patent information management,0.0
+114,introducing,75.0
+115,lexical feature,0.0
+116,attentive charge,0.0
+117,topic,152.0
+118,word embeddings,0.0
+119,expectation,0.0
+120,multilingual test,0.0
+121,large scale,0.0
+122,identification algorithm,0.0
+123,organization,0.0
+124,legal case retrieval task,0.0
+125,exam query,0.0
+126,usa,0.0
+127,supervised text similarity,0.0
+128,containing case,0.0
+129,technical language,0.0
+130,observation,303.0
+131,case retrieval,0.0
+132,many legal domain,0.0
+133,gram,0.0
+134,metric,152.0
+135,product,302.0
+136,attribute,0.0
+137,gated recurrent units,0.0
+138,sequential nature,0.0
+139,overall result,0.0
+140,proposed method,0.0
+141,open access,76.0
+142,standard patent,0.0
+143,svm information,0.0
+144,particular type,0.0
+145,tag,0.0
+146,state,302.0
+147,regularization,0.0
+148,pipeline,76.0
+149,investigation,76.0
+150,additional statistical feature,0.0
+151,brazilian appellate court,0.0
+152,technique,304.0
+153,scotus,0.0
+154,person,303.0
+155,using ranking svm,0.0
+156,theme,76.0
+157,utility,0.0
+158,art patent,0.0
+159,entity,0.0
+160,type,681.0
+161,f1,0.0
+162,machine,76.0
+163,hypothesis,0.0
+164,lot,151.0
+165,several discriminative attribute,0.0
+166,effect,529.0
+167,legal scenario,0.0
+168,meaning,0.0
+169,combining,152.0
+170,way,379.0
+171,releasing ten,0.0
+172,attention network,0.0
+173,extreme multi label legal text classification,0.0
+174,type classification,0.0
+175,sentence embeddings,0.0
+176,bert model,0.0
+177,spanish legal text,0.0
+178,wide variety,0.0
+179,retrieval system performance,0.0
+180,corpus,0.0
+181,according,0.0
+182,geopolitical entity,0.0
+183,assisted annotation,0.0
+184,dataset generation,0.0
+185,neural machine translation system,0.0
+186,difficulty,0.0
+187,german court,0.0
+188,ireland,0.0
+189,shape,76.0
+190,embedding model,0.0
+191,top,76.0
+192,interaction,76.0
+193,dutch,0.0
+194,using,1210.0
+195,law,152.0
+196,several language,0.0
+197,german bundesgerichtshof,0.0
+198,spectrum,75.0
+199,implication,75.0
+200,synsets,0.0
+201,recognition,151.0
+202,textual entailment component,0.0
+203,scale case law entailment,0.0
+204,one,0.0
+205,framing strategy,0.0
+206,legal case retrieval,0.0
+207,svm information retrieval,0.0
+208,cost,76.0
+209,time,985.0
+210,query case,0.0
+211,supervised text,0.0
+212,rule,228.0
+213,baseline,0.0
+214,raw utility,0.0
+215,predicting outcome,0.0
+216,speed similarity,0.0
+217,recognized entity,0.0
+218,deeppatent,0.0
+219,labeling,0.0
+220,corresponding label,0.0
+221,existing algorithm,0.0
+222,han,0.0
+223,subsequent decision,0.0
+224,assistant,0.0
+225,court,0.0
+226,including word,0.0
+227,regional entity,0.0
+228,retrieval component,0.0
+229,several neural classifier,0.0
+230,art quality,0.0
+231,dataset,0.0
+232,embedding rnns,0.0
+233,parameter study,0.0
+234,incorporating,0.0
+235,open source resource,0.0
+236,querying,0.0
+237,named entity recognition,0.0
+238,semantic relationship,0.0
+239,time structure,0.0
+240,agency,76.0
+241,many country,0.0
+242,benefit,76.0
+243,ranking svm,0.0
+244,eurlex,0.0
+245,existing work,0.0
+246,intellectual property,0.0
+247,spanish resources,0.0
+248,semantic analysis,0.0
+249,tune,0.0
+250,greek legislation,0.0
+251,token,0.0
+252,considerable room,0.0
+253,agreement,226.0
+254,contribution,76.0
+255,frame recognition,0.0
+256,latent policy,0.0
+257,previous work,76.0
+258,image,378.0
+259,legal judgment,0.0
+260,german tax law,0.0
+261,document type classification,0.0
+262,information,455.0
+263,legislative text,0.0
+264,such translation,0.0
+265,greek,0.0
+266,scale case retrieval dataset,0.0
+267,releasing,0.0
+268,statement,0.0
+269,source,227.0
+270,prediction dataset,0.0
+271,additional algorithm,0.0
+272,part,454.0
+273,traditional contextual feature,0.0
+274,allowing,0.0
+275,parliamentary discourse,0.0
+276,purpose,151.0
+277,like quality,0.0
+278,other domain,0.0
+279,predicting,0.0
+280,distinct argument,0.0
+281,salient phrase,0.0
+282,production,228.0
+283,fuzzy,0.0
+284,human right,0.0
+285,relevant document,0.0
+286,retrieval,152.0
+287,text processing,0.0
+288,progress,151.0
+289,scoring,0.0
+290,human,76.0
+291,length,76.0
+292,legal judgment prediction dataset,0.0
+293,cascade framework,0.0
+294,violation,0.0
+295,multi label legal text,0.0
+296,replacing,0.0
+297,supporting,75.0
+298,entire corpus,0.0
+299,scale case,0.0
+300,unsupervised semantic similarity,0.0
+301,topical relevance,0.0
+302,domain,454.0
+303,different technique,0.0
+304,legal effect,0.0
+305,representation space,0.0
+306,argumentation mining,0.0
+307,domain name dispute,0.0
+308,article level,0.0
+309,random field,0.0
+310,translation system,0.0
+311,other open public dataset,0.0
+312,tf,0.0
+313,machine detection of generated text,0.0
+314,machine learning,76.0
+315,sensible composition,0.0
+316,entity reference representation,0.0
+317,new english legal judgment,0.0
+318,comparing,0.0
+319,sentence,75.0
+320,ten,0.0
+321,german tax,0.0
+322,preliminary result,0.0
+323,edge labeling,0.0
+324,other algorithm,0.0
+325,asymmetry,75.0
+326,performing,0.0
+327,argumentative political speech,0.0
+328,frequency,151.0
+329,bar exam query,0.0
+330,clef,0.0
+331,room,0.0
+332,embedding representation,0.0
+333,artificial intelligence,0.0
+334,using word,0.0
+335,future system,0.0
+336,legislative document,0.0
+337,general domain,0.0
+338,automatic tool,0.0
+339,standard patent classification,0.0
+340,computational cost,0.0
+341,legal bar exam query,0.0
+342,benchmark dataset clef,0.0
+343,ante,0.0
+344,different kind,0.0
+345,different purpose,0.0
+346,representing,0.0
+347,paragraph article,0.0
+348,exploiting,0.0
+349,image processing,0.0
+350,fuzzy clustering algorithm,0.0
+351,case law,0.0
+352,administrative decision,0.0
+353,test,228.0
+354,legal text processing,0.0
+355,body,76.0
+356,multilingual corpus,0.0
+357,automatic feature,0.0
+358,political speech,0.0
+359,covering,0.0
+360,theme classification,0.0
+361,selected treaty,0.0
+362,appellate state court,0.0
+363,kind,152.0
+364,resulting post,0.0
+365,transformer,0.0
+366,factual background,0.0
+367,small multilingual corpus,0.0
+368,spacy,0.0
+369,violation classification,0.0
+370,essential task,0.0
+371,spanish jurisdiction,0.0
+372,consistency,0.0
+373,veteran,0.0
+374,multi label state,0.0
+375,fewer token,0.0
+376,predictive text,0.0
+377,practical use,0.0
+378,neural classifier,0.0
+379,aggregating,0.0
+380,annotated corpus,0.0
+381,prediction model,0.0
+382,different source,0.0
+383,statistical feature,0.0
+384,approximate nearest neighbour,0.0
+385,judiciary,0.0
+386,theme assignment,0.0
+387,space,832.0
+388,aforementioned method,0.0
+389,record,76.0
+390,semantic similarity,0.0
+391,particular type system,0.0
+392,retrieval task,0.0
+393,state court,0.0
+394,privacyqa,0.0
+395,implementing measure,0.0
+396,accurate relevance,0.0
+397,layer,75.0
+398,context,151.0
+399,outcome,152.0
+400,jurisprudence database,0.0
+401,intersection method,0.0
+402,entailment dataset,0.0
+403,user data,0.0
+404,multidisciplinary thesaurus,0.0
+405,background,0.0
+406,citing text,0.0
+407,tax,0.0
+408,text retrieval,0.0
+409,several approach,0.0
+410,unsupervised method,0.0
+411,distribution,302.0
+412,fake opinion,0.0
+413,adjudication,0.0
+414,ranking svm information retrieval component,0.0
+415,ape,0.0
+416,automatic post editing model,0.0
+417,answering using ranking,0.0
+418,vast majority,0.0
+419,default,0.0
+420,algorithm,455.0
+421,further research work,0.0
+422,brazilian legal document,0.0
+423,opinion,0.0
+424,complex rule,0.0
+425,many machine,0.0
+426,available general domain,0.0
+427,eu,0.0
+428,31k tuple,0.0
+429,suggesting,0.0
+430,answering using ranking svm,0.0
+431,cross,75.0
+432,based system,0.0
+433,traditional ad,0.0
+434,component,380.0
+435,challenging corpus,0.0
+436,end algorithm,0.0
+437,computer,455.0
+438,european directive,0.0
+439,bag,0.0
+440,evaluation,0.0
+441,called intersection method,0.0
+442,serving,0.0
+443,machine translation,0.0
+444,filter,0.0
+445,directive,0.0
+446,retrieving,0.0
+447,judicial opinion,0.0
+448,conditional random fields,0.0
+449,patent classification benchmark,0.0
+450,continuous vector space,0.0
+451,greek legislation knowledge,0.0
+452,national implementation,0.0
+453,element,76.0
+454,combination,226.0
+455,privacyqa corpus,0.0
+456,end,0.0
+457,open legal text,0.0
+458,appropriate cluster identification,0.0
+459,expert,152.0
+460,fcm,0.0
+461,user,152.0
+462,study,605.0
+463,appeal,0.0
+464,named entity recognition and linking,0.0
+465,textual entailment,0.0
+466,thousand,0.0
+467,clustering algorithm,0.0
+468,boosting,0.0
+469,differential,76.0
+470,management,152.0
+471,stacking,0.0
+472,comparison,0.0
+473,extreme multi label legal text,0.0
+474,legal practice,0.0
+475,long short-term memory,0.0
+476,question,227.0
+477,adding,0.0
+478,automatic post-editing,0.0
+479,clustering technique,0.0
+480,lawsuit,0.0
+481,convolutional neural network,0.0
+482,attention,152.0
+483,shot scenario,0.0
+484,change,228.0
+485,legal attribute,0.0
+486,greek legislation knowledge graph,0.0
+487,practical difficulty,0.0
+488,utility patent,0.0
+489,analysed time framework,0.0
+490,embeddings,0.0
+491,label,76.0
+492,information retrieval,0.0
+493,comprehensive content,0.0
+494,independent human reference,0.0
+495,case retrieval dataset,0.0
+496,entailment model,0.0
+497,research work,0.0
+498,dynamic topic,0.0
+499,document,76.0
+500,entropy measure,0.0
+501,competition,76.0
+502,attentive charge prediction,0.0
+503,compression algorithm,0.0
+504,score,0.0
+505,quality,75.0
+506,applying,0.0
+507,cluster identification algorithm,0.0
+508,spanish legal text processing,0.0
+509,legal documents,0.0
+510,cnns,0.0
+511,better method,0.0
+512,california state,0.0
+513,legal judgment prediction,0.0
+514,solution,532.0
+515,voice recognition,0.0
+516,first task,0.0
+517,supporting case,0.0
+518,description,152.0
+519,language resources,0.0
+520,synonym,0.0
+521,novel method,0.0
+522,victor,0.0
+523,word vector,0.0
+524,open source,0.0
+525,shot learning,0.0
+526,specific argument,0.0
+527,argument mining,0.0
+528,contract element extraction,0.0
+529,post,76.0
+530,retrieval system,0.0
+531,representative court,0.0
+532,efficiency,76.0
+533,great progress,0.0
+534,automatic charge prediction,0.0
+535,based model,76.0
+536,novel dataset,0.0
+537,extracted meaning,0.0
+538,internal mapping,0.0
+539,effective signal,0.0
+540,implementation,0.0
+541,cluster identification,0.0
+542,uspto-2,0.0
+543,effectiveness,75.0
+544,learning to rank,0.0
+545,decision support,0.0
+546,legal drafting,0.0
+547,time framework,0.0
+548,editing model,0.0
+549,speed,152.0
+550,nim,0.0
+551,legal language modeling,0.0
+552,law entailment,0.0
+553,compression,0.0
+554,legal citation graph,0.0
+555,intellectual property organization,0.0
+556,standard gold set,0.0
+557,system performance,0.0
+558,relevant article,0.0
+559,greek language,0.0
+560,expertise,0.0
+561,automatic summarization,0.0
+562,particular paragraph,0.0
+563,european court,0.0
+564,argumentation,0.0
+565,recognizing textual entailment,0.0
+566,concept,76.0
+567,eurlex dataset,0.0
+568,definition,76.0
+569,querying greek,0.0
+570,number,681.0
+571,appropriate cluster identification algorithm,0.0
+572,supervised machine learning,0.0
+573,category,304.0
+574,informative document,0.0
+575,answering task,0.0
+576,composition,152.0
+577,field,985.0
+578,predicted treaty,0.0
+579,ex,0.0
+580,kit,0.0
+581,form,151.0
+582,label legal text classification,0.0
+583,open source resource kit,0.0
+584,language,454.0
+585,project,228.0
+586,maintaining,75.0
+587,role,303.0
+588,consisting,0.0
+589,length limitation,0.0
+590,english,0.0
+591,administrative open access,0.0
+592,employing,0.0
+593,supervised machine,0.0
+594,frequent use,0.0
+595,share resource,0.0
+596,lateral annotation,0.0
+597,work,910.0
+598,perspective,150.0
+599,abstract information,0.0
+600,31k,0.0
+601,other hand,76.0
+602,ir task,0.0
+603,character,0.0
+604,controlled pipeline,0.0
+605,promising preliminary result,0.0
+606,exploration,0.0
+607,respondent,0.0
+608,thesaurus,0.0
+609,existing,76.0
+610,answer,76.0
+611,legal question answering,0.0
+612,summarizing document,0.0
+613,scale,151.0
+614,entailment component,0.0
+615,building thesauri,0.0
+616,automatic semantic edge labeling,0.0
+617,word embedding,0.0
+618,same information,0.0
+619,relevant literature,0.0
+620,given sentence,0.0
+621,written text,0.0
+622,share,0.0
+623,legal decision,0.0
+624,analysed time,0.0
+625,graph,0.0
+626,post-editing dataset,0.0
+627,sophisticated way,0.0
+628,candidate,0.0
+629,defining,0.0
+630,overall performance,0.0
+631,document database,0.0
+632,continuous vector,0.0
+633,stacked bilstm,0.0
+634,other state,0.0
+635,neural network,151.0
+636,shot charge prediction,0.0
+637,original reference translation,0.0
+638,treaty content,0.0
+639,non legal text,0.0
+640,international investment,0.0
+641,implementing,0.0
+642,hierarchical attention network,0.0
+643,multi label text,0.0
+644,crf layer,0.0
+645,fast computer,0.0
+646,relevant case retrieval task,0.0
+647,respective machine translation,0.0
+648,quest project,0.0
+649,design benchmark,0.0
+650,driven combination,0.0
+651,framing,0.0
+652,legal spanish,0.0
+653,building,76.0
+654,keyword query,0.0
+655,national legislation,0.0
+656,investment,0.0
+657,bundesgerichtshof,0.0
+658,janeiro jurisprudence,0.0
+659,machine learning approach,0.0
+660,employing ranking,0.0
+661,ranking svm information retrieval,0.0
+662,common form,0.0
+663,type system,0.0
+664,es,0.0
+665,entropy differential,0.0
+666,document type,0.0
+667,negotiation,0.0
+668,paragraph,0.0
+669,patent knowledge,0.0
+670,formulaic nature,0.0
+671,investment treaties,0.0
+672,post editing dataset,0.0
+673,previous feature,0.0
+674,ip,0.0
+675,selected treaty design benchmark,0.0
+676,quality thesaurus,0.0
+677,court judge,0.0
+678,feature engineering,0.0
+679,standard gold,0.0
+680,additional information,0.0
+681,traditional machine learning,0.0
+682,neural model,0.0
+683,structure,453.0
+684,bill,0.0
+685,different size,0.0
+686,other resource,0.0
+687,focus,76.0
+688,broad variety,0.0
+689,experimental evaluation,0.0
+690,based method,0.0
+691,benchmark dataset,0.0
+692,current investment,0.0
+693,provided summary,0.0
+694,many confusing charge,0.0
+695,speech recognition,0.0
+696,parallel language,0.0
+697,labeled text,0.0
+698,best method,0.0
+699,legal text generation,0.0
+700,case law entailment,0.0
+701,means,0.0
+702,tool,303.0
+703,based classifier,0.0
+704,neural sentence,0.0
+705,identifying,0.0
+706,negation,0.0
+707,scale case law entailment dataset,0.0
+708,side,0.0
+709,relevance,0.0
+710,word ambiguity,0.0
+711,multi label legal text classification,0.0
+712,initial result,0.0
+713,binary violation classification,0.0
+714,surrounding,0.0
+715,geographical landmark,0.0
+716,textual reference,0.0
+717,benchmark,0.0
+718,public datum,0.0
+719,utilizing,151.0
+720,set,531.0
+721,legal text classification,0.0
+722,importance,227.0
+723,elrc,0.0
+724,characteristic,0.0
+725,legal question,0.0
+726,power,227.0
+727,conditional random field model,0.0
+728,answering using,0.0
+729,deep convolutional neural network,0.0
+730,fact,226.0
+731,editing dataset,0.0
+732,discovery,152.0
+733,edited version,0.0
+734,answering system,0.0
+735,literature,225.0
+736,approach,531.0
+737,source sentence,0.0
+738,learning approach,0.0
+739,document summarization,0.0
+740,including news,0.0
+741,supreme court,0.0
+742,sensible manner,0.0
+743,issue,531.0
+744,investment treaty,0.0
+745,spanish corpus,0.0
+746,making process,0.0
+747,hand,76.0
+748,legal information,0.0
+749,identifying output,0.0
+750,large corpus,0.0
+751,identification,75.0
+752,forum,76.0
+753,discriminative attribute,0.0
+754,law entailment dataset,0.0
+755,corresponding nim,0.0
+756,making,76.0
+757,label state,0.0
+758,previous unsupervised method,0.0
+759,linear unit,0.0
+760,tuple,76.0
+761,mean,76.0
+762,japanese legal bar,0.0
+763,label text,0.0
+764,automatic citation analysis,0.0
+765,cnn,0.0
+766,edge,0.0
+767,deep neural network,0.0
+768,relation,227.0
+769,order,380.0
+770,annotation,0.0
+771,shot,75.0
+772,country,379.0
+773,board,76.0
+774,retrieval dataset,0.0
+775,legislation,0.0
+776,addressed using,0.0
+777,powerful new approach,0.0
+778,new english legal judgment prediction dataset,0.0
+779,token contract,0.0
+780,linking,76.0
+781,promising,0.0
+782,scale case retrieval,0.0
+783,gold,76.0
+784,echr,0.0
+785,name dispute,0.0
+786,jurisprudence,0.0
+787,using bag,0.0
+788,regressive transformer,0.0
+789,convenient tool,0.0
+790,world utility,0.0
+791,respective machine,0.0
+792,brazil,0.0
+793,knowledge graph,0.0
+794,document retrieval,0.0
+795,pli,0.0
+796,dropout,0.0
+797,appropriate cluster,0.0
+798,query,0.0
+799,genuine real world,0.0
+800,knowledge,303.0
+801,crf,0.0
+802,vector space,76.0
+803,new english legal judgment prediction,0.0
+804,case importance prediction,0.0
+805,art,152.0
+806,written rule,0.0
+807,neural system,0.0
+808,strong baseline,0.0
+809,extending thesauri,0.0
+810,distinguishing,0.0
+811,window,0.0
+812,experimental result,0.0
+813,machine translation quality,0.0
+814,legal case,0.0
+815,feature,227.0
+816,human expert,0.0
+817,contention,0.0
+818,eu legislation,0.0
+819,access,75.0
+820,nlp,0.0
+821,post editing model,0.0
+822,language model,0.0
+823,majority,0.0
+824,dataset clef,0.0
+825,auto,0.0
+826,multilabel,0.0
+827,deep learning,76.0
+828,congressional bill,0.0
+829,subclass level,0.0
+830,certain type,0.0
+831,extension,303.0
+832,many synonym,0.0
+833,classification approach,0.0
+834,wipo,0.0
+835,element extraction,0.0
+836,supervised model,0.0
+837,measure,76.0
+838,unit,151.0
+839,interface,75.0
+840,dropout regularization,0.0
+841,version,304.0
+842,xmtc,0.0
+843,task,76.0
+844,legal expertise,0.0
+845,belonging,0.0
+846,case law entailment dataset,0.0
+847,genuine opinion,0.0
+848,mobile application,0.0
+849,authority,0.0
+850,negotiating,0.0
+851,upper court,0.0
+852,meaningful text,0.0
+853,neural machine translation quality,0.0
+854,estimation,151.0
+855,value,303.0
+856,random field model,0.0
+857,motion,76.0
+858,learning,531.0
+859,idf,0.0
+860,level,455.0
+861,text similarity,0.0
+862,describing,0.0
+863,common keyword query,0.0
+864,important prerequisite,0.0
+865,proposal,151.0
+866,relevant case,0.0
+867,practice,152.0
+868,crf combination,0.0
+869,rio,0.0
+870,property,606.0
+871,different approach,76.0
+872,use,228.0
+873,cluster algorithm,0.0
+874,post editing analysis,0.0
+875,kauanejunior,0.0
+876,automatic charge,0.0
+877,bypass,0.0
+878,intersection,303.0
+879,annotating,0.0
+880,high accuracy,0.0
+881,resulting,76.0
+882,bigrus,0.0
+883,term memory,75.0
+884,subclass,0.0
+885,binary violation,0.0
+886,word,228.0
+887,word2vec,0.0
+888,encoding,0.0
+889,general topical relevance,0.0
+890,manner,76.0
+891,semantic edge labeling,0.0
+892,producing,0.0
+893,word model,0.0
+894,consistent improvement,0.0
+895,resource,228.0
+896,same label,0.0
+897,legal text,0.0
+898,experimenting,0.0
+899,classification benchmark,0.0
+900,translation quality,0.0
+901,full spectrum,0.0
+902,current multi label state,0.0
+903,fuzzy membership,0.0
+904,relevant answer,0.0
+905,previous eurlex dataset,0.0
+906,legal domain,0.0
+907,multi token contract,0.0
+908,rnn,0.0
+909,amount,0.0
+910,decision,0.0
+911,deep learning algorithm,0.0
+912,detailed information,0.0
+913,term,529.0
+914,encoded summarization,0.0
+915,shot charge,0.0
+916,filtering,0.0
+917,datum,605.0
+918,written summary,0.0
+919,bva,0.0
+920,treaty design,0.0
+921,quality estimation,0.0
+922,including,228.0
+923,choice,76.0
+924,scientific article,0.0
+925,gold set,0.0
+926,language models,0.0
+927,persistent difference,0.0
+928,pair,76.0
+929,description section,0.0
+930,concluded one,0.0
+931,local entropy,0.0
+932,ex ante,0.0
+933,classification precision,0.0
+934,name,0.0
+935,benefiting,0.0
+936,information management,0.0
+937,cleaning,0.0
+938,machine translation system,0.0
+939,neural language models,0.0
+940,full text,0.0
+941,method,1290.0
+942,unsatisfactory performance,0.0
+943,voice,0.0
+944,application,909.0
+945,neural machine translation,0.0
+946,citation graph,0.0
+947,topic modelling,0.0
+948,prerequisite,0.0
+949,real world,0.0
+950,thesauri,0.0
+951,public document database,0.0
+952,problem,531.0
+953,tackling,0.0
+954,patent classifier,0.0
+955,modificatory provisions,0.0
+956,different feature,0.0
+957,property organization,0.0
+958,entailment,0.0
+959,resource kit,0.0
+960,legislation knowledge,0.0
+961,discourse,76.0
+962,database,0.0
+963,output,0.0
+964,available datum,0.0
+965,gensim,0.0
+966,transposition,0.0
+967,company,76.0
+968,multi label text classification,0.0
+969,establishing,75.0
+970,public document,0.0
+971,limited case,0.0
+972,replacing cnns,0.0
+973,patent knowledge mining,0.0
+974,aggregating paragraph,0.0
+975,higher accuracy,0.0
+976,current investment treaty,0.0
+977,law court,0.0
+978,human validation,0.0
+979,lstm,0.0
+980,charge prediction,0.0
+981,edit,0.0
+982,answering,0.0
+983,similarity,0.0
+984,finding,76.0
+985,world,228.0
+986,triple,0.0
+987,section,378.0
+988,english legal judgment prediction,0.0
+989,editing analysis,0.0
+990,neural language,0.0
+991,extended form,0.0
+992,learning method,0.0
+993,landmark,0.0
+994,text,76.0
+995,california billa,0.0
+996,kauanejunior corpus,0.0
+997,european union,0.0
+998,other baseline,0.0
+999,linear sliding,0.0
+1000,automatic feature extraction,0.0
+1001,term memory network,0.0
+1002,convolutional neural network (cnn),0.0
+1003,bgh,0.0
+1004,label classification,0.0
+1005,engineering,304.0
+1006,general implication,0.0
+1007,encoding document,0.0
+1008,retrieving supporting case,0.0
+1009,showing,76.0
+1010,unseen query,0.0
+1011,source resource,0.0
+1012,consuming,0.0
+1013,summarizing,0.0
+1014,current algorithm,0.0
+1015,extraction task,0.0
+1016,criminal case,0.0
+1017,anonymization,0.0
+1018,hierarchical version,0.0
+1019,baseline svm,0.0
+1020,selected treaty design,0.0
+1021,english legal judgment prediction dataset,0.0
+1022,scoring framework,0.0
+1023,containing,152.0
+1024,cascade,0.0
+1025,domain knowledge,0.0
+1026,operating,0.0
+1027,appearing,0.0
+1028,legal production,0.0
+1029,accuracy,152.0
+1030,result,1288.0
+1031,patent classification,0.0
+1032,sense,228.0
+1033,further research,0.0
+1034,reference,152.0
+1035,boosting algorithm,0.0
+1036,syntactic similarity,0.0
+1037,text classification,0.0
+1038,processing,302.0
+1039,ruling case,0.0
+1040,experience,152.0
+1041,entity recognition,0.0
+1042,similarity search,0.0
+1043,speed similarity search,0.0
+1044,deep learning approach,0.0
+1045,legal content,0.0
+1046,ability,76.0
+1047,quest,0.0
+1048,latent,0.0
+1049,civil law,0.0
+1050,extending,76.0
+1051,test corpus,0.0
+1052,treaty,0.0
+1053,information retrieval task,0.0
+1054,article,1059.0
+1055,field model,0.0
+1056,news,152.0
+1057,engine,0.0
+1058,improvement,152.0
+1059,tax law,0.0
+1060,various frame,0.0
+1061,case importance,0.0
+1062,recurrent neural networks,0.0
+1063,neural baseline,0.0
+1064,corresponding entity,0.0
+1065,mapping,151.0
+1066,collection,304.0
+1067,training,75.0
+1068,size,76.0
+1069,precision,76.0
+1070,architecture,227.0
+1071,confusing charge,0.0
+1072,summary,0.0
+1073,discriminative legal attribute,0.0
+1074,cluster,0.0
+1075,complex nature,0.0
+1076,memory network,0.0
+1077,information extraction,0.0
+1078,source resource kit,0.0
+1079,scale case law,0.0
+1080,existing solution,0.0
+1081,art patent classifier,0.0
+1082,nature,76.0
+1083,administrative adjudication,0.0
+1084,appellate court decision,0.0
+1085,mission,0.0
+1086,growing,152.0
+1087,using ranking,0.0
+1088,domain name,0.0
+1089,frame,0.0
+1090,classifier,0.0
+1091,further improvement,0.0
+1092,new sophisticated way,0.0
+1093,search,0.0
+1094,judge,0.0
+1095,extraction,0.0
+1096,website,0.0
+1097,better model,0.0
+1098,automated identification,0.0
+1099,experiment,302.0
+1100,janeiro jurisprudence database,0.0
+1101,dynamic topic model,0.0
+1102,previous administrative decision,0.0
+1103,code,0.0
+1104,support tool,0.0
+1105,retrieving supporting,0.0
+1106,prediction,152.0
+1107,support,227.0
+1108,analysis,909.0
+1109,extensive evaluation,0.0
+1110,information retrieval component,0.0
+1111,machine translation dataset,0.0
+1112,related concept,0.0
+1113,genuine real world utility,0.0
+1114,answerability,0.0
+1115,treaty language,0.0
+1116,speech,0.0
+1117,neural language model,0.0
+1118,combined solution,0.0
+1119,various body,0.0
+1120,vector,227.0
+1121,proof,227.0
+1122,network,529.0
+1123,concept system,0.0
+1124,phrase,0.0
+1125,ambiguity,0.0
+1126,summarization,0.0
+1127,sliding,0.0
+1128,combined tf,0.0
+1129,semantic edge,0.0
+1130,clustering,0.0
+1131,corresponding,152.0
+1132,modeling,151.0
+1133,contextual feature,0.0
+1134,model,985.0
+1135,relationship,76.0
+1136,crucial role,0.0
+1137,phase,303.0
+1138,specialized ir task,0.0
+1139,exam,0.0
+1140,neural machine,0.0
+1141,raw utility patent,0.0
+1142,system,1213.0
+1143,standard cluster,0.0
+1144,art quality estimation,0.0
+1145,vector machine,0.0
+1146,court decision,0.0
+1147,citizen,76.0
+1148,called intersection,0.0
+1149,case,606.0
+1150,importance prediction,0.0
+1151,veteran appeal,0.0
+1152,improved system,0.0
+1153,administrative process,0.0
+1154,legal bar,0.0
+1155,translation dataset,0.0
+1156,theme classification approach,0.0
+1157,legal citation,0.0
+1158,proposed cluster,0.0
+1159,real world utility,0.0
+1160,original reference,0.0
+1161,union,228.0
+1162,dsca,0.0
+1163,survey,0.0
+1164,modification,0.0
+1165,paragraph level,0.0
+1166,robot,76.0
+1167,comprise,0.0
+1168,representation,604.0
+1169,contract element,0.0
+1170,bert,0.0
+1171,demographic information,0.0
+1172,different clustering,0.0
+1173,contract,0.0
+1174,china,0.0
+1175,u.s,0.0
+1176,performance,152.0
+1177,customer,0.0
+1178,billa,0.0
+1179,novel model,75.0
+1180,legal task,0.0
+1181,generation,0.0
+1182,lower entropy,0.0
+1183,proposed approach,0.0
+1184,new dataset,0.0
+1185,aspect,379.0
+1186,multilingual legal corpus,0.0
+1187,svm,0.0
+1188,argumentative sentence,0.0
+1189,collection process,0.0
+1190,year,983.0
+1191,signal,75.0
+1192,human accuracy,0.0
+1193,baseline result,0.0
+1194,common law,0.0
+1195,page,76.0
+1196,annotating sentence,0.0
+1197,policy,76.0
+1198,appellate court,0.0
+1199,multilingual test corpus,0.0
+1200,extensive experiment,0.0
+1201,svm information retrieval component,0.0
+1202,classification,0.0
+1203,evaluating,151.0
+1204,learning model,0.0
+1205,japan,0.0
+1206,proposed modification,0.0
+1207,tokenized using,0.0
+1208,content,0.0
+1209,conditional random field,0.0
+1210,open public dataset,0.0
+1211,united state,75.0
+1212,reference translation,0.0
+1213,lower court judge,0.0
+1214,preference,0.0
+1215,recurrent neural network,0.0
+1216,multi label classification,0.0
+1217,research,608.0
+1218,label text classification,0.0
+1219,auxiliary corpus,0.0
+1220,inducing,0.0
+1221,extreme multi label text,0.0
+1222,legal document,0.0
+1223,employing ranking svm,0.0
+1224,named entity,0.0
+1225,case retrieval task,0.0
+1226,case summarization,0.0
+1227,traditional machine,0.0
+1228,professional translator,0.0
+1229,annotator,0.0
+1230,technical domain,0.0
+1231,parallel english,0.0
+1232,eurovoc,0.0
+1233,assignment,76.0
+1234,label legal text,0.0
+1235,human performance,0.0
+1236,legal information retrieval,0.0
+1237,attentive charge prediction model,0.0
+1238,legal assistant,0.0
+1239,semantics,0.0
+1240,experimental dataset,0.0
+1241,limitation,151.0
+1242,english legal judgment,0.0
+1243,court case,0.0
+1244,document representation,0.0
+1245,treaty design benchmark,0.0
+1246,difference,227.0
+1247,ad,152.0
+1248,manual task,0.0
+1249,paper,1668.0
+1250,lack,0.0
+1251,information processing,0.0
+1252,judgment prediction,0.0
+1253,provider,0.0
+1254,coliee,0.0
+1255,hierarchical attention,0.0
+1256,legal information extraction,0.0
+1257,argument,76.0
+1258,ranking svm information,0.0
+1259,human reference,0.0
+1260,mining,76.0
+1261,jurisdiction,0.0
+1262,feasibility,0.0
+1263,automatic semantic edge,0.0

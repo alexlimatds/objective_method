@@ -1,1265 +1,1265 @@
 1264
-lack,0
-legal case retrieval task,1
-website,2
-court decision,3
-title,4
-company,5
-mining,6
-patent information,7
-particular type system,8
-baseline,9
-respondent,10
-ex ante,11
-dataset clef,12
-proof,13
-neural baseline,14
-building,15
-signal,16
-automated identification,17
-concluded one,18
-privacy,19
-legislation knowledge,20
-analysed time,21
-effect,22
-traditional machine learning approach,23
-annotation,24
-open source resource,25
-scientific article,26
-previous unsupervised method,27
-body,28
-case law entailment,29
-selected treaty,30
-identification,31
-effective signal,32
-property,33
-contract element extraction,34
-concept system,35
-showing,36
-engineering,37
-alternative solution,38
-comprehensive content,39
-allowing,40
-use,41
-finding,42
-veteran,43
-legal case retrieval,44
-modeling paragraph,45
-length,46
-further research,47
-previous feature,48
-veteran appeal,49
-manhattan,50
-different size,51
-research work,52
-quest,53
-issue,54
-standard patent classification,55
-ranking svm information retrieval component,56
-including news,57
-description,58
-benefit,59
-prediction,60
-conditional random field,61
-appropriate cluster,62
-obtained result,63
-legal language modeling,64
-project,65
-shot,66
-implementation,67
-experimental dataset,68
-model,69
-domain knowledge,70
-querying,71
-keyword query,72
-patent knowledge,73
-scoring framework,74
-frequency,75
-embedding representation,76
-spanish jurisdiction,77
-answering using ranking,78
-patent information management,79
-different aspect,80
-extraction,81
-various body,82
-text classification,83
-legal documents,84
-genuine real world,85
-supervised machine,86
-top,87
-transformer,88
-representation,89
-current investment,90
-ip competition,91
-legal expertise,92
-judicial opinion,93
-discriminative legal attribute,94
-comparing,95
-user data,96
-knowledge mining,97
-cluster identification algorithm,98
-classification precision,99
-layer,100
-representative court,101
-paragraph level,102
-voice,103
-automatic tool,104
-study,105
-privacyqa,106
-feature extraction,107
-like quality,108
-modification,109
-unseen query,110
-neural machine,111
-svm information retrieval component,112
-multi label text,113
-relationship,114
-fake opinion,115
-administrative process,116
-supervised model,117
-phase,118
-importance prediction,119
-current algorithm,120
-source sentence,121
-particular type,122
-method,123
-same information,124
-answering task,125
-using spacy,126
-section,127
-human,128
-document representation,129
-content,130
-respective machine,131
-outcome,132
-decision,133
-many confusing charge,134
-manual task,135
-speed similarity,136
-various frame,137
-scale case,138
-ranking,139
-congress,140
-paragraph article,141
-utilizing,142
-citation,143
-representation space,144
-mobile application,145
-german tax law,146
-improvement,147
-bgh,148
-national legislation,149
-janeiro jurisprudence,150
-word,151
-legal judgment prediction dataset,152
-extensive evaluation,153
-rnn,154
-exploiting,155
-graph,156
-score,157
-robot,158
-preference,159
-source,160
-tune,161
-investment,162
-kauanejunior,163
-retrieval system performance,164
-available datum,165
-italy,166
-recognizing textual entailment,167
-negotiation,168
-edge,169
-promising preliminary result,170
-compression algorithm,171
-contribution,172
-named entity recognition,173
-appearing,174
-learning model,175
-competition,176
-retrieving supporting case,177
-verifying,178
-respective machine translation,179
-31k,180
-post editing analysis,181
-combining,182
-legal text generation,183
-motion,184
-intellectual property,185
-further research work,186
-patent,187
-tokenized using,188
-common keyword query,189
-patent classifier,190
-convolutional neural network (cnn),191
-entity reference representation,192
-multilingual test,193
-patent classification,194
-original reference,195
-retrieval component,196
-shot scenario,197
-previous administrative decision,198
-legal bar exam,199
-united state,200
-unsatisfactory performance,201
-retrieval system,202
-nim,203
-fast computer,204
-neural machine translation quality,205
-world utility,206
-appropriate cluster identification,207
-legislation,208
-different feature,209
-side,210
-lot,211
-labeling,212
-common law,213
-bundesgerichtshof,214
-classification approach,215
-open public dataset,216
-statement,217
-eu legislation,218
-german tax,219
-accurate relevance,220
-strong neural baseline,221
-means,222
-support,223
-human right,224
-binary violation,225
-real world utility,226
-legal text,227
-feasibility,228
-annotated corpus,229
-editing dataset,230
-memory network,231
-introducing,232
-law entailment,233
-other hand,234
-legal language,235
-legal spanish,236
-elrc,237
-ip,238
-argument,239
-real world,240
-svm information retrieval,241
-fuzzy,242
-different approach,243
-additional information,244
-existing algorithm,245
-retrieval dataset,246
-european directive,247
-neural legal judgment,248
-unsupervised method,249
-employing ranking,250
-dispute,251
-uspto-2,252
-modificatory provisions,253
-nature,254
-wipo,255
-value,256
-fuzzy clustering algorithm,257
-context,258
-name dispute,259
-suggesting,260
-building thesauri,261
-genuine opinion,262
-written text,263
-estimation,264
-extended form,265
-predictive text,266
-other algorithm,267
-article level,268
-57k,269
-comparative law,270
-hierarchical version,271
-shot learning,272
-machine,273
-limited case,274
-demographic information,275
-producing,276
-gold,277
-ranking svm,278
-using bag,279
-framework,280
-based system,281
-parameter study,282
-case study,283
-performing,284
-administrative open access,285
-european union,286
-analysis,287
-patent classification benchmark,288
-proposed approach,289
-length limitation,290
-design,291
-token contract,292
-feature,293
-utility patent,294
-conditional random fields,295
-union,296
-legal attribute,297
-word2vec,298
-fcm,299
-detailed information,300
-query,301
-automatic feature,302
-combination,303
-general domain,304
-final charge,305
-patent knowledge mining,306
-resource,307
-relying,308
-addressed using,309
-entity,310
-previous study,311
-abstract information,312
-multi label text classification,313
-political speech,314
-scale,315
-standard cluster,316
-work,317
-billsum,318
-share resource,319
-according,320
-attention network,321
-image processing,322
-multilabel problem,323
-civil law,324
-legal domain,325
-regional entity,326
-quest project,327
-tool,328
-production,329
-combined tf,330
-bva,331
-querying greek,332
-right,333
-inherent characteristic,334
-available general domain,335
-citizen,336
-querying greek legislation,337
-intelligibility,338
-embeddings,339
-feature engineering,340
-summary,341
-candidate,342
-speech recognition,343
-task,344
-source resource,345
-latent policy,346
-improved system,347
-annotator,348
-additional algorithm,349
-including,350
-dropout regularization,351
-administrative adjudication,352
-element,353
-automatic post editing model,354
-frequent use,355
-ad,356
-self,357
-result,358
-corpus,359
-traditional machine,360
-organization,361
-time structure,362
-synonym,363
-practical difficulty,364
-learning algorithm,365
-resulting,366
-cross,367
-selected treaty design benchmark,368
-pair,369
-inducing,370
-efficiency,371
-algorithm,372
-related concept,373
-asymmetry,374
-choice,375
-world,376
-implementing measure,377
-experimental result,378
-factual background,379
-recognized entity,380
-similarity search,381
-entailment model,382
-shot charge prediction,383
-other state,384
-eurlex dataset,385
-applying,386
-bigrus,387
-learning method,388
-shot charge,389
-full text,390
-speed,391
-contextual feature,392
-size,393
-31k tuple,394
-violation classification,395
-hierarchical attention network,396
-supervised text similarity,397
-public dataset,398
-scale case law entailment dataset,399
-cleaning,400
-challenging corpus,401
-human expert,402
-crucial role,403
-assisted annotation,404
-spanish legal text processing,405
-geographical landmark,406
-topical relevance,407
-deep learning algorithm,408
-sensible manner,409
-judiciary,410
-ranking svm information retrieval,411
-anonymization,412
-cnns,413
-deep neural network,414
-parallel english,415
-multi label classification,416
-named entity,417
-open access,418
-international investment,419
-driven combination,420
-surrounding text,421
-case,422
-syntactic similarity,423
-han,424
-describing,425
-salient phrase,426
-new english legal judgment prediction,427
-japan,428
-parliamentary discourse,429
-large corpus,430
-mapping,431
-identifying,432
-classification,433
-high accuracy,434
-particular paragraph,435
-engine,436
-clef,437
-broad variety,438
-comprise,439
-convenient tool,440
-domain name,441
-public document database,442
-machine translation system,443
-greek legislation,444
-problem,445
-frame recognition,446
-corresponding entity,447
-change,448
-accuracy,449
-practice,450
-machine translation quality,451
-pli,452
-scale case law entailment,453
-public datum,454
-vector,455
-employing ranking svm,456
-bilstm,457
-agreement,458
-law entailment dataset,459
-congressional bill,460
-evaluating,461
-natural language,462
-clustering algorithm,463
-victor,464
-role,465
-future system,466
-overall result,467
-literature,468
-defining,469
-analysed time framework,470
-cost,471
-answering system,472
-dynamic topic model,473
-german bundesgerichtshof,474
-technology,475
-first task,476
-legislation knowledge graph,477
-experimental evaluation,478
-neural machine translation system,479
-including word,480
-called intersection,481
-chain,482
-random field model,483
-bar exam,484
-utility,485
-convolutional neural network,486
-forum,487
-research,488
-shape,489
-establishing,490
-traditional contextual feature,491
-many country,492
-extensive experiment,493
-output,494
-lower entropy,495
-description section,496
-existing solution,497
-same label,498
-case law entailment dataset,499
-answering using,500
-legislative document,501
-judgment prediction,502
-thesauri,503
-replacing,504
-traditional ad,505
-such translation,506
-surrounding,507
-quality thesaurus,508
-cascade,509
-translation quality,510
-solution,511
-multi label legal text,512
-strategy,513
-agency,514
-text retrieval,515
-cascade framework,516
-large number,517
-ruling,518
-predicting,519
-jurisprudence,520
-name,521
-technical language,522
-art quality estimation,523
-relevant article,524
-eurovoc,525
-treaty content,526
-legal information processing,527
-standard gold set,528
-focus,529
-corresponding,530
-fewer token,531
-reference,532
-legal text classification,533
-distinct argument,534
-label legal text,535
-essential task,536
-country,537
-ambiguity,538
-scale case retrieval dataset,539
-word ambiguity,540
-dataset generation,541
-composition,542
-important prerequisite,543
-raw utility,544
-proposed method,545
-negotiating,546
-background,547
-legal scenario,548
-extreme multi label legal text,549
-triple,550
-search,551
-neural sentence,552
-amount,553
-generation,554
-investment treaty,555
-original reference translation,556
-perspective,557
-embedding,558
-binary violation classification,559
-legal drafting,560
-combined solution,561
-retrieval,562
-predictive model,563
-different purpose,564
-interface,565
-jurisdiction,566
-bag,567
-scale case law,568
-learning to rank,569
-importance,570
-filter,571
-user,572
-other open public dataset,573
-multilabel,574
-learning approach,575
-california billa,576
-deeppatent,577
-simpler wipo,578
-non legal text,579
-local entropy,580
-similarity,581
-general topical relevance,582
-previous work,583
-lawyer,584
-long short-term memory,585
-adjudication,586
-strong baseline,587
-sophisticated way,588
-treaty language,589
-image,590
-appellate state,591
-english legal judgment prediction dataset,592
-prerequisite,593
-confusing charge,594
-hypothesis,595
-kauanejunior corpus,596
-boosting algorithm,597
-using state,598
-many legal domain,599
-automatic post-editing,600
-main topic,601
-tf,602
-type,603
-other domain,604
-relevant case,605
-stacked bilstm,606
-relevant case retrieval,607
-legal production,608
-argument mining,609
-tuple,610
-better method,611
-quality estimation,612
-boosting,613
-language resources,614
-category,615
-ireland,616
-multi label legal text classification,617
-term,618
-prediction dataset,619
-legal bar,620
-replacing cnns,621
-word model,622
-eu,623
-spanish legal text,624
-extending,625
-lower court judge,626
-system,627
-domain,628
-machine learning,629
-legal question,630
-multidisciplinary thesaurus,631
-question,632
-embedding rnns,633
-speed similarity search,634
-metric,635
-component,636
-eurlex,637
-suitable candidate,638
-court case,639
-automatic charge prediction,640
-recurrent neural networks,641
-room,642
-labeled text,643
-standard gold,644
-membership,645
-interactive machine learning,646
-tax,647
-legal citation,648
-new english legal judgment,649
-semantic edge labeling,650
-natural language processing,651
-post-editing dataset,652
-form,653
-editing model,654
-mean,655
-bert model,656
-relevant document,657
-extreme multi label text classification,658
-greek legislation knowledge,659
-legal bar exam query,660
-language modeling,661
-appropriate cluster identification algorithm,662
-art patent,663
-contract,664
-european court,665
-tackling,666
-relevant answer,667
-semantic similarity,668
-different clustering,669
-source resource kit,670
-edited version,671
-linear sliding,672
-theme assignment,673
-multilingual legal corpus,674
-charge prediction,675
-text similarity,676
-text,677
-benchmark,678
-spanish,679
-usa,680
-board,681
-human reference,682
-attention,683
-lower court,684
-summarizing document,685
-court,686
-bar,687
-person,688
-language model,689
-appellate court decision,690
-bypass,691
-filtering,692
-better model,693
-selected treaty design,694
-clustering,695
-rio,696
-attribute,697
-maximum entropy,698
-observation,699
-parallel language,700
-current multi label state,701
-legal text processing,702
-lateral annotation,703
-expectation,704
-legal information retrieval,705
-other resource,706
-semantic relationship,707
-sliding,708
-written summary,709
-data,710
-svm information,711
-state court,712
-recurrent neural network,713
-benchmark dataset clef,714
-state,715
-paragraph,716
-gram,717
-fact,718
-different technique,719
-professional translator,720
-textual entailment component,721
-legal case,722
-treaty design,723
-citation graph,724
-representing,725
-judgment prediction dataset,726
-legal citation graph,727
-supporting case,728
-classification benchmark,729
-attentive charge prediction,730
-tax law,731
-internal mapping,732
-language,733
-traditional machine learning,734
-cluster,735
-distribution,736
-information retrieval,737
-landmark,738
-encoding,739
-intellectual property organization,740
-dropout,741
-human accuracy,742
-relevance,743
-legal task,744
-national implementation,745
-different kind,746
-purpose,747
-support tool,748
-post editing model,749
-resulting post,750
-full spectrum,751
-consistency,752
-token,753
-art patent classifier,754
-brazil,755
-billa,756
-challenge,757
-deep learning approach,758
-making,759
-persistent difference,760
-retrieval task,761
-product,762
-gold set,763
-training,764
-level,765
-idf,766
-administrative decision,767
-identification algorithm,768
-intersection,769
-element extraction,770
-paper,771
-neural system,772
-text-as-data,773
-legal judgment,774
-entropy,775
-survey,776
-answering,777
-design benchmark,778
-decision support,779
-unit,780
-multilingual test corpus,781
-processing,782
-multilingual corpus,783
-system performance,784
-mission,785
-difficulty,786
-lstm,787
-using frame,788
-embedding model,789
-part,790
-experimenting,791
-identifying output,792
-translator,793
-time framework,794
-crf combination,795
-customer,796
-collection,797
-field model,798
-new sophisticated way,799
-based classifier,800
-assistant,801
-term memory network,802
-appellate state court,803
-directive,804
-compression,805
-cnn,806
-legal practice,807
-consistent improvement,808
-covering,809
-label text classification,810
-type system,811
-annotating sentence,812
-standard patent,813
-statistical feature,814
-learning,815
-set,816
-structure,817
-computer,818
-court judge,819
-benefiting,820
-spanish corpus,821
-performed annotation,822
-deep learning,823
-provided summary,824
-shallow neural network,825
-stacking,826
-record,827
-xmtc,828
-preliminary result,829
-benchmark dataset,830
-summarizing,831
-antonym,832
-new english legal judgment prediction dataset,833
-implication,834
-automatic semantic edge,835
-time,836
-answering using ranking svm,837
-lexical feature,838
-case retrieval,839
-common form,840
-page,841
-voice recognition,842
-appeal,843
-greek,844
-document database,845
-dynamic topic,846
-predicting outcome,847
-post,848
-nlp,849
-topic model,850
-practical use,851
-process,852
-ten,853
-geopolitical entity,854
-edit,855
-complex rule,856
-controlled pipeline,857
-term memory,858
-datum,859
-named entity recognition and linking,860
-post editing dataset,861
-database,862
-one,863
-thousand,864
-automatic feature extraction,865
-property organization,866
-linear unit,867
-recognition,868
-hand,869
-case summarization,870
-bert,871
-supervised machine learning,872
-kind,873
-spectrum,874
-german court,875
-legal effect,876
-prediction model,877
-definition,878
-spacy,879
-great progress,880
-topic modelling,881
-extension,882
-crf layer,883
-translation,884
-legislative text,885
-label,886
-distinguishing,887
-dsca,888
-deep convolutional neural network,889
-document summarization,890
-cluster identification,891
-legal question answering,892
-relevant literature,893
-consuming,894
-baseline svm,895
-authority,896
-extreme multi label legal text classification,897
-es,898
-predicted treaty,899
-theme classification approach,900
-japanese legal bar,901
-exploration,902
-treaty design benchmark,903
-information management,904
-novel model,905
-appellate court,906
-version,907
-continuous vector,908
-human performance,909
-powerful new approach,910
-many machine,911
-test,912
-art,913
-greek legislation knowledge graph,914
-expertise,915
-growing,916
-discovery,917
-scenario,918
-frame,919
-gated recurrent units,920
-using word,921
-aggregating paragraph,922
-english legal judgment,923
-synsets,924
-technique,925
-certain type,926
-kit,927
-extending thesauri,928
-scale case retrieval,929
-legal judgment prediction,930
-knowledge,931
-additional lstm,932
-novel dataset,933
-legal text analytics,934
-entailment dataset,935
-extraction task,936
-neural legal judgment prediction,937
-field,938
-baseline result,939
-textual reference,940
-investigation,941
-aspect,942
-multi token contract,943
-performance,944
-implementing,945
-serving,946
-using ranking,947
-additional statistical feature,948
-neural network,949
-approximate nearest neighbour,950
-theme classification,951
-experiment,952
-annotation process,953
-proposed model,954
-considerable room,955
-legal information extraction,956
-scoring,957
-china,958
-text processing,959
-exam query,960
-collection process,961
-jurisprudence database,962
-quality,963
-greek language,964
-window,965
-extracted meaning,966
-textual entailment,967
-automatic citation analysis,968
-improving,969
-belonging,970
-effectiveness,971
-specific argument,972
-negation,973
-corresponding nim,974
-supervised text,975
-allowing annotator,976
-law,977
-ability,978
-thesaurus,979
-independent human reference,980
-operating,981
-access,982
-number,983
-potential problem,984
-legal decision,985
-word vector,986
-sentence embeddings,987
-machine translation,988
-criminal case,989
-article,990
-argumentation mining,991
-linking,992
-information processing,993
-corresponding label,994
-scotus,995
-approach,996
-using ranking svm,997
-classifier,998
-open source,999
-several language,1000
-hierarchical attention,1001
-privacyqa corpus,1002
-retrieving supporting,1003
-treaty,1004
-proposal,1005
-crf,1006
-existing,1007
-discriminative attribute,1008
-random field,1009
-novel method,1010
-potential,1011
-law court,1012
-informative document,1013
-translation system,1014
-written rule,1015
-sequential nature,1016
-svm,1017
-janeiro jurisprudence database,1018
-english,1019
-argumentation,1020
-employing,1021
-aggregating,1022
-legal information,1023
-initial result,1024
-answer,1025
-information retrieval component,1026
-computational cost,1027
-ir task,1028
-subclass,1029
-argumentative political speech,1030
-given sentence,1031
-adding,1032
-label legal text classification,1033
-manner,1034
-opinion,1035
-previous eurlex dataset,1036
-unsupervised semantic similarity,1037
-way,1038
-retrieving,1039
-translation dataset,1040
-overall performance,1041
-machine detection of generated text,1042
-legal perspective,1043
-document type,1044
-formulaic nature,1045
-based method,1046
-containing case,1047
-difference,1048
-vector space,1049
-latent,1050
-precision,1051
-summarization,1052
-open legal text,1053
-test corpus,1054
-case importance,1055
-regularization,1056
-clustering technique,1057
-basis,1058
-further improvement,1059
-vector machine,1060
-encoded summarization,1061
-public document,1062
-supreme court,1063
-promising,1064
-entropy differential,1065
-ruling case,1066
-containing,1067
-variety,1068
-bill,1069
-relevant case retrieval task,1070
-sensible composition,1071
-existing work,1072
-upper court,1073
-network,1074
-reference translation,1075
-technical domain,1076
-citing text,1077
-information retrieval task,1078
-small multilingual corpus,1079
-modeling,1080
-majority,1081
-legal document,1082
-proposed cluster,1083
-management,1084
-judge,1085
-brazilian appellate court,1086
-neural language model,1087
-california state,1088
-english legal judgment prediction,1089
-entire corpus,1090
-f1,1091
-current investment treaty,1092
-dutch,1093
-new dataset,1094
-transposition,1095
-post edited version,1096
-best method,1097
-machine learning approach,1098
-pipeline,1099
-phrase,1100
-document,1101
-charge,1102
-new approach,1103
-charge prediction model,1104
-knowledge graph,1105
-ranking svm information,1106
-neural language models,1107
-label classification,1108
-contract element,1109
-answerability,1110
-document retrieval,1111
-ape,1112
-european language,1113
-raw utility patent,1114
-memory,1115
-differential,1116
-multi label state,1117
-based model,1118
-automatic semantic edge labeling,1119
-lawsuit,1120
-document type classification,1121
-art quality,1122
-bar exam query,1123
-several approach,1124
-called intersection method,1125
-argumentative sentence,1126
-measure,1127
-expert,1128
-consisting,1129
-comparison,1130
-higher accuracy,1131
-order,1132
-theme,1133
-interaction,1134
-entailment,1135
-sentence,1136
-wide variety,1137
-wise attention,1138
-contention,1139
-general implication,1140
-case importance prediction,1141
-first dataset,1142
-auto,1143
-semantics,1144
-large scale,1145
-incorporating,1146
-character,1147
-spanish resources,1148
-semantic analysis,1149
-open source resource kit,1150
-coliee,1151
-dataset,1152
-type classification,1153
-edge labeling,1154
-neural model,1155
-label text,1156
-genuine real world utility,1157
-neural language,1158
-rule,1159
-tag,1160
-complex document,1161
-artificial intelligence,1162
-power,1163
-other baseline,1164
-gensim,1165
-releasing ten,1166
-u.s,1167
-citing,1168
-exam,1169
-assignment,1170
-share,1171
-end algorithm,1172
-experience,1173
-language models,1174
-legal assistant,1175
-legal corpus,1176
-evaluation,1177
-aforementioned method,1178
-ex,1179
-end,1180
-framing,1181
-resource kit,1182
-automatic charge,1183
-label state,1184
-legal content,1185
-policy,1186
-continuous vector space,1187
-releasing,1188
-semantic edge,1189
-government,1190
-intersection method,1191
-complex nature,1192
-brazilian legal document,1193
-specialized ir task,1194
-word embeddings,1195
-domain name dispute,1196
-several discriminative attribute,1197
-different source,1198
-architecture,1199
-sense,1200
-cluster algorithm,1201
-speech,1202
-subclass level,1203
-extractive method,1204
-auxiliary corpus,1205
-maintaining,1206
-application,1207
-making process,1208
-vast majority,1209
-concept,1210
-exploring,1211
-many synonym,1212
-extreme multi label text,1213
-fuzzy membership,1214
-investment treaties,1215
-provider,1216
-year,1217
-entailment component,1218
-editing analysis,1219
-violation,1220
-several neural classifier,1221
-relation,1222
-code,1223
-meaning,1224
-information,1225
-encoding document,1226
-annotating,1227
-using,1228
-query case,1229
-judgment,1230
-progress,1231
-space,1232
-ante,1233
-discourse,1234
-case retrieval dataset,1235
-word embedding,1236
-regressive transformer,1237
-rnns,1238
-meaningful text,1239
-neural machine translation,1240
-framing strategy,1241
-topic,1242
-news,1243
-entity recognition,1244
-entropy measure,1245
-conditional random field model,1246
-limitation,1247
-attentive charge prediction model,1248
-case retrieval task,1249
-national implementing,1250
-echr,1251
-default,1252
-subsequent decision,1253
-characteristic,1254
-human validation,1255
-attentive charge,1256
-automatic summarization,1257
-proposed modification,1258
-information extraction,1259
-neural classifier,1260
-supporting,1261
-machine translation dataset,1262
-case law,1263
+appellate state,0
+citing,1
+self,2
+modeling paragraph,3
+spanish,4
+knowledge mining,5
+entropy,6
+public dataset,7
+antonym,8
+natural language,9
+wise attention,10
+patent,11
+surrounding text,12
+learning algorithm,13
+government,14
+bilstm,15
+large number,16
+main topic,17
+potential problem,18
+allowing annotator,19
+inherent characteristic,20
+multilabel problem,21
+natural language processing,22
+suitable candidate,23
+memory,24
+basis,25
+interactive machine learning,26
+legal information processing,27
+framework,28
+annotation process,29
+lower court,30
+traditional machine learning approach,31
+congress,32
+relying,33
+process,34
+strategy,35
+variety,36
+complex document,37
+judgment,38
+neural legal judgment prediction,39
+legal text analytics,40
+title,41
+lawyer,42
+maximum entropy,43
+billsum,44
+ip competition,45
+extractive method,46
+improving,47
+ranking,48
+patent information,49
+legal bar exam,50
+charge prediction model,51
+manhattan,52
+citation,53
+additional lstm,54
+using state,55
+judgment prediction dataset,56
+bar exam,57
+chain,58
+technology,59
+rnns,60
+legal language,61
+data,62
+comparative law,63
+legal corpus,64
+using frame,65
+different aspect,66
+dispute,67
+intelligibility,68
+alternative solution,69
+previous study,70
+shallow neural network,71
+first dataset,72
+legal perspective,73
+european language,74
+translation,75
+relevant case retrieval,76
+extreme multi label text classification,77
+case study,78
+performed annotation,79
+using spacy,80
+topic model,81
+challenge,82
+privacy,83
+exploring,84
+obtained result,85
+new approach,86
+neural legal judgment,87
+proposed model,88
+legislation knowledge graph,89
+text-as-data,90
+embedding,91
+national implementing,92
+translator,93
+feature extraction,94
+italy,95
+querying greek legislation,96
+57k,97
+language modeling,98
+verifying,99
+ruling,100
+design,101
+charge,102
+predictive model,103
+simpler wipo,104
+strong neural baseline,105
+final charge,106
+membership,107
+bar,108
+scenario,109
+potential,110
+right,111
+post edited version,112
+patent information management,113
+introducing,114
+lexical feature,115
+attentive charge,116
+topic,117
+word embeddings,118
+expectation,119
+multilingual test,120
+large scale,121
+identification algorithm,122
+organization,123
+legal case retrieval task,124
+exam query,125
+usa,126
+supervised text similarity,127
+containing case,128
+technical language,129
+observation,130
+case retrieval,131
+many legal domain,132
+gram,133
+metric,134
+product,135
+attribute,136
+gated recurrent units,137
+sequential nature,138
+overall result,139
+proposed method,140
+open access,141
+standard patent,142
+svm information,143
+particular type,144
+tag,145
+state,146
+regularization,147
+pipeline,148
+investigation,149
+additional statistical feature,150
+brazilian appellate court,151
+technique,152
+scotus,153
+person,154
+using ranking svm,155
+theme,156
+utility,157
+art patent,158
+entity,159
+type,160
+f1,161
+machine,162
+hypothesis,163
+lot,164
+several discriminative attribute,165
+effect,166
+legal scenario,167
+meaning,168
+combining,169
+way,170
+releasing ten,171
+attention network,172
+extreme multi label legal text classification,173
+type classification,174
+sentence embeddings,175
+bert model,176
+spanish legal text,177
+wide variety,178
+retrieval system performance,179
+corpus,180
+according,181
+geopolitical entity,182
+assisted annotation,183
+dataset generation,184
+neural machine translation system,185
+difficulty,186
+german court,187
+ireland,188
+shape,189
+embedding model,190
+top,191
+interaction,192
+dutch,193
+using,194
+law,195
+several language,196
+german bundesgerichtshof,197
+spectrum,198
+implication,199
+synsets,200
+recognition,201
+textual entailment component,202
+scale case law entailment,203
+one,204
+framing strategy,205
+legal case retrieval,206
+svm information retrieval,207
+cost,208
+time,209
+query case,210
+supervised text,211
+rule,212
+baseline,213
+raw utility,214
+predicting outcome,215
+speed similarity,216
+recognized entity,217
+deeppatent,218
+labeling,219
+corresponding label,220
+existing algorithm,221
+han,222
+subsequent decision,223
+assistant,224
+court,225
+including word,226
+regional entity,227
+retrieval component,228
+several neural classifier,229
+art quality,230
+dataset,231
+embedding rnns,232
+parameter study,233
+incorporating,234
+open source resource,235
+querying,236
+named entity recognition,237
+semantic relationship,238
+time structure,239
+agency,240
+many country,241
+benefit,242
+ranking svm,243
+eurlex,244
+existing work,245
+intellectual property,246
+spanish resources,247
+semantic analysis,248
+tune,249
+greek legislation,250
+token,251
+considerable room,252
+agreement,253
+contribution,254
+frame recognition,255
+latent policy,256
+previous work,257
+image,258
+legal judgment,259
+german tax law,260
+document type classification,261
+information,262
+legislative text,263
+such translation,264
+greek,265
+scale case retrieval dataset,266
+releasing,267
+statement,268
+source,269
+prediction dataset,270
+additional algorithm,271
+part,272
+traditional contextual feature,273
+allowing,274
+parliamentary discourse,275
+purpose,276
+like quality,277
+other domain,278
+predicting,279
+distinct argument,280
+salient phrase,281
+production,282
+fuzzy,283
+human right,284
+relevant document,285
+retrieval,286
+text processing,287
+progress,288
+scoring,289
+human,290
+length,291
+legal judgment prediction dataset,292
+cascade framework,293
+violation,294
+multi label legal text,295
+replacing,296
+supporting,297
+entire corpus,298
+scale case,299
+unsupervised semantic similarity,300
+topical relevance,301
+domain,302
+different technique,303
+legal effect,304
+representation space,305
+argumentation mining,306
+domain name dispute,307
+article level,308
+random field,309
+translation system,310
+other open public dataset,311
+tf,312
+machine detection of generated text,313
+machine learning,314
+sensible composition,315
+entity reference representation,316
+new english legal judgment,317
+comparing,318
+sentence,319
+ten,320
+german tax,321
+preliminary result,322
+edge labeling,323
+other algorithm,324
+asymmetry,325
+performing,326
+argumentative political speech,327
+frequency,328
+bar exam query,329
+clef,330
+room,331
+embedding representation,332
+artificial intelligence,333
+using word,334
+future system,335
+legislative document,336
+general domain,337
+automatic tool,338
+standard patent classification,339
+computational cost,340
+legal bar exam query,341
+benchmark dataset clef,342
+ante,343
+different kind,344
+different purpose,345
+representing,346
+paragraph article,347
+exploiting,348
+image processing,349
+fuzzy clustering algorithm,350
+case law,351
+administrative decision,352
+test,353
+legal text processing,354
+body,355
+multilingual corpus,356
+automatic feature,357
+political speech,358
+covering,359
+theme classification,360
+selected treaty,361
+appellate state court,362
+kind,363
+resulting post,364
+transformer,365
+factual background,366
+small multilingual corpus,367
+spacy,368
+violation classification,369
+essential task,370
+spanish jurisdiction,371
+consistency,372
+veteran,373
+multi label state,374
+fewer token,375
+predictive text,376
+practical use,377
+neural classifier,378
+aggregating,379
+annotated corpus,380
+prediction model,381
+different source,382
+statistical feature,383
+approximate nearest neighbour,384
+judiciary,385
+theme assignment,386
+space,387
+aforementioned method,388
+record,389
+semantic similarity,390
+particular type system,391
+retrieval task,392
+state court,393
+privacyqa,394
+implementing measure,395
+accurate relevance,396
+layer,397
+context,398
+outcome,399
+jurisprudence database,400
+intersection method,401
+entailment dataset,402
+user data,403
+multidisciplinary thesaurus,404
+background,405
+citing text,406
+tax,407
+text retrieval,408
+several approach,409
+unsupervised method,410
+distribution,411
+fake opinion,412
+adjudication,413
+ranking svm information retrieval component,414
+ape,415
+automatic post editing model,416
+answering using ranking,417
+vast majority,418
+default,419
+algorithm,420
+further research work,421
+brazilian legal document,422
+opinion,423
+complex rule,424
+many machine,425
+available general domain,426
+eu,427
+31k tuple,428
+suggesting,429
+answering using ranking svm,430
+cross,431
+based system,432
+traditional ad,433
+component,434
+challenging corpus,435
+end algorithm,436
+computer,437
+european directive,438
+bag,439
+evaluation,440
+called intersection method,441
+serving,442
+machine translation,443
+filter,444
+directive,445
+retrieving,446
+judicial opinion,447
+conditional random fields,448
+patent classification benchmark,449
+continuous vector space,450
+greek legislation knowledge,451
+national implementation,452
+element,453
+combination,454
+privacyqa corpus,455
+end,456
+open legal text,457
+appropriate cluster identification,458
+expert,459
+fcm,460
+user,461
+study,462
+appeal,463
+named entity recognition and linking,464
+textual entailment,465
+thousand,466
+clustering algorithm,467
+boosting,468
+differential,469
+management,470
+stacking,471
+comparison,472
+extreme multi label legal text,473
+legal practice,474
+long short-term memory,475
+question,476
+adding,477
+automatic post-editing,478
+clustering technique,479
+lawsuit,480
+convolutional neural network,481
+attention,482
+shot scenario,483
+change,484
+legal attribute,485
+greek legislation knowledge graph,486
+practical difficulty,487
+utility patent,488
+analysed time framework,489
+embeddings,490
+label,491
+information retrieval,492
+comprehensive content,493
+independent human reference,494
+case retrieval dataset,495
+entailment model,496
+research work,497
+dynamic topic,498
+document,499
+entropy measure,500
+competition,501
+attentive charge prediction,502
+compression algorithm,503
+score,504
+quality,505
+applying,506
+cluster identification algorithm,507
+spanish legal text processing,508
+legal documents,509
+cnns,510
+better method,511
+california state,512
+legal judgment prediction,513
+solution,514
+voice recognition,515
+first task,516
+supporting case,517
+description,518
+language resources,519
+synonym,520
+novel method,521
+victor,522
+word vector,523
+open source,524
+shot learning,525
+specific argument,526
+argument mining,527
+contract element extraction,528
+post,529
+retrieval system,530
+representative court,531
+efficiency,532
+great progress,533
+automatic charge prediction,534
+based model,535
+novel dataset,536
+extracted meaning,537
+internal mapping,538
+effective signal,539
+implementation,540
+cluster identification,541
+uspto-2,542
+effectiveness,543
+learning to rank,544
+decision support,545
+legal drafting,546
+time framework,547
+editing model,548
+speed,549
+nim,550
+legal language modeling,551
+law entailment,552
+compression,553
+legal citation graph,554
+intellectual property organization,555
+standard gold set,556
+system performance,557
+relevant article,558
+greek language,559
+expertise,560
+automatic summarization,561
+particular paragraph,562
+european court,563
+argumentation,564
+recognizing textual entailment,565
+concept,566
+eurlex dataset,567
+definition,568
+querying greek,569
+number,570
+appropriate cluster identification algorithm,571
+supervised machine learning,572
+category,573
+informative document,574
+answering task,575
+composition,576
+field,577
+predicted treaty,578
+ex,579
+kit,580
+form,581
+label legal text classification,582
+open source resource kit,583
+language,584
+project,585
+maintaining,586
+role,587
+consisting,588
+length limitation,589
+english,590
+administrative open access,591
+employing,592
+supervised machine,593
+frequent use,594
+share resource,595
+lateral annotation,596
+work,597
+perspective,598
+abstract information,599
+31k,600
+other hand,601
+ir task,602
+character,603
+controlled pipeline,604
+promising preliminary result,605
+exploration,606
+respondent,607
+thesaurus,608
+existing,609
+answer,610
+legal question answering,611
+summarizing document,612
+scale,613
+entailment component,614
+building thesauri,615
+automatic semantic edge labeling,616
+word embedding,617
+same information,618
+relevant literature,619
+given sentence,620
+written text,621
+share,622
+legal decision,623
+analysed time,624
+graph,625
+post-editing dataset,626
+sophisticated way,627
+candidate,628
+defining,629
+overall performance,630
+document database,631
+continuous vector,632
+stacked bilstm,633
+other state,634
+neural network,635
+shot charge prediction,636
+original reference translation,637
+treaty content,638
+non legal text,639
+international investment,640
+implementing,641
+hierarchical attention network,642
+multi label text,643
+crf layer,644
+fast computer,645
+relevant case retrieval task,646
+respective machine translation,647
+quest project,648
+design benchmark,649
+driven combination,650
+framing,651
+legal spanish,652
+building,653
+keyword query,654
+national legislation,655
+investment,656
+bundesgerichtshof,657
+janeiro jurisprudence,658
+machine learning approach,659
+employing ranking,660
+ranking svm information retrieval,661
+common form,662
+type system,663
+es,664
+entropy differential,665
+document type,666
+negotiation,667
+paragraph,668
+patent knowledge,669
+formulaic nature,670
+investment treaties,671
+post editing dataset,672
+previous feature,673
+ip,674
+selected treaty design benchmark,675
+quality thesaurus,676
+court judge,677
+feature engineering,678
+standard gold,679
+additional information,680
+traditional machine learning,681
+neural model,682
+structure,683
+bill,684
+different size,685
+other resource,686
+focus,687
+broad variety,688
+experimental evaluation,689
+based method,690
+benchmark dataset,691
+current investment,692
+provided summary,693
+many confusing charge,694
+speech recognition,695
+parallel language,696
+labeled text,697
+best method,698
+legal text generation,699
+case law entailment,700
+means,701
+tool,702
+based classifier,703
+neural sentence,704
+identifying,705
+negation,706
+scale case law entailment dataset,707
+side,708
+relevance,709
+word ambiguity,710
+multi label legal text classification,711
+initial result,712
+binary violation classification,713
+surrounding,714
+geographical landmark,715
+textual reference,716
+benchmark,717
+public datum,718
+utilizing,719
+set,720
+legal text classification,721
+importance,722
+elrc,723
+characteristic,724
+legal question,725
+power,726
+conditional random field model,727
+answering using,728
+deep convolutional neural network,729
+fact,730
+editing dataset,731
+discovery,732
+edited version,733
+answering system,734
+literature,735
+approach,736
+source sentence,737
+learning approach,738
+document summarization,739
+including news,740
+supreme court,741
+sensible manner,742
+issue,743
+investment treaty,744
+spanish corpus,745
+making process,746
+hand,747
+legal information,748
+identifying output,749
+large corpus,750
+identification,751
+forum,752
+discriminative attribute,753
+law entailment dataset,754
+corresponding nim,755
+making,756
+label state,757
+previous unsupervised method,758
+linear unit,759
+tuple,760
+mean,761
+japanese legal bar,762
+label text,763
+automatic citation analysis,764
+cnn,765
+edge,766
+deep neural network,767
+relation,768
+order,769
+annotation,770
+shot,771
+country,772
+board,773
+retrieval dataset,774
+legislation,775
+addressed using,776
+powerful new approach,777
+new english legal judgment prediction dataset,778
+token contract,779
+linking,780
+promising,781
+scale case retrieval,782
+gold,783
+echr,784
+name dispute,785
+jurisprudence,786
+using bag,787
+regressive transformer,788
+convenient tool,789
+world utility,790
+respective machine,791
+brazil,792
+knowledge graph,793
+document retrieval,794
+pli,795
+dropout,796
+appropriate cluster,797
+query,798
+genuine real world,799
+knowledge,800
+crf,801
+vector space,802
+new english legal judgment prediction,803
+case importance prediction,804
+art,805
+written rule,806
+neural system,807
+strong baseline,808
+extending thesauri,809
+distinguishing,810
+window,811
+experimental result,812
+machine translation quality,813
+legal case,814
+feature,815
+human expert,816
+contention,817
+eu legislation,818
+access,819
+nlp,820
+post editing model,821
+language model,822
+majority,823
+dataset clef,824
+auto,825
+multilabel,826
+deep learning,827
+congressional bill,828
+subclass level,829
+certain type,830
+extension,831
+many synonym,832
+classification approach,833
+wipo,834
+element extraction,835
+supervised model,836
+measure,837
+unit,838
+interface,839
+dropout regularization,840
+version,841
+xmtc,842
+task,843
+legal expertise,844
+belonging,845
+case law entailment dataset,846
+genuine opinion,847
+mobile application,848
+authority,849
+negotiating,850
+upper court,851
+meaningful text,852
+neural machine translation quality,853
+estimation,854
+value,855
+random field model,856
+motion,857
+learning,858
+idf,859
+level,860
+text similarity,861
+describing,862
+common keyword query,863
+important prerequisite,864
+proposal,865
+relevant case,866
+practice,867
+crf combination,868
+rio,869
+property,870
+different approach,871
+use,872
+cluster algorithm,873
+post editing analysis,874
+kauanejunior,875
+automatic charge,876
+bypass,877
+intersection,878
+annotating,879
+high accuracy,880
+resulting,881
+bigrus,882
+term memory,883
+subclass,884
+binary violation,885
+word,886
+word2vec,887
+encoding,888
+general topical relevance,889
+manner,890
+semantic edge labeling,891
+producing,892
+word model,893
+consistent improvement,894
+resource,895
+same label,896
+legal text,897
+experimenting,898
+classification benchmark,899
+translation quality,900
+full spectrum,901
+current multi label state,902
+fuzzy membership,903
+relevant answer,904
+previous eurlex dataset,905
+legal domain,906
+multi token contract,907
+rnn,908
+amount,909
+decision,910
+deep learning algorithm,911
+detailed information,912
+term,913
+encoded summarization,914
+shot charge,915
+filtering,916
+datum,917
+written summary,918
+bva,919
+treaty design,920
+quality estimation,921
+including,922
+choice,923
+scientific article,924
+gold set,925
+language models,926
+persistent difference,927
+pair,928
+description section,929
+concluded one,930
+local entropy,931
+ex ante,932
+classification precision,933
+name,934
+benefiting,935
+information management,936
+cleaning,937
+machine translation system,938
+neural language models,939
+full text,940
+method,941
+unsatisfactory performance,942
+voice,943
+application,944
+neural machine translation,945
+citation graph,946
+topic modelling,947
+prerequisite,948
+real world,949
+thesauri,950
+public document database,951
+problem,952
+tackling,953
+patent classifier,954
+modificatory provisions,955
+different feature,956
+property organization,957
+entailment,958
+resource kit,959
+legislation knowledge,960
+discourse,961
+database,962
+output,963
+available datum,964
+gensim,965
+transposition,966
+company,967
+multi label text classification,968
+establishing,969
+public document,970
+limited case,971
+replacing cnns,972
+patent knowledge mining,973
+aggregating paragraph,974
+higher accuracy,975
+current investment treaty,976
+law court,977
+human validation,978
+lstm,979
+charge prediction,980
+edit,981
+answering,982
+similarity,983
+finding,984
+world,985
+triple,986
+section,987
+english legal judgment prediction,988
+editing analysis,989
+neural language,990
+extended form,991
+learning method,992
+landmark,993
+text,994
+california billa,995
+kauanejunior corpus,996
+european union,997
+other baseline,998
+linear sliding,999
+automatic feature extraction,1000
+term memory network,1001
+convolutional neural network (cnn),1002
+bgh,1003
+label classification,1004
+engineering,1005
+general implication,1006
+encoding document,1007
+retrieving supporting case,1008
+showing,1009
+unseen query,1010
+source resource,1011
+consuming,1012
+summarizing,1013
+current algorithm,1014
+extraction task,1015
+criminal case,1016
+anonymization,1017
+hierarchical version,1018
+baseline svm,1019
+selected treaty design,1020
+english legal judgment prediction dataset,1021
+scoring framework,1022
+containing,1023
+cascade,1024
+domain knowledge,1025
+operating,1026
+appearing,1027
+legal production,1028
+accuracy,1029
+result,1030
+patent classification,1031
+sense,1032
+further research,1033
+reference,1034
+boosting algorithm,1035
+syntactic similarity,1036
+text classification,1037
+processing,1038
+ruling case,1039
+experience,1040
+entity recognition,1041
+similarity search,1042
+speed similarity search,1043
+deep learning approach,1044
+legal content,1045
+ability,1046
+quest,1047
+latent,1048
+civil law,1049
+extending,1050
+test corpus,1051
+treaty,1052
+information retrieval task,1053
+article,1054
+field model,1055
+news,1056
+engine,1057
+improvement,1058
+tax law,1059
+various frame,1060
+case importance,1061
+recurrent neural networks,1062
+neural baseline,1063
+corresponding entity,1064
+mapping,1065
+collection,1066
+training,1067
+size,1068
+precision,1069
+architecture,1070
+confusing charge,1071
+summary,1072
+discriminative legal attribute,1073
+cluster,1074
+complex nature,1075
+memory network,1076
+information extraction,1077
+source resource kit,1078
+scale case law,1079
+existing solution,1080
+art patent classifier,1081
+nature,1082
+administrative adjudication,1083
+appellate court decision,1084
+mission,1085
+growing,1086
+using ranking,1087
+domain name,1088
+frame,1089
+classifier,1090
+further improvement,1091
+new sophisticated way,1092
+search,1093
+judge,1094
+extraction,1095
+website,1096
+better model,1097
+automated identification,1098
+experiment,1099
+janeiro jurisprudence database,1100
+dynamic topic model,1101
+previous administrative decision,1102
+code,1103
+support tool,1104
+retrieving supporting,1105
+prediction,1106
+support,1107
+analysis,1108
+extensive evaluation,1109
+information retrieval component,1110
+machine translation dataset,1111
+related concept,1112
+genuine real world utility,1113
+answerability,1114
+treaty language,1115
+speech,1116
+neural language model,1117
+combined solution,1118
+various body,1119
+vector,1120
+proof,1121
+network,1122
+concept system,1123
+phrase,1124
+ambiguity,1125
+summarization,1126
+sliding,1127
+combined tf,1128
+semantic edge,1129
+clustering,1130
+corresponding,1131
+modeling,1132
+contextual feature,1133
+model,1134
+relationship,1135
+crucial role,1136
+phase,1137
+specialized ir task,1138
+exam,1139
+neural machine,1140
+raw utility patent,1141
+system,1142
+standard cluster,1143
+art quality estimation,1144
+vector machine,1145
+court decision,1146
+citizen,1147
+called intersection,1148
+case,1149
+importance prediction,1150
+veteran appeal,1151
+improved system,1152
+administrative process,1153
+legal bar,1154
+translation dataset,1155
+theme classification approach,1156
+legal citation,1157
+proposed cluster,1158
+real world utility,1159
+original reference,1160
+union,1161
+dsca,1162
+survey,1163
+modification,1164
+paragraph level,1165
+robot,1166
+comprise,1167
+representation,1168
+contract element,1169
+bert,1170
+demographic information,1171
+different clustering,1172
+contract,1173
+china,1174
+u.s,1175
+performance,1176
+customer,1177
+billa,1178
+novel model,1179
+legal task,1180
+generation,1181
+lower entropy,1182
+proposed approach,1183
+new dataset,1184
+aspect,1185
+multilingual legal corpus,1186
+svm,1187
+argumentative sentence,1188
+collection process,1189
+year,1190
+signal,1191
+human accuracy,1192
+baseline result,1193
+common law,1194
+page,1195
+annotating sentence,1196
+policy,1197
+appellate court,1198
+multilingual test corpus,1199
+extensive experiment,1200
+svm information retrieval component,1201
+classification,1202
+evaluating,1203
+learning model,1204
+japan,1205
+proposed modification,1206
+tokenized using,1207
+content,1208
+conditional random field,1209
+open public dataset,1210
+united state,1211
+reference translation,1212
+lower court judge,1213
+preference,1214
+recurrent neural network,1215
+multi label classification,1216
+research,1217
+label text classification,1218
+auxiliary corpus,1219
+inducing,1220
+extreme multi label text,1221
+legal document,1222
+employing ranking svm,1223
+named entity,1224
+case retrieval task,1225
+case summarization,1226
+traditional machine,1227
+professional translator,1228
+annotator,1229
+technical domain,1230
+parallel english,1231
+eurovoc,1232
+assignment,1233
+label legal text,1234
+human performance,1235
+legal information retrieval,1236
+attentive charge prediction model,1237
+legal assistant,1238
+semantics,1239
+experimental dataset,1240
+limitation,1241
+english legal judgment,1242
+court case,1243
+document representation,1244
+treaty design benchmark,1245
+difference,1246
+ad,1247
+manual task,1248
+paper,1249
+lack,1250
+information processing,1251
+judgment prediction,1252
+provider,1253
+coliee,1254
+hierarchical attention,1255
+legal information extraction,1256
+argument,1257
+ranking svm information,1258
+human reference,1259
+mining,1260
+jurisdiction,1261
+feasibility,1262
+automatic semantic edge,1263
