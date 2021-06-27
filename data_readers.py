@@ -130,11 +130,11 @@ def read_df(file_name, vocabulary, n_docs=None):
         for l in lines:
             line = l.split(sep=',')
             term = line[1]
-            idx = line[0]
+            idx = int(line[0])
             if idx != vocabulary[term]:
                 raise RuntimeError(
                     f"There is a discrepancy in the index of the |{term}| term. "
-                    "Vocabulary index: {vocabulary[term]}; File index: {idx}")
+                    f"Vocabulary index: {vocabulary[term]}; File index: {idx}")
             if n_docs:
                 df[idx] = float(line[2]) / n_docs
             else:
