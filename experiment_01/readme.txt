@@ -1,0 +1,1 @@
+This experiment aims to perform the query formulation using tokens (1-gram) as terms.
