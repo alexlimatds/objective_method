@@ -135,6 +135,7 @@ class TermSelector:
         if np.array_equal(q_array, k_q):
           query_terms[cat_idx].remove(term)
     self.query_terms = query_terms
+    self.query_array = self.__query_array__(query_terms, occurrence_matrix)
 
     # Creating string representation of the final query
     self.query = '(' + ') AND ('.join([' OR '.join(t) for t in self.query_terms]) + ')'
@@ -156,7 +157,7 @@ class TermSelector:
     # building query array    
     q_array = arrays[0]
     for i in range(1, n_categories):
-      q_array = np.logical_and(q_array, arrays[i]),
+      q_array = np.logical_and(q_array, arrays[i])
     
     return q_array
 
