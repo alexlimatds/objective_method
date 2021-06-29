@@ -1,29 +1,23 @@
-import pandas as pd
-import numpy as np
+from experiment import Experiment
 
-import data_readers
-from terms_selector import TermSelector
-from terms_vectorization import BertVectorizer
+experiment = Experiment(
+  "extracted_terms-seed_set-token.csv", 
+  "seed_set.csv", 
+  "population_set_ieee.csv", 
+  "extracted_terms_df-seed_set-token.csv", 
+  "extracted_terms_df-population_set-token.csv", 
+  "occurrence_matrix-seed_set-token.csv", 
+  [
+    ["deep learning", "neural network"], 
+    ["legal", "law"]
+  ], 
+  [.05, .10, .15, .20, .25, .30], 
+  [.001, .01, .02, .05, .10, .20]
+)
+report = experiment.run()
 
-vocabulary = data_readers.read_vocabulary("extracted_terms-seed_set-token.csv")
+rep_file_name = f"experiment_01/report-{experiment.timestamp.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.txt"
+with open(rep_file_name, 'w') as rep_file:
+  rep_file.write(report)
 
-dev_set = pd.read_csv('seed_set.csv')
-len_dev_set = dev_set.shape[0]
-dev_df = data_readers.read_df("extracted_terms_df-seed_set-token.csv", vocabulary, n_docs=len_dev_set)
-dev_occur_matrix = np.loadtxt("occurrence_matrix-seed_set-token.csv")
-
-population_set = pd.read_csv('population_set_ieee.csv')
-len_pop_set = population_set.shape[0]
-pof_df = data_readers.read_df("extracted_terms_df-population_set-token.csv", vocabulary, n_docs=len_pop_set)
-
-category_terms = [
-  ["deep learning", "neural network"], 
-  ["legal", "law"]]
-term_vectorizer = BertVectorizer()
-
-# TODO grid search
-selector = TermSelector(vocabulary, dev_df, 0.2, pof_df, 0.02)
-selector.categorize_terms(category_terms, term_vectorizer.get_embeddings)
-query = selector.build_query(dev_occur_matrix)
-
-print(f'Done! Resulting query: {query}')
+print(f'Done!')
