@@ -1,0 +1,1 @@
+This experiment aims to perform the query formulation using noun phrases as terms.
