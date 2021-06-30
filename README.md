@@ -1,2 +1,3 @@
-# bracis_2021
-Code for the paper submmited to BRACIS 2021.
+# SLR Query Builder
+
+This project aims to develop tools able to aid researchers in creating queries for the execution of Systematic Literature Reviews or Systematic Literature Mappings.
