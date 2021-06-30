@@ -1,0 +1,189 @@
+Experiment Report
+-----------------
+2021/06/30 - 13:57:32
+Vocabulary path:      extracted_terms-seed_set-token.csv
+Development set path: seed_set.csv
+Population set path:  population_set_ieee.csv
+Development DF path:  extracted_terms_df-seed_set-token.csv
+Population DF path:   extracted_terms_df-population_set-token.csv
+Development occurrence matrix path: occurrence_matrix-seed_set-token.csv
+
+Development threshold: 0.05
+Population threshold: 0.001
+Generated query: (token OR generation OR according OR speech OR summary OR bert OR filter OR supervised OR overall OR combined OR cnn OR annotation OR word2vec OR parallel) AND (legislation OR administrative OR argumentative OR ranking OR entire OR search OR publicly OR release OR utility OR hoc OR identifying OR supreme OR code OR opinion OR lexical)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.05
+Population threshold: 0.01
+Generated query: (generation OR according OR speech OR summary OR bert OR extract OR especially OR filter OR supervised OR overall OR cnn OR i.e. OR annotation OR word2vec OR parallel) AND (argumentative OR benefit OR ranking OR entire OR building OR release OR utility OR hoc OR describe OR identifying OR considered OR textual OR supreme OR code OR infer OR lexical)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.05
+Population threshold: 0.02
+Generated query: (generation OR real OR speech OR bert OR extract OR especially OR developed OR filter OR supervised OR overall OR cnn OR combining OR i.e. OR annotation OR word2vec OR parallel OR graph) AND (argumentative OR ranking OR entire OR building OR release OR hoc OR tested OR identifying OR considered OR textual OR data OR supreme OR still OR infer OR lexical)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.05
+Population threshold: 0.05
+Generated query: (modeling OR real OR speech OR bert OR extract OR especially OR developed OR filter OR supervised OR overall OR cnn OR combining OR i.e. OR annotation OR word2vec OR parallel OR graph) AND (ranking OR entire OR building OR consider OR hoc OR here OR potential OR considered OR textual OR brazilian OR data OR design OR still OR infer OR opinion OR lexical)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.05
+Population threshold: 0.1
+Generated query: (modeling OR real OR bert OR extract OR developed OR various OR filter OR supervised OR time OR overall OR cnn OR combining OR i.e. OR word2vec OR parallel OR graph) AND (ranking OR entire OR building OR consider OR hoc OR here OR potential OR considered OR textual OR brazilian OR data OR design OR still OR infer OR opinion OR lexical)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.05
+Population threshold: 0.2
+Generated query: (modeling OR real OR bert OR extract OR developed OR various OR filter OR supervised OR time OR overall OR cnn OR combining OR i.e. OR word2vec OR parallel OR graph) AND (ranking OR entire OR building OR consider OR hoc OR here OR potential OR considered OR textual OR brazilian OR data OR design OR still OR infer OR opinion OR lexical)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.1
+Population threshold: 0.001
+Generated query: (dataset OR corpus OR token OR train OR svm OR clustering) AND (legal OR legislation OR manually)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.1
+Population threshold: 0.01
+Generated query: (corpus OR predicting OR token OR challenging OR mining OR evaluation OR train OR few OR latent OR svm OR random) AND (text OR framework OR traditional OR concept OR difficult OR nature OR paragraph OR address OR query OR quality)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.1
+Population threshold: 0.02
+Generated query: (novel OR embeddings OR multi OR evaluation OR train OR few OR previously OR latent OR svm OR recognition OR expert) AND (suggest OR manually OR traditional OR public OR includes OR concept OR difficult OR paragraph OR address OR query OR quality OR outcome)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.1
+Population threshold: 0.05
+Generated query: (novel OR embeddings OR multi OR evaluation OR train OR few OR previously OR latent OR svm OR expert OR recently OR promising) AND (better OR public OR concept OR difficult OR nature OR generated OR paragraph OR address OR query OR tool OR common OR including OR outcome)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.1
+Population threshold: 0.1
+Generated query: (novel OR embeddings OR multi OR evaluation OR train OR few OR previously OR latent OR svm OR expert OR recently OR promising) AND (all OR concept OR difficult OR nature OR generated OR paragraph OR address OR or OR decision OR tool OR common OR including OR outcome)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.1
+Population threshold: 0.2
+Generated query: (novel OR embeddings OR multi OR evaluation OR train OR few OR previously OR latent OR svm OR expert OR recently OR promising) AND (concept OR nature OR its OR generated OR paragraph OR address OR or OR decision OR common OR general OR including OR outcome)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.15
+Population threshold: 0.001
+Generated query: (dataset OR corpus OR classifier OR convolutional OR automatically OR predicting) AND (legal OR identify OR evaluated OR legislation)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.15
+Population threshold: 0.01
+Generated query: (dataset OR corpus OR classifier OR convolutional OR automatically OR predicting) AND (text OR document OR further OR evaluated OR additional OR content OR legislation)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.15
+Population threshold: 0.02
+Generated query: (corpus OR art OR retrieval OR automatically OR accuracy OR improvement OR predicting) AND (text OR further OR make OR experimental OR additional OR content)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.15
+Population threshold: 0.05
+Generated query: (complex OR art OR sentence OR similarity OR retrieval OR novel OR large OR automatically OR accuracy OR improvement) AND (explore OR given OR additional OR knowledge OR written OR legislation OR test OR semantic)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.15
+Population threshold: 0.1
+Generated query: (representation OR consists OR similarity OR novel OR classification OR large OR automatically OR accuracy OR improvement OR predicting) AND (given OR over OR not OR level OR resource OR written OR legislation OR test OR framework OR natural)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.15
+Population threshold: 0.2
+Generated query: (representation OR consists OR similarity OR novel OR classification OR large OR automatically OR accuracy OR improvement OR predicting) AND (given OR was OR not OR level OR written OR legislation OR test OR framework OR about)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.2
+Population threshold: 0.001
+Generated query: (dataset OR corpus) AND (legal)
+Development set coverture: 61.54% (16 out of 26 documents) 
+
+Development threshold: 0.2
+Population threshold: 0.01
+Generated query: (dataset OR corpus) AND (legal OR yet)
+Development set coverture: 69.23% (18 out of 26 documents) 
+
+Development threshold: 0.2
+Population threshold: 0.02
+Generated query: (task OR dataset OR machine OR corpus) AND (legal OR yet)
+Development set coverture: 88.46% (23 out of 26 documents) 
+
+Development threshold: 0.2
+Population threshold: 0.05
+Generated query: (network OR corpus OR high OR processing OR propose) AND (text OR human OR previous OR yet OR law OR explore)
+Development set coverture: 96.15% (25 out of 26 documents) 
+
+Development threshold: 0.2
+Population threshold: 0.1
+Generated query: (network OR corpus OR high OR processing OR propose) AND (previous OR use OR different OR yet OR law OR one)
+Development set coverture: 96.15% (25 out of 26 documents) 
+
+Development threshold: 0.2
+Population threshold: 0.2
+Generated query: (network OR corpus OR high OR processing OR propose) AND (also OR show OR yet OR law OR two OR one OR explore)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.25
+Population threshold: 0.001
+Generated query: (dataset OR corpus) AND (legal)
+Development set coverture: 61.54% (16 out of 26 documents) 
+
+Development threshold: 0.25
+Population threshold: 0.01
+Generated query: (dataset OR corpus) AND (legal OR document)
+Development set coverture: 65.38% (17 out of 26 documents) 
+
+Development threshold: 0.25
+Population threshold: 0.02
+Generated query: (task OR dataset OR machine OR corpus) AND (legal OR document)
+Development set coverture: 84.62% (22 out of 26 documents) 
+
+Development threshold: 0.25
+Population threshold: 0.05
+Generated query: (network OR word OR machine OR corpus OR proposed) AND (text OR domain OR information OR human OR different)
+Development set coverture: 96.15% (25 out of 26 documents) 
+
+Development threshold: 0.25
+Population threshold: 0.1
+Generated query: (network OR corpus OR proposed OR deep OR datum) AND (text OR domain OR information OR case OR use)
+Development set coverture: 96.15% (25 out of 26 documents) 
+
+Development threshold: 0.25
+Population threshold: 0.2
+Generated query: (network OR corpus OR proposed OR deep OR datum) AND (domain OR which OR previous OR case OR use OR also OR show)
+Development set coverture: 100.00% (26 out of 26 documents) 
+
+Development threshold: 0.3
+Population threshold: 0.001
+Generated query: (dataset OR corpus) AND (legal)
+Development set coverture: 61.54% (16 out of 26 documents) 
+
+Development threshold: 0.3
+Population threshold: 0.01
+Generated query: (dataset OR corpus) AND (legal OR document)
+Development set coverture: 65.38% (17 out of 26 documents) 
+
+Development threshold: 0.3
+Population threshold: 0.02
+Generated query: (task OR dataset OR machine OR corpus) AND (legal OR document)
+Development set coverture: 84.62% (22 out of 26 documents) 
+
+Development threshold: 0.3
+Population threshold: 0.05
+Generated query: (network OR word OR machine OR corpus OR proposed) AND (text OR document OR information OR human)
+Development set coverture: 96.15% (25 out of 26 documents) 
+
+Development threshold: 0.3
+Population threshold: 0.1
+Generated query: (network OR work OR machine OR corpus OR proposed) AND (text OR document OR information OR human)
+Development set coverture: 96.15% (25 out of 26 documents) 
+
+Development threshold: 0.3
+Population threshold: 0.2
+Generated query: (network OR work OR machine OR corpus OR proposed) AND (can OR document OR than OR information OR previous)
+Development set coverture: 100.00% (26 out of 26 documents) 
